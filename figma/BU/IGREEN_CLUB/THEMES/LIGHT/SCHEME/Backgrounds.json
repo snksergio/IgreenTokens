@@ -1,0 +1,12 @@
+{
+  "igreen": {
+    "scheme": {
+      "bg": {
+        "primary": {
+          "$type": "color",
+          "$value": "{igreen.scheme.primary}"
+        }
+      }
+    }
+  }
+}

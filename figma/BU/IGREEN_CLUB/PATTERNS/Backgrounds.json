@@ -1,0 +1,14 @@
+{
+  "igreen": {
+    "regular": {
+      "bg": {
+        "primary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.primary}"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "GLOBAL/Primitives",
+    "BU/IGREEN_CLUB/CORE/Colors",
+    "BU/IGREEN_CLUB/CORE/Modifiers",
+    "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds",
+    "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds",
+    "BU/IGREEN_CLUB/COMPS/Button/Desktop",
+    "BU/IGREEN_CLUB/COMPS/Button/Mobile",
+    "BU/IGREEN_CLUB/PATTERNS/Backgrounds",
+    "COMPONENTS/Button"
+  ]
+}

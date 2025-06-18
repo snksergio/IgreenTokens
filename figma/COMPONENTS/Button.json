@@ -1,0 +1,18 @@
+{
+  "igreen": {
+    "button": {
+      "bg": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.primary}"
+          }
+        }
+      }
+    }
+  },
+  "teste": {
+    "$type": "sizing",
+    "$value": "{igreen.button.base.height.lg}"
+  }
+}

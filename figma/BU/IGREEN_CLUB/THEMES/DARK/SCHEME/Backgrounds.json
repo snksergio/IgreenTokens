@@ -1,0 +1,21 @@
+{
+  "igreen": {
+    "scheme": {
+      "bg": {
+        "primary": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{igreen.state.modifier-ammount.hover} ",
+                "space": "hsl"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{igreen.scheme.primary}"
+        }
+      }
+    }
+  }
+}
