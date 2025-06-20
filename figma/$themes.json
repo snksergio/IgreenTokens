@@ -4,9 +4,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL/Primitives": "enabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Desktop": "disabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Mobile": "disabled"
+      "GLOBAL/Primitives_TW": "enabled"
     },
     "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:11:210",
@@ -218,14 +216,12 @@
     "id": "tailwindcss-mode 1",
     "name": "Igreen Club - Light",
     "selectedTokenSets": {
-      "GLOBAL/Primitives": "source",
       "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Desktop": "disabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Mobile": "disabled"
+      "GLOBAL/Primitives_TW": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "igreen.scheme.bg.primary": "aba194345d05d86695543f34cf4e7d05ab480d6a"
+      "igreen.scheme.bg.primary.base": "aba194345d05d86695543f34cf4e7d05ab480d6a"
     },
     "$figmaModeId": "11:8",
     "$figmaCollectionId": "VariableCollectionId:11:211",
@@ -237,14 +233,12 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "enabled",
-      "GLOBAL/Primitives": "source",
-      "BU/IGREEN_CLUB/COMPS/Forms/Desktop": "disabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Mobile": "disabled"
+      "GLOBAL/Primitives_TW": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:11:211",
     "$figmaModeId": "11:9",
     "$figmaVariableReferences": {
-      "igreen.scheme.bg.primary": "aba194345d05d86695543f34cf4e7d05ab480d6a"
+      "igreen.scheme.bg.primary.base": "aba194345d05d86695543f34cf4e7d05ab480d6a"
     },
     "group": "Igreen Club - Themes"
   },
@@ -253,16 +247,12 @@
     "name": "All",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL/Primitives": "source",
-      "COMPONENTS/Button": "enabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Desktop": "disabled",
-      "BU/IGREEN_CLUB/COMPS/Forms/Mobile": "disabled"
+      "GLOBAL/Primitives_TW": "source",
+      "COMPONENTS/GLOBALS/Button/Desktop": "enabled"
     },
     "group": "Components",
     "$figmaCollectionId": "VariableCollectionId:11:413",
     "$figmaModeId": "11:10",
-    "$figmaVariableReferences": {
-      "igreen.button.bg.enabled.default": "366de06fa59fef86591fddc8c12c1b0dcb055eb5"
-    }
+    "$figmaVariableReferences": {}
   }
 ]

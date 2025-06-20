@@ -1,13 +1,17 @@
 {
   "tokenSetOrder": [
+    "GLOBAL/Primitives_TW",
     "GLOBAL/Primitives",
+    "GLOBAL/Foundations",
     "BU/IGREEN_CLUB/CORE/Colors",
-    "BU/IGREEN_CLUB/CORE/Modifiers",
     "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds",
     "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds",
     "BU/IGREEN_CLUB/COMPS/Forms/Desktop",
     "BU/IGREEN_CLUB/COMPS/Forms/Mobile",
-    "BU/IGREEN_CLUB/PATTERNS/Backgrounds",
-    "COMPONENTS/Button"
+    "BU/PATTERNS/States",
+    "BU/PATTERNS/Backgrounds",
+    "COMPONENTS/GLOBALS/Button/Core",
+    "COMPONENTS/GLOBALS/Button/Desktop",
+    "COMPONENTS/GLOBALS/Button/Mobile"
   ]
 }

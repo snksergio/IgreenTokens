@@ -1,0 +1,134 @@
+{
+  "igreen": {
+    "size": {
+      "xs": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.8}"
+      },
+      "sm": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.10}"
+      },
+      "md": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.12}"
+      },
+      "lg": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.13}"
+      },
+      "xl": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.14}"
+      },
+      "2xl": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.16}"
+      }
+    },
+    "scheme": {
+      "mod-amount": {
+        "0": {
+          "$type": "other",
+          "$value": "0"
+        },
+        "1": {
+          "$type": "other",
+          "$value": "0.10"
+        },
+        "2": {
+          "$type": "other",
+          "$value": "0.20"
+        },
+        "3": {
+          "$type": "other",
+          "$value": "0.30"
+        },
+        "4": {
+          "$type": "other",
+          "$value": "0.40"
+        },
+        "5": {
+          "$type": "other",
+          "$value": "0.50"
+        },
+        "6": {
+          "$type": "other",
+          "$value": "0.60"
+        },
+        "7": {
+          "$type": "other",
+          "$value": "0.70"
+        },
+        "8": {
+          "$type": "other",
+          "$value": "0.80"
+        },
+        "9": {
+          "$type": "other",
+          "$value": "0.90"
+        },
+        "10": {
+          "$type": "other",
+          "$value": "1"
+        }
+      }
+    },
+    "gap": {
+      "0": {
+        "$type": "spacing",
+        "$value": "0"
+      },
+      "xs2": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.1}"
+      },
+      "xs": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.2}"
+      },
+      "sm": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.3}"
+      },
+      "md": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.4}"
+      },
+      "lg": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.5}"
+      },
+      "xl": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.6}"
+      },
+      "xl2": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.7}"
+      },
+      "xl3": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.8}"
+      },
+      "g": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.12}"
+      },
+      "auto": {
+        "$type": "spacing",
+        "$value": "AUTO"
+      }
+    },
+    "color": {
+      "white": {
+        "$type": "color",
+        "$value": "#FFF"
+      },
+      "black": {
+        "$type": "color",
+        "$value": "#000"
+      }
+    }
+  }
+}

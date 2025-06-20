@@ -3,8 +3,36 @@
     "scheme": {
       "bg": {
         "primary": {
-          "$type": "color",
-          "$value": "{igreen.scheme.primary}"
+          "base": {
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
+          },
+          "soft": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.9} ",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
+          },
+          "soft-copy": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2} ",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
+          }
         }
       }
     }

@@ -1,0 +1,27 @@
+{
+  "igreen": {
+    "regular": {
+      "bg": {
+        "primary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.primary.base}"
+          },
+          "hover": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.state.mod.hover} ",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.primary.base}"
+          }
+        }
+      }
+    }
+  }
+}

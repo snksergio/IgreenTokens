@@ -7,13 +7,13 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{igreen.state.modifier-ammount.hover} ",
+                "value": "{igreen.state.mod.hover} ",
                 "space": "hsl"
               }
             }
           },
           "$type": "color",
-          "$value": "{igreen.scheme.primary}"
+          "$value": "{igreen.scheme.primary.base}"
         }
       }
     }

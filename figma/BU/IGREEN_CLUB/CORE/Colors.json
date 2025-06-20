@@ -2,8 +2,10 @@
   "igreen": {
     "scheme": {
       "primary": {
-        "$type": "color",
-        "$value": "#00B22A"
+        "base": {
+          "$type": "color",
+          "$value": "#00B22A"
+        }
       }
     }
   }

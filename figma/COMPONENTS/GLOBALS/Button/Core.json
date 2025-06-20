@@ -1,0 +1,12 @@
+{
+  "igreen": {
+    "button": {
+      "base": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{igreen.gap.sm}"
+        }
+      }
+    }
+  }
+}

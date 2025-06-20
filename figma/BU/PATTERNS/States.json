@@ -1,0 +1,16 @@
+{
+  "igreen": {
+    "state": {
+      "mod": {
+        "focus": {
+          "$type": "other",
+          "$value": "{igreen.scheme.mod-amount.1}"
+        },
+        "hover": {
+          "$type": "other",
+          "$value": "{igreen.scheme.mod-amount.3}"
+        }
+      }
+    }
+  }
+}
