@@ -1,0 +1,30 @@
+{
+  "igreen": {
+    "forms": {
+      "base": {
+        "height": {
+          "xs": {
+            "$type": "sizing",
+            "$value": "32"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "42"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "48"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "52"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "64"
+          }
+        }
+      }
+    }
+  }
+}

@@ -8,11 +8,31 @@
             "$value": "{igreen.scheme.bg.primary}"
           }
         }
+      },
+      "base": {
+        "height": {
+          "xs": {
+            "$type": "sizing",
+            "$value": "{igreen.forms.base.height.xs}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.forms.base.height.sm}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.forms.base.height.md}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.forms.base.height.lg}"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.forms.base.height.xl}"
+          }
+        }
       }
     }
-  },
-  "teste": {
-    "$type": "sizing",
-    "$value": "{igreen.button.base.height.lg}"
   }
 }
