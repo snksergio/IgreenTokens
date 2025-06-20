@@ -3,17 +3,45 @@
     "scheme": {
       "bg": {
         "primary": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{igreen.state.mod.hover} ",
-                "space": "hsl"
+          "base": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.6} ",
+                  "space": "lch"
+                }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
           },
-          "$type": "color",
-          "$value": "{igreen.scheme.primary.base}"
+          "soft": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.9} ",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
+          },
+          "soft-copy": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2} ",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.primary.base}"
+          }
         }
       }
     }

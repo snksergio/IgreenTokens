@@ -21,7 +21,7 @@
           },
           "xl": {
             "$type": "sizing",
-            "$value": "{igreen.size.xl}"
+            "$value": "120px"
           }
         }
       }
