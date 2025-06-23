@@ -7,28 +7,28 @@
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:51:153",
-    "$figmaModeId": "51:5",
+    "$figmaCollectionId": "VariableCollectionId:70:164",
+    "$figmaModeId": "70:5",
     "$figmaVariableReferences": {
-      "igreen.size.xs": "e012a9d7c5be9f27ea041e007993dc6d2ced82dd",
-      "igreen.size.sm": "d8ff8bf0574db7a801d1515af1a060f8a1776bac",
-      "igreen.size.md": "4378026a8930b19ff3f123472d390a9178455dba",
-      "igreen.size.lg": "bb5df77ba543bcd7bc47c37320f6fe084a5900b0",
-      "igreen.size.xl": "2b2aee8b95dd6590732f920f90be4b3cef04d594",
-      "igreen.size.2xl": "8ca21a58c0f9bcd1ecad1325f74a40c765350f0e",
-      "igreen.gap.0": "4573023cab37943b5e47a4559eda1aa18bf8752b",
-      "igreen.gap.xs2": "7d22c581928d2b9dcc657ce1fad31eaf9ebf80d2",
-      "igreen.gap.xs": "f3aba3f5d1ff919093992812c2e843cea4da06a2",
-      "igreen.gap.sm": "588105032a47f0834fbe01f2f852d3915bdb486f",
-      "igreen.gap.md": "92730d005fe192ff823d2c96d9073df369e54031",
-      "igreen.gap.lg": "257b783f46ff6603c467d9344640ff83653912b3",
-      "igreen.gap.xl": "b89e166ba1bc55137a26757208f45fe62390b73e",
-      "igreen.gap.xl2": "f7669426e9361f97c1f2cec68434f43c2821b10c",
-      "igreen.gap.xl3": "38d79a43f3245a75d5437b9e00f90fc9dbd0e362",
-      "igreen.gap.g": "ed8a5685c9f27bf51465bbd05d7431d39daa712f",
-      "igreen.gap.auto": "49b10ea6420661e49b79b295c65ed87ab036c9af",
-      "igreen.color.white": "6ccaf4042966ab589d7ca45a62b4edc5c9fd0ec9",
-      "igreen.color.black": "b07eb60462375db4f0320fe1b84f91eff9647b09"
+      "igreen.size.xs": "f7d9f87b3d1bea125d113c2d66e632d51d078925",
+      "igreen.size.sm": "b8ec081b48dee6abf21cfc22c3052575d0c7d034",
+      "igreen.size.md": "70f7d048355ab86513296aa0f55c0912444dbd19",
+      "igreen.size.lg": "c5eb57253d1a2fe335b3ae77b3fa2787d8444487",
+      "igreen.size.xl": "29158669c7acb19efac2292a1a38ec80d8ba74b3",
+      "igreen.size.2xl": "6ab9e05a37264c5c897523b680c5f811dc8b2494",
+      "igreen.gap.0": "ac81d91c71f6b5dda85a460a710595ff872a689e",
+      "igreen.gap.xs2": "74a2381b69b4a97f17c326fe70f2417302ff6cc9",
+      "igreen.gap.xs": "ed29ee8827bbb4340bbc4099e075f262aa9f3765",
+      "igreen.gap.sm": "2523cd861208d3140f5451063490dd6ca700a874",
+      "igreen.gap.md": "13ad975d1327baaeb3323498486b41db63fc9a14",
+      "igreen.gap.lg": "61cee9e36763586694d124133ae8177cd503b37c",
+      "igreen.gap.xl": "23fc4a7ff06d719ba7c24abb7cdfa6c815977493",
+      "igreen.gap.xl2": "f5c485e782218f16786cef16282c442189bf9d6e",
+      "igreen.gap.xl3": "9ff8f8dfdacf06b95eae0fd3f12b133300f21ecf",
+      "igreen.gap.g": "ea362cf29c2449ad1e904cf4180f7802671fbaa3",
+      "igreen.gap.auto": "1feed9937858b3ce5ca0ac0c69732972be70531d",
+      "igreen.color.white": "62427ba3ed14196bac677ec552bba0c754b68f74",
+      "igreen.color.black": "de9c5224c10657d0548b053593017edfea1bb4a4"
     },
     "group": "Core"
   },
@@ -40,15 +40,21 @@
       "GLOBAL/Primitives_TW": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/CORE/Colors": "source"
+      "BU/IGREEN_CLUB/CORE/Colors": "source",
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "igreen.regular.bg.primary.enabled": "44a89a715a966333d6c6ed15df987990beb4b2b0",
-      "igreen.regular.bg.primary.hover": "b79115acf1d50b8425a0d627b9e679ecedad3d86"
+      "igreen.regular.bg.primary.enabled": "89d09b20a51baa37c7425b943922665ab2d2261f",
+      "igreen.regular.bg.primary.hover": "75f1ebf2138bcc9c007a18ff6c6ad3a384617492",
+      "igreen.regular.bg.surface-main.enabled": "999719e2f8fab6127d80ab8f3342afa96ff38817",
+      "igreen.regular.bg.surface-main.hover": "ddc30ed02a8a0f3a950e4c9d79e6f2e68149cae7",
+      "igreen.fg.medium.enabled.default": "c816bac043394bc2aacf571c8d4892efd42de714",
+      "igreen.fg.medium.enabled.inverse": "a2c11d65f075181d34b7c3042ca2095b620ad69d"
     },
-    "$figmaModeId": "51:6",
-    "$figmaCollectionId": "VariableCollectionId:51:154",
+    "$figmaModeId": "70:6",
+    "$figmaCollectionId": "VariableCollectionId:70:165",
     "group": "Igreen Club - Themes"
   },
   {
@@ -61,13 +67,18 @@
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
+      "BU/PATTERNS/Foregrounds": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:51:154",
-    "$figmaModeId": "51:7",
+    "$figmaCollectionId": "VariableCollectionId:70:165",
+    "$figmaModeId": "70:7",
     "$figmaVariableReferences": {
-      "igreen.regular.bg.primary.enabled": "44a89a715a966333d6c6ed15df987990beb4b2b0",
-      "igreen.regular.bg.primary.hover": "b79115acf1d50b8425a0d627b9e679ecedad3d86"
+      "igreen.regular.bg.primary.enabled": "89d09b20a51baa37c7425b943922665ab2d2261f",
+      "igreen.regular.bg.primary.hover": "75f1ebf2138bcc9c007a18ff6c6ad3a384617492",
+      "igreen.regular.bg.surface-main.enabled": "999719e2f8fab6127d80ab8f3342afa96ff38817",
+      "igreen.regular.bg.surface-main.hover": "ddc30ed02a8a0f3a950e4c9d79e6f2e68149cae7",
+      "igreen.fg.medium.enabled.default": "c816bac043394bc2aacf571c8d4892efd42de714",
+      "igreen.fg.medium.enabled.inverse": "a2c11d65f075181d34b7c3042ca2095b620ad69d"
     },
     "group": "Igreen Club - Themes"
   },
@@ -79,15 +90,15 @@
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
       "COMPONENTS/GLOBALS/Button/Core": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:51:155",
-    "$figmaModeId": "51:8",
+    "$figmaCollectionId": "VariableCollectionId:70:166",
+    "$figmaModeId": "70:8",
     "$figmaVariableReferences": {
-      "igreen.button.base.height.xs": "6837f2219d358be32d9f9768546f0887be6a87b9",
-      "igreen.button.base.height.sm": "01c7c6131753e07e98a43e1227a80a42562ad826",
-      "igreen.button.base.height.md": "f8ae64f1eeb9cf196770c4db9bbb1bb40e571ba0",
-      "igreen.button.base.height.lg": "4591f0d32a6d027d29d5ce042a9661ffe09af5f1",
-      "igreen.button.base.height.xl": "d7c320bf5235257ef13353d8eeba7e70fc3653dc",
-      "igreen.button.base.gap": "5e0ade92cade309e8aa8db947037b9ab9a612a26"
+      "igreen.button.base.height.xs": "0d5730ea101c4bbf82724df74972b1ce3cf3b45c",
+      "igreen.button.base.height.sm": "8b81d3d8a68d2b0ea528b86e60c8bb92e64be956",
+      "igreen.button.base.height.md": "265f4b858c0537586488b3d20842a604f1fb2ff3",
+      "igreen.button.base.height.lg": "0563a2c1b4c8759d5a8f623d8d5574c476a60e2c",
+      "igreen.button.base.height.xl": "84a3c087e4cbb19360ec3a23f96a73bc58e54c8b",
+      "igreen.button.base.gap": "bd643b62936f2714c86a7c1f811582c90ec791ea"
     },
     "group": "Components"
   },
@@ -100,15 +111,15 @@
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled"
     },
     "group": "Components",
-    "$figmaCollectionId": "VariableCollectionId:51:155",
-    "$figmaModeId": "51:9",
+    "$figmaCollectionId": "VariableCollectionId:70:166",
+    "$figmaModeId": "70:9",
     "$figmaVariableReferences": {
-      "igreen.button.base.height.xs": "6837f2219d358be32d9f9768546f0887be6a87b9",
-      "igreen.button.base.height.sm": "01c7c6131753e07e98a43e1227a80a42562ad826",
-      "igreen.button.base.height.md": "f8ae64f1eeb9cf196770c4db9bbb1bb40e571ba0",
-      "igreen.button.base.height.lg": "4591f0d32a6d027d29d5ce042a9661ffe09af5f1",
-      "igreen.button.base.height.xl": "d7c320bf5235257ef13353d8eeba7e70fc3653dc",
-      "igreen.button.base.gap": "5e0ade92cade309e8aa8db947037b9ab9a612a26"
+      "igreen.button.base.height.xs": "0d5730ea101c4bbf82724df74972b1ce3cf3b45c",
+      "igreen.button.base.height.sm": "8b81d3d8a68d2b0ea528b86e60c8bb92e64be956",
+      "igreen.button.base.height.md": "265f4b858c0537586488b3d20842a604f1fb2ff3",
+      "igreen.button.base.height.lg": "0563a2c1b4c8759d5a8f623d8d5574c476a60e2c",
+      "igreen.button.base.height.xl": "84a3c087e4cbb19360ec3a23f96a73bc58e54c8b",
+      "igreen.button.base.gap": "bd643b62936f2714c86a7c1f811582c90ec791ea"
     }
   }
 ]

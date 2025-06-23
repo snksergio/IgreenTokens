@@ -5,11 +5,11 @@
         "enabled": {
           "default": {
             "$type": "color",
-            "$value": "{igreen.scheme.fg.medium.inverse}"
+            "$value": "{igreen.scheme.fg.medium.default}"
           },
           "inverse": {
             "$type": "color",
-            "$value": "{igreen.scheme.fg.medium.default}"
+            "$value": "{igreen.scheme.fg.medium.inverse}"
           }
         }
       }

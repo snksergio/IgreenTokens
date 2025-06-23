@@ -23,30 +23,21 @@
         },
         "surface-main": {
           "enabled": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.10}",
-                  "space": "lch"
-                }
-              }
-            },
             "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            "$value": "{igreen.scheme.bg.surface-main}"
           },
           "hover": {
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.9}",
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.1}",
                   "space": "lch"
                 }
               }
             },
             "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            "$value": "{igreen.scheme.bg.surface-main}"
           }
         }
       }
