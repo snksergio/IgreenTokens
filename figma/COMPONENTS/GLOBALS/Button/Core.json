@@ -3,8 +3,8 @@
     "button": {
       "base": {
         "gap": {
-          "$type": "spacing",
-          "$value": "{igreen.gap.sm}"
+          "value": "{igreen.gap.sm}",
+          "type": "spacing"
         }
       }
     }

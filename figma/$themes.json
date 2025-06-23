@@ -5,10 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "enabled",
-      "BU/PATTERNS/Foregrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
+      "GLOBAL/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:153",
     "$figmaModeId": "51:5",
@@ -43,10 +40,7 @@
       "GLOBAL/Primitives_TW": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/CORE/Colors": "source",
-      "BU/PATTERNS/Foregrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
+      "BU/IGREEN_CLUB/CORE/Colors": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -83,10 +77,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Button/Core": "enabled",
-      "BU/PATTERNS/Foregrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
+      "COMPONENTS/GLOBALS/Button/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:155",
     "$figmaModeId": "51:8",
@@ -106,10 +97,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
-      "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
-      "BU/PATTERNS/Foregrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
+      "COMPONENTS/GLOBALS/Button/Mobile": "enabled"
     },
     "group": "Components",
     "$figmaCollectionId": "VariableCollectionId:51:155",

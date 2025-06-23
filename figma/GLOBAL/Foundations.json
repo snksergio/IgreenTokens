@@ -2,132 +2,132 @@
   "igreen": {
     "size": {
       "xs": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.8}"
+        "value": "{igreen.dimension.8}",
+        "type": "sizing"
       },
       "sm": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.10}"
+        "value": "{igreen.dimension.10}",
+        "type": "sizing"
       },
       "md": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.12}"
+        "value": "{igreen.dimension.12}",
+        "type": "sizing"
       },
       "lg": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.13}"
+        "value": "{igreen.dimension.13}",
+        "type": "sizing"
       },
       "xl": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.14}"
+        "value": "{igreen.dimension.14}",
+        "type": "sizing"
       },
       "2xl": {
-        "$type": "sizing",
-        "$value": "{igreen.dimension.16}"
+        "value": "{igreen.dimension.16}",
+        "type": "sizing"
       }
     },
     "scheme": {
       "mod-amount": {
         "0": {
-          "$type": "other",
-          "$value": "0"
+          "value": "0",
+          "type": "other"
         },
         "1": {
-          "$type": "other",
-          "$value": "0.10"
+          "value": "0.10",
+          "type": "other"
         },
         "2": {
-          "$type": "other",
-          "$value": "0.20"
+          "value": "0.20",
+          "type": "other"
         },
         "3": {
-          "$type": "other",
-          "$value": "0.30"
+          "value": "0.30",
+          "type": "other"
         },
         "4": {
-          "$type": "other",
-          "$value": "0.40"
+          "value": "0.40",
+          "type": "other"
         },
         "5": {
-          "$type": "other",
-          "$value": "0.50"
+          "value": "0.50",
+          "type": "other"
         },
         "6": {
-          "$type": "other",
-          "$value": "0.60"
+          "value": "0.60",
+          "type": "other"
         },
         "7": {
-          "$type": "other",
-          "$value": "0.70"
+          "value": "0.70",
+          "type": "other"
         },
         "8": {
-          "$type": "other",
-          "$value": "0.80"
+          "value": "0.80",
+          "type": "other"
         },
         "9": {
-          "$type": "other",
-          "$value": "0.90"
+          "value": "0.90",
+          "type": "other"
         },
         "10": {
-          "$type": "other",
-          "$value": "1"
+          "value": "1",
+          "type": "other"
         }
       }
     },
     "gap": {
       "0": {
-        "$type": "spacing",
-        "$value": "0"
+        "value": "0",
+        "type": "spacing"
       },
       "xs2": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.1}"
+        "value": "{igreen.dimension.1}",
+        "type": "spacing"
       },
       "xs": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.2}"
+        "value": "{igreen.dimension.2}",
+        "type": "spacing"
       },
       "sm": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.3}"
+        "value": "{igreen.dimension.3}",
+        "type": "spacing"
       },
       "md": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.4}"
+        "value": "{igreen.dimension.4}",
+        "type": "spacing"
       },
       "lg": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.5}"
+        "value": "{igreen.dimension.5}",
+        "type": "spacing"
       },
       "xl": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.6}"
+        "value": "{igreen.dimension.6}",
+        "type": "spacing"
       },
       "xl2": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.7}"
+        "value": "{igreen.dimension.7}",
+        "type": "spacing"
       },
       "xl3": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.8}"
+        "value": "{igreen.dimension.8}",
+        "type": "spacing"
       },
       "g": {
-        "$type": "spacing",
-        "$value": "{igreen.dimension.12}"
+        "value": "{igreen.dimension.12}",
+        "type": "spacing"
       },
       "auto": {
-        "$type": "spacing",
-        "$value": "AUTO"
+        "value": "AUTO",
+        "type": "spacing"
       }
     },
     "color": {
       "white": {
-        "$type": "color",
-        "$value": "#FFF"
+        "value": "#FFF",
+        "type": "color"
       },
       "black": {
-        "$type": "color",
-        "$value": "#000"
+        "value": "#000",
+        "type": "color"
       }
     }
   }

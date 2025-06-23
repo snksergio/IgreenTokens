@@ -3,12 +3,12 @@
     "state": {
       "mod": {
         "focus": {
-          "$type": "other",
-          "$value": "{igreen.scheme.mod-amount.1}"
+          "value": "{igreen.scheme.mod-amount.1}",
+          "type": "other"
         },
         "hover": {
-          "$type": "other",
-          "$value": "{igreen.scheme.mod-amount.3}"
+          "value": "{igreen.scheme.mod-amount.3}",
+          "type": "other"
         }
       }
     }

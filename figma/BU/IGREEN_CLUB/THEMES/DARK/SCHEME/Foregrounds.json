@@ -4,6 +4,8 @@
       "fg": {
         "medium": {
           "default": {
+            "value": "{igreen.scheme.neutral}",
+            "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -12,13 +14,11 @@
                   "space": "lch"
                 }
               }
-            },
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            }
           },
           "inverse": {
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            "value": "{igreen.scheme.neutral}",
+            "type": "color"
           }
         }
       }

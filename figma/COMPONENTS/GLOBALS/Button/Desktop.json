@@ -4,24 +4,24 @@
       "base": {
         "height": {
           "xs": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs}"
+            "value": "{igreen.size.xs}",
+            "type": "sizing"
           },
           "sm": {
-            "$type": "sizing",
-            "$value": "{igreen.size.sm}"
+            "value": "{igreen.size.sm}",
+            "type": "sizing"
           },
           "md": {
-            "$type": "sizing",
-            "$value": "{igreen.size.md}"
+            "value": "{igreen.size.md}",
+            "type": "sizing"
           },
           "lg": {
-            "$type": "sizing",
-            "$value": "{igreen.size.lg}"
+            "value": "{igreen.size.lg}",
+            "type": "sizing"
           },
           "xl": {
-            "$type": "sizing",
-            "$value": "120px"
+            "value": "120px",
+            "type": "sizing"
           }
         }
       }

@@ -4,8 +4,8 @@
       "bg": {
         "primary": {
           "enabled": {
-            "$type": "color",
-            "$value": "{igreen.scheme.bg.primary}"
+            "value": "{igreen.scheme.bg.primary}",
+            "type": "color"
           },
           "hover": {
             "$extensions": {
@@ -17,12 +17,14 @@
                 }
               }
             },
-            "$type": "color",
-            "$value": "{igreen.scheme.bg.primary}"
+            "value": "{igreen.scheme.bg.primary}",
+            "type": "color"
           }
         },
         "surface-main": {
           "enabled": {
+            "value": "{igreen.scheme.neutral}",
+            "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -31,11 +33,11 @@
                   "space": "lch"
                 }
               }
-            },
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            }
           },
           "hover": {
+            "value": "{igreen.scheme.neutral}",
+            "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -44,9 +46,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
+            }
           }
         }
       }
