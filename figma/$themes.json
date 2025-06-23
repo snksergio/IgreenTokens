@@ -37,12 +37,14 @@
     "id": "tailwindcss-mode 1",
     "name": "Club - Light",
     "selectedTokenSets": {
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "enabled",
+      "GLOBAL/Primitives": "source",
+      "GLOBAL/Foundations": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -65,9 +67,11 @@
       "BU/IGREEN_CLUB/CORE/Colors": "enabled",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/PATTERNS/Foregrounds": "enabled"
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "enabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "enabled",
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "GLOBAL/Primitives": "source",
+      "GLOBAL/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:13",
