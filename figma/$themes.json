@@ -36,13 +36,13 @@
     "id": "tailwindcss-mode 1",
     "name": "Light",
     "selectedTokenSets": {
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
       "GLOBAL/Primitives_TW": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/CORE/Colors": "source",
+      "BU/IGREEN_CLUB/CORE/Colors": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -63,11 +63,11 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives_TW": "source",
-      "BU/IGREEN_CLUB/CORE/Colors": "source",
+      "BU/IGREEN_CLUB/CORE/Colors": "enabled",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "enabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:70:165",
@@ -91,12 +91,11 @@
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
+      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "enabled",
       "GLOBAL/Foundations": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "source"
+      "BU/IGREEN_NOVO/CORE/Colors": "enabled"
     },
-    "group": "Igreen Novo - Themes",
     "$figmaCollectionId": "VariableCollectionId:72:66",
     "$figmaModeId": "72:0",
     "$figmaVariableReferences": {
@@ -106,7 +105,8 @@
       "igreen.regular.bg.surface-main.hover": "60dcc49c1b318e12636a0f602308c4c7725c971a",
       "igreen.fg.medium.enabled.default": "27b6786c65cc5e4a85412f07f962b106fb20fc72",
       "igreen.fg.medium.enabled.inverse": "30f3dcda8426e416887adfffa8f2af297047d0d7"
-    }
+    },
+    "group": "Igreen Novo - Themes"
   },
   {
     "id": "bd67f5c77cfe4bafc112724d54d2a1c9d09335c8",
@@ -115,14 +115,13 @@
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "source",
-      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_NOVO/CORE/Colors": "enabled",
+      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Foregrounds": "enabled",
+      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "enabled",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled"
     },
-    "group": "Igreen Novo - Themes",
     "$figmaCollectionId": "VariableCollectionId:72:66",
     "$figmaModeId": "72:1",
     "$figmaVariableReferences": {
@@ -132,7 +131,8 @@
       "igreen.regular.bg.surface-main.hover": "60dcc49c1b318e12636a0f602308c4c7725c971a",
       "igreen.fg.medium.enabled.default": "27b6786c65cc5e4a85412f07f962b106fb20fc72",
       "igreen.fg.medium.enabled.inverse": "30f3dcda8426e416887adfffa8f2af297047d0d7"
-    }
+    },
+    "group": "Igreen Novo - Themes"
   },
   {
     "id": "7d90928dfc9d5c8908f13c46b9885aed2490fc3c",
