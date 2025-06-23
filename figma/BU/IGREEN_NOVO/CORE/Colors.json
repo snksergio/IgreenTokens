@@ -1,0 +1,14 @@
+{
+  "igreen": {
+    "scheme": {
+      "primary": {
+        "$type": "color",
+        "$value": "#9600b3"
+      },
+      "neutral": {
+        "$type": "color",
+        "$value": "#626C75"
+      }
+    }
+  }
+}

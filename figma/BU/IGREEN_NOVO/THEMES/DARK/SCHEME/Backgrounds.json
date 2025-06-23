@@ -1,0 +1,25 @@
+{
+  "igreen": {
+    "scheme": {
+      "bg": {
+        "primary": {
+          "$type": "color",
+          "$value": "{igreen.scheme.primary}"
+        },
+        "surface-main": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{igreen.scheme.mod-amount.8}",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{igreen.scheme.neutral}"
+        }
+      }
+    }
+  }
+}

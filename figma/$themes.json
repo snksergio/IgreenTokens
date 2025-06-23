@@ -34,7 +34,7 @@
   },
   {
     "id": "tailwindcss-mode 1",
-    "name": "Igreen Club - Light",
+    "name": "Light",
     "selectedTokenSets": {
       "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Backgrounds": "source",
       "GLOBAL/Primitives_TW": "source",
@@ -59,7 +59,7 @@
   },
   {
     "id": "4626754e0e589c331d6f593367d2dda4e73ce141",
-    "name": "Igreen Club - Dark",
+    "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives_TW": "source",
@@ -81,6 +81,38 @@
       "igreen.fg.medium.enabled.inverse": "a2c11d65f075181d34b7c3042ca2095b620ad69d"
     },
     "group": "Igreen Club - Themes"
+  },
+  {
+    "id": "99e4fc7c597aec404cb7a742a6e8d8dc3c421eee",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "GLOBAL/Primitives": "source",
+      "BU/PATTERNS/States": "enabled",
+      "BU/PATTERNS/Backgrounds": "enabled",
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
+      "GLOBAL/Foundations": "source",
+      "BU/IGREEN_NOVO/CORE/Colors": "source"
+    },
+    "group": "Igreen Novo - Themes"
+  },
+  {
+    "id": "bd67f5c77cfe4bafc112724d54d2a1c9d09335c8",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "GLOBAL/Primitives": "source",
+      "GLOBAL/Foundations": "source",
+      "BU/IGREEN_NOVO/CORE/Colors": "source",
+      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
+      "BU/PATTERNS/States": "enabled",
+      "BU/PATTERNS/Backgrounds": "enabled",
+      "BU/PATTERNS/Foregrounds": "enabled"
+    },
+    "group": "Igreen Novo - Themes"
   },
   {
     "id": "7d90928dfc9d5c8908f13c46b9885aed2490fc3c",
@@ -110,7 +142,6 @@
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled"
     },
-    "group": "Components",
     "$figmaCollectionId": "VariableCollectionId:70:166",
     "$figmaModeId": "70:9",
     "$figmaVariableReferences": {
@@ -120,6 +151,7 @@
       "igreen.button.base.height.lg": "0563a2c1b4c8759d5a8f623d8d5574c476a60e2c",
       "igreen.button.base.height.xl": "84a3c087e4cbb19360ec3a23f96a73bc58e54c8b",
       "igreen.button.base.gap": "bd643b62936f2714c86a7c1f811582c90ec791ea"
-    }
+    },
+    "group": "Components"
   }
 ]
