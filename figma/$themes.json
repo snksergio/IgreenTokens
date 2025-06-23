@@ -5,7 +5,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "enabled"
+      "GLOBAL/Foundations": "enabled",
+      "BU/PATTERNS/Foregrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:153",
     "$figmaModeId": "51:5",
@@ -40,7 +43,10 @@
       "GLOBAL/Primitives_TW": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/CORE/Colors": "source"
+      "BU/IGREEN_CLUB/CORE/Colors": "source",
+      "BU/PATTERNS/Foregrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -60,7 +66,8 @@
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:51:154",
     "$figmaModeId": "51:7",
@@ -76,7 +83,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Button/Core": "enabled"
+      "COMPONENTS/GLOBALS/Button/Core": "enabled",
+      "BU/PATTERNS/Foregrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:51:155",
     "$figmaModeId": "51:8",
@@ -96,7 +106,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
-      "COMPONENTS/GLOBALS/Button/Mobile": "enabled"
+      "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
+      "BU/PATTERNS/Foregrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "disabled"
     },
     "group": "Components",
     "$figmaCollectionId": "VariableCollectionId:51:155",

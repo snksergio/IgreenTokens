@@ -5,7 +5,7 @@
         "primary": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.scheme.bg.primary.base}"
+            "$value": "{igreen.scheme.bg.primary}"
           },
           "hover": {
             "$extensions": {
@@ -18,7 +18,35 @@
               }
             },
             "$type": "color",
-            "$value": "{igreen.scheme.bg.primary.base}"
+            "$value": "{igreen.scheme.bg.primary}"
+          }
+        },
+        "surface-main": {
+          "enabled": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.10}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "hover": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.9}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
           }
         }
       }
