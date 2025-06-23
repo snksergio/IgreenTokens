@@ -96,7 +96,17 @@
       "GLOBAL/Foundations": "source",
       "BU/IGREEN_NOVO/CORE/Colors": "source"
     },
-    "group": "Igreen Novo - Themes"
+    "group": "Igreen Novo - Themes",
+    "$figmaCollectionId": "VariableCollectionId:72:66",
+    "$figmaModeId": "72:0",
+    "$figmaVariableReferences": {
+      "igreen.regular.bg.primary.enabled": "4db284718bfca181dbe0731e7eb94a239cec019e",
+      "igreen.regular.bg.primary.hover": "43d45920f18698c4a85e8ba4f118ef3fb900f0e7",
+      "igreen.regular.bg.surface-main.enabled": "ba305c3fb9db7bdded70b92adec39be6062b9b02",
+      "igreen.regular.bg.surface-main.hover": "60dcc49c1b318e12636a0f602308c4c7725c971a",
+      "igreen.fg.medium.enabled.default": "27b6786c65cc5e4a85412f07f962b106fb20fc72",
+      "igreen.fg.medium.enabled.inverse": "30f3dcda8426e416887adfffa8f2af297047d0d7"
+    }
   },
   {
     "id": "bd67f5c77cfe4bafc112724d54d2a1c9d09335c8",
@@ -112,7 +122,17 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled"
     },
-    "group": "Igreen Novo - Themes"
+    "group": "Igreen Novo - Themes",
+    "$figmaCollectionId": "VariableCollectionId:72:66",
+    "$figmaModeId": "72:1",
+    "$figmaVariableReferences": {
+      "igreen.regular.bg.primary.enabled": "4db284718bfca181dbe0731e7eb94a239cec019e",
+      "igreen.regular.bg.primary.hover": "43d45920f18698c4a85e8ba4f118ef3fb900f0e7",
+      "igreen.regular.bg.surface-main.enabled": "ba305c3fb9db7bdded70b92adec39be6062b9b02",
+      "igreen.regular.bg.surface-main.hover": "60dcc49c1b318e12636a0f602308c4c7725c971a",
+      "igreen.fg.medium.enabled.default": "27b6786c65cc5e4a85412f07f962b106fb20fc72",
+      "igreen.fg.medium.enabled.inverse": "30f3dcda8426e416887adfffa8f2af297047d0d7"
+    }
   },
   {
     "id": "7d90928dfc9d5c8908f13c46b9885aed2490fc3c",
