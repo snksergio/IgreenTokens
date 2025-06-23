@@ -22,31 +22,22 @@
           }
         },
         "surface-main": {
-          "enabled": {
-            "value": "{igreen.scheme.neutral}",
+          "hover": {
+            "value": "{igreen.scheme.bg.surface-main}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.10}",
+                  "value": "{igreen.scheme.mod-amount.1}",
                   "space": "lch"
                 }
               }
             }
           },
-          "hover": {
-            "value": "{igreen.scheme.neutral}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.9}",
-                  "space": "lch"
-                }
-              }
-            }
+          "enabled": {
+            "value": "{igreen.scheme.bg.surface-main}",
+            "type": "color"
           }
         }
       }
