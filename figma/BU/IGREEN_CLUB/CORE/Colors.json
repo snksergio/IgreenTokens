@@ -3,7 +3,7 @@
     "scheme": {
       "primary": {
         "$type": "color",
-        "$value": "#00B22A"
+        "$value": "#f00"
       },
       "neutral": {
         "$type": "color",
