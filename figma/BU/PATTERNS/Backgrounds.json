@@ -39,6 +39,25 @@
             "$type": "color",
             "$value": "{igreen.scheme.bg.surface-main}"
           }
+        },
+        "surface-background": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.surface-background}"
+          },
+          "hover": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.1}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.bg.surface-background}"
+          }
         }
       }
     }

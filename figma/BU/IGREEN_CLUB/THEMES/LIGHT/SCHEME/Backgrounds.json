@@ -18,6 +18,19 @@
           },
           "$type": "color",
           "$value": "{igreen.scheme.neutral}"
+        },
+        "surface-background": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "{igreen.scheme.mod-amount.10}",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{igreen.scheme.neutral}"
         }
       }
     }
