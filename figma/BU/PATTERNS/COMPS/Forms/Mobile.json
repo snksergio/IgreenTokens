@@ -1,0 +1,34 @@
+{
+  "igreen": {
+    "form": {
+      "base": {
+        "height": {
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.size.g}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xl4}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xl3}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.lg}"
+          },
+          "xs": {
+            "$type": "sizing",
+            "$value": "{igreen.size.sm}"
+          },
+          "xs2": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          }
+        }
+      }
+    }
+  }
+}

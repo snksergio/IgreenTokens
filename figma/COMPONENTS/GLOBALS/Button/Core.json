@@ -2,9 +2,27 @@
   "igreen": {
     "button": {
       "base": {
+        "height": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.sm}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.md}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.lg}"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.xl}"
+          }
+        },
         "gap": {
           "$type": "spacing",
-          "$value": "{igreen.gap.sm}"
+          "$value": "{igreen.gap.xs}"
         }
       }
     }

@@ -6,7 +6,11 @@
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "enabled",
-      "GLOBAL/Primitives_TW": "source"
+      "GLOBAL/Primitives_TW": "source",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:279",
     "$figmaModeId": "84:11",
@@ -18,7 +22,6 @@
       "igreen.size.xl": "b4f5c9d06a6dc3e608c8cfffddf582194a12da57",
       "igreen.size.2xl": "ec121423e95751893a391aed4aec582c349760e9",
       "igreen.gap.0": "6069972fe1a060f9becd001f77902e5179b9a486",
-      "igreen.gap.xs2": "1f22454a3d9ca9ee0ad1c0591a8b200969d0bc0e",
       "igreen.gap.xs": "b1da3fb1b8c9b2fe78afad8b156b3753b5a0575a",
       "igreen.gap.sm": "85de82fd198923f50359ba6d0426e14a6223c0d4",
       "igreen.gap.md": "30bc51ff03bfb010c39f4e81514bb0ec45c25914",
@@ -29,7 +32,8 @@
       "igreen.gap.g": "2480f9616baa4b1fffe896a7cdd682129b0ad26e",
       "igreen.gap.auto": "d3f7e28f9b22a95e1981a53beaf678e460def679",
       "igreen.color.white": "65918c98ed86773e760076fec9c87e7f41d3a229",
-      "igreen.color.black": "ff918d37db40425a566580b6d00db9b0009a959d"
+      "igreen.color.black": "ff918d37db40425a566580b6d00db9b0009a959d",
+      "igreen.gap.xs5": "1f22454a3d9ca9ee0ad1c0591a8b200969d0bc0e"
     },
     "group": "Core"
   },
@@ -42,7 +46,11 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -69,7 +77,11 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/PATTERNS/Foregrounds": "enabled"
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:13",
@@ -97,7 +109,11 @@
       "BU/PATTERNS/Foregrounds": "enabled",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "enabled"
+      "BU/IGREEN_NOVO/CORE/Colors": "enabled",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:14",
@@ -125,7 +141,11 @@
       "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/PATTERNS/Foregrounds": "enabled"
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:15",
@@ -148,10 +168,12 @@
     "name": "Desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:16",
@@ -170,15 +192,17 @@
     "name": "Mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "disabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "disabled",
+      "COMPONENTS/GLOBALS/Button/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:17",
     "$figmaVariableReferences": {
-      "igreen.button.base.height.xs": "b83b9820ecaa6592dcb738c2e26151bf959ebd8b",
       "igreen.button.base.height.sm": "635a01d1fccf799b3455eb681eca90cfc2935a67",
       "igreen.button.base.height.md": "61fe1e9db69c1d38bf551830bba35038d82ded9c",
       "igreen.button.base.height.lg": "326858c971684a7c251fbab519f7afdfe60805a6",

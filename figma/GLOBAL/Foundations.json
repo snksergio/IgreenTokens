@@ -1,27 +1,59 @@
 {
   "igreen": {
     "size": {
+      "xs5": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.1}"
+      },
+      "xs4": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.2}"
+      },
+      "xs3": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.3}"
+      },
+      "xs2": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.4}"
+      },
       "xs": {
         "$type": "sizing",
-        "$value": "{igreen.dimension.8}"
+        "$value": "{igreen.dimension.5}"
       },
       "sm": {
         "$type": "sizing",
-        "$value": "{igreen.dimension.10}"
+        "$value": "{igreen.dimension.6}"
       },
       "md": {
         "$type": "sizing",
-        "$value": "{igreen.dimension.12}"
+        "$value": "{igreen.dimension.7}"
       },
       "lg": {
         "$type": "sizing",
-        "$value": "{igreen.dimension.13}"
+        "$value": "{igreen.dimension.8}"
       },
       "xl": {
         "$type": "sizing",
-        "$value": "{igreen.dimension.14}"
+        "$value": "{igreen.dimension.9}"
       },
-      "2xl": {
+      "xl2": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.10}"
+      },
+      "xl3": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.10_5}"
+      },
+      "xl4": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.12}"
+      },
+      "g": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.13}"
+      },
+      "xg": {
         "$type": "sizing",
         "$value": "{igreen.dimension.16}"
       }
@@ -128,6 +160,51 @@
       "black": {
         "$type": "color",
         "$value": "#000"
+      }
+    },
+    "radii": {
+      "base": {
+        "$type": "borderRadius",
+        "$value": "14",
+        "$description": "Token de Border Radius Base para o cálculo dos demais tokens"
+      },
+      "xs": {
+        "$type": "borderRadius",
+        "$value": "roundTo( {igreen.radii.base} * 0.57, 0)",
+        "$description": "Mobile: Utilizadas para um nível muito abaixo de componentes (Botão dentro de um Tab)"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "roundTo( {igreen.radii.base} * 0.71, 0)",
+        "$description": "Mobile: Usado em Alertas, informativos, etc.."
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "roundTo( {igreen.radii.base} * 0.86, 0)",
+        "$description": "Mobile: Utilizado em Botões"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "{igreen.radii.base}",
+        "$description": "Mobile: Utilizado em Cards"
+      },
+      "xl": {
+        "$type": "borderRadius",
+        "$value": "roundTo( {igreen.radii.base} * 1.14, 0)",
+        "$description": "Mobile: Utilizados em Stacks, Modais, Acionshett..."
+      },
+      "g": {
+        "$type": "borderRadius",
+        "$value": "roundTo( {igreen.radii.base} * 1.43, 0)",
+        "$description": "Utilizado para destaques como Banners"
+      },
+      "none": {
+        "$type": "borderRadius",
+        "$value": "0"
+      },
+      "full": {
+        "$type": "borderRadius",
+        "$value": "9999"
       }
     }
   }

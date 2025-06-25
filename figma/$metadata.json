@@ -16,8 +16,10 @@
     "BU/PATTERNS/States",
     "BU/PATTERNS/Backgrounds",
     "BU/PATTERNS/Foregrounds",
+    "BU/PATTERNS/COMPS/Forms/Mobile",
+    "BU/PATTERNS/COMPS/Forms/Desktop",
     "COMPONENTS/GLOBALS/Button/Core",
-    "COMPONENTS/GLOBALS/Button/Desktop",
-    "COMPONENTS/GLOBALS/Button/Mobile"
+    "COMPONENTS/GLOBALS/Button/Mobile",
+    "COMPONENTS/GLOBALS/Button/Desktop"
   ]
 }

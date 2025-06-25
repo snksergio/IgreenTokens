@@ -65,6 +65,14 @@
         "$type": "dimension",
         "$value": "0.25 * 16 * {igreen.dimension.base}"
       },
+      "3_5": {
+        "$type": "dimension",
+        "$value": "0.25 * 3.5 * {igreen.dimension.base}"
+      },
+      "10_5": {
+        "$type": "dimension",
+        "$value": "0.25 * 10.5 * {igreen.dimension.base}"
+      },
       "base": {
         "$type": "dimension",
         "$value": "16px"
