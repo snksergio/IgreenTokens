@@ -3,34 +3,126 @@
     "scheme": {
       "bg": {
         "primary": {
-          "$type": "color",
-          "$value": "{igreen.scheme.primary}"
-        },
-        "surface-main": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{igreen.scheme.mod-amount.10}",
-                "space": "lch"
-              }
+          "moderate": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary-contrast}"
             }
           },
-          "$type": "color",
-          "$value": "{igreen.scheme.neutral}"
-        },
-        "surface-background": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{igreen.scheme.mod-amount.10}",
-                "space": "lch"
-              }
+          "strong": {
+            "default": {
+              "$type": "color",
+              "$value": "#1A2A25",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#B2EF7E",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
             }
           },
-          "$type": "color",
-          "$value": "{igreen.scheme.neutral}"
+          "muted": {
+            "default": {
+              "$type": "color",
+              "$value": "#E6F8EA",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#384F3C",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            }
+          }
+        },
+        "surface": {
+          "main": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.10}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "0.67",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            }
+          },
+          "moderate": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.5}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "0.75",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "0.25",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.neutral}"
+            }
+          }
         }
       }
     }

@@ -2,25 +2,6 @@
   "igreen": {
     "scheme": {
       "fg": {
-        "medium": {
-          "default": {
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
-          },
-          "inverse": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.8}",
-                  "space": "lch"
-                }
-              }
-            },
-            "$type": "color",
-            "$value": "{igreen.scheme.neutral}"
-          }
-        },
         "strong": {
           "default": {
             "$extensions": {
@@ -85,6 +66,58 @@
           "inverse": {
             "$type": "color",
             "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "primary": {
+          "moderate": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary-contrast}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#B2EF7E",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#384F3C",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            }
           }
         }
       }

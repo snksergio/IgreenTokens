@@ -5,6 +5,10 @@
         "$type": "color",
         "$value": "#00B22A"
       },
+      "primary-contrast": {
+        "$type": "color",
+        "$value": "#1CFF69"
+      },
       "neutral": {
         "$type": "color",
         "$value": "#6A6E71"
