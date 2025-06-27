@@ -20,6 +20,72 @@
             "$type": "color",
             "$value": "{igreen.scheme.neutral}"
           }
+        },
+        "strong": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.83",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.92",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "moderate": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.45",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "muted": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.50",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
         }
       }
     }
