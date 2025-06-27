@@ -27,9 +27,17 @@
           },
           "muted": {
             "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
               "$type": "color",
-              "$value": "#E6F8EA",
-              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+              "$value": "{igreen.scheme.primary}"
             },
             "inverse": {
               "$type": "color",
