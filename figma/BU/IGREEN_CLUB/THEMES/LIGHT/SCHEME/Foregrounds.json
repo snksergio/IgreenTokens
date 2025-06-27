@@ -69,7 +69,7 @@
           }
         },
         "primary": {
-          "moderate": {
+          "main": {
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.primary}"
@@ -118,6 +118,97 @@
               "$value": "#384F3C",
               "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
             }
+          }
+        },
+        "success": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.success}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.success}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.warning}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.warning}"
+          }
+        },
+        "critical": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.critical}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.critical}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.info}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.info}"
+          }
+        },
+        "disabled": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.5}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
           }
         }
       }

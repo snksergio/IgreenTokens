@@ -3,7 +3,7 @@
     "scheme": {
       "bg": {
         "primary": {
-          "moderate": {
+          "main": {
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.primary}"
@@ -130,6 +130,181 @@
               "$type": "color",
               "$value": "{igreen.scheme.neutral}"
             }
+          }
+        },
+        "success": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.success}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "0.9",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.success}"
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.success}"
+            }
+          }
+        },
+        "critical": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.critical}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.critical}"
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.critical}"
+            }
+          }
+        },
+        "warning": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.warning}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.warning}"
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.warning}"
+            }
+          }
+        },
+        "info": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.info}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.info}"
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.9}",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.info}"
+            }
+          }
+        },
+        "secondary": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.secondary}"
+            }
+          }
+        },
+        "disabled": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.9}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
           }
         }
       }

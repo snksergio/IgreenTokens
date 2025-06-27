@@ -1,15 +1,405 @@
 {
   "igreen": {
     "fg": {
-      "medium": {
+      "moderate": {
         "enabled": {
           "default": {
             "$type": "color",
-            "$value": "{igreen.scheme.fg.medium.default}"
+            "$value": "{igreen.scheme.fg.moderate.default}"
           },
           "inverse": {
             "$type": "color",
-            "$value": "{igreen.scheme.fg.medium.inverse}"
+            "$value": "{igreen.scheme.fg.moderate.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.moderate.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.moderate.inverse}"
+          }
+        }
+      },
+      "strong": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.strong.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.strong.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.strong.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.strong.inverse}"
+          }
+        }
+      },
+      "muted": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.muted.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.muted.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.muted.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.muted.inverse}"
+          }
+        }
+      },
+      "primary": {
+        "moderate": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.main.inverse}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.main.inverse}"
+            }
+          }
+        },
+        "strong": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.strong.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.strong.inverse}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.strong.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.strong.inverse}"
+            }
+          }
+        },
+        "muted": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.muted.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.muted.inverse}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.muted.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.primary.muted.inverse}"
+            }
+          }
+        }
+      },
+      "critical": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.critical.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.critical.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.critical.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.critical.inverse}"
+          }
+        }
+      },
+      "warning": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.warning.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.warning.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.warning.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.warning.inverse}"
+          }
+        }
+      },
+      "info": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.info.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.info.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.info.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.info.inverse}"
+          }
+        }
+      },
+      "success": {
+        "enabled": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.success.default}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.success.inverse}"
+          }
+        },
+        "hover": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.success.default}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{igreen.scheme.mod-amount.2}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.fg.success.inverse}"
           }
         }
       }

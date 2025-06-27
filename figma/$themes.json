@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "enabled",
-      "GLOBAL/Primitives_TW": "source"
+      "GLOBAL/Primitives_TW": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:279",
     "$figmaModeId": "84:11",
@@ -42,7 +43,8 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -52,8 +54,7 @@
       "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
       "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
       "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.fg.medium.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca",
-      "igreen.fg.medium.enabled.inverse": "dbb006365800c4fe123e8053dbbecee9d3dcb14c"
+      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
     },
     "$figmaModeId": "84:12",
     "$figmaCollectionId": "VariableCollectionId:84:280",
@@ -69,7 +70,8 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/PATTERNS/Foregrounds": "enabled"
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:13",
@@ -81,9 +83,8 @@
       "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
       "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
       "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.fg.medium.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca",
-      "igreen.fg.medium.enabled.inverse": "dbb006365800c4fe123e8053dbbecee9d3dcb14c",
-      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8"
+      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8",
+      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
     },
     "group": "Themes"
   },
@@ -97,7 +98,8 @@
       "BU/PATTERNS/Foregrounds": "enabled",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "enabled"
+      "BU/IGREEN_NOVO/CORE/Colors": "enabled",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:14",
@@ -109,9 +111,8 @@
       "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
       "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
       "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.fg.medium.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca",
-      "igreen.fg.medium.enabled.inverse": "dbb006365800c4fe123e8053dbbecee9d3dcb14c",
-      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8"
+      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8",
+      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
     },
     "group": "Themes"
   },
@@ -125,7 +126,8 @@
       "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/PATTERNS/Foregrounds": "enabled"
+      "BU/PATTERNS/Foregrounds": "enabled",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:15",
@@ -137,9 +139,8 @@
       "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
       "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
       "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.fg.medium.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca",
-      "igreen.fg.medium.enabled.inverse": "dbb006365800c4fe123e8053dbbecee9d3dcb14c",
-      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8"
+      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8",
+      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
     },
     "group": "Themes"
   },
@@ -149,7 +150,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:16",
@@ -170,7 +172,8 @@
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:17",

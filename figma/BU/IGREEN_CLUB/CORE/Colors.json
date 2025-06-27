@@ -5,6 +5,10 @@
         "$type": "color",
         "$value": "#00B22A"
       },
+      "secondary": {
+        "$type": "color",
+        "$value": "#181D11"
+      },
       "primary-contrast": {
         "$type": "color",
         "$value": "#1CFF69"
@@ -12,6 +16,22 @@
       "neutral": {
         "$type": "color",
         "$value": "#6A6E71"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#00B22A"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#F46600"
+      },
+      "critical": {
+        "$type": "color",
+        "$value": "#F8061E"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "#006CD1"
       }
     }
   }
