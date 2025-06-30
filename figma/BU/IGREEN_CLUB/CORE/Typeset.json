@@ -1,0 +1,295 @@
+{
+  "igreen": {
+    "font-family": {
+      "brand": {
+        "$type": "fontFamilies",
+        "$value": "Outfit",
+        "$description": "Fonte principal para relacionar diretamente com a marca"
+      },
+      "plain": {
+        "$type": "fontFamilies",
+        "$value": "Outfit",
+        "$description": "Fonte para textos corridos em geral"
+      },
+      "code": {
+        "$type": "fontFamilies",
+        "$value": "Fira Code",
+        "$description": "Fonte para trexos códigos"
+      }
+    },
+    "font-weight": {
+      "display-light": {
+        "$type": "fontWeights",
+        "$value": "ExtraLight"
+      },
+      "display-semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "title-semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "title-medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "body-regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "body-medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "body-semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "label-semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "button": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "label-regular": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      }
+    },
+    "line-height": {
+      "xs": {
+        "$type": "lineHeights",
+        "$value": "100%"
+      },
+      "sm": {
+        "$type": "lineHeights",
+        "$value": "130%"
+      },
+      "md": {
+        "$type": "lineHeights",
+        "$value": "140%"
+      },
+      "lg": {
+        "$type": "lineHeights",
+        "$value": "150%"
+      },
+      "display": {
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "140%"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "120%"
+        }
+      },
+      "title": {
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        }
+      },
+      "body": {
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "150%"
+        }
+      },
+      "label": {
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        }
+      },
+      "button": {
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "130%"
+        }
+      }
+    },
+    "letter-spacing": {
+      "title": {
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        }
+      },
+      "display": {
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "-0.2%"
+        }
+      },
+      "body": {
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        }
+      },
+      "label": {
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        }
+      },
+      "button": {
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "0"
+        }
+      }
+    },
+    "font-size": {
+      "body": {
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.sm}"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xs}"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xs2}"
+        }
+      },
+      "title": {
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.lg}"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.md}"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.sm}"
+        }
+      },
+      "display": {
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.g}"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xl2}"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xl}"
+        }
+      },
+      "label": {
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.sm}"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xs}"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xs2}"
+        }
+      },
+      "button": {
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.md}"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.sm}"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "{igreen.font-size.xs}"
+        }
+      }
+    }
+  }
+}

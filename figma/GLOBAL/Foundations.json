@@ -206,6 +206,40 @@
         "$type": "borderRadius",
         "$value": "9999"
       }
+    },
+    "font-size": {
+      "xs2": {
+        "$type": "fontSizes",
+        "$value": "10px"
+      },
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "12px"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "14px"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "16px"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "20px"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "24px"
+      },
+      "xl2": {
+        "$type": "fontSizes",
+        "$value": "32px"
+      },
+      "g": {
+        "$type": "fontSizes",
+        "$value": "42px"
+      }
     }
   }
 }
