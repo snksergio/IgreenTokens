@@ -6,8 +6,7 @@
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "enabled",
-      "GLOBAL/Primitives_TW": "source",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "GLOBAL/Primitives_TW": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:84:279",
     "$figmaModeId": "84:11",
@@ -43,8 +42,7 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -70,8 +68,7 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "BU/PATTERNS/Foregrounds": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:13",
@@ -98,8 +95,7 @@
       "BU/PATTERNS/Foregrounds": "enabled",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
       "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "BU/IGREEN_NOVO/CORE/Colors": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:14",
@@ -126,8 +122,7 @@
       "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "BU/PATTERNS/Foregrounds": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
     "$figmaModeId": "84:15",
@@ -150,8 +145,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "GLOBAL/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:16",
@@ -172,8 +166,7 @@
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "disabled"
+      "GLOBAL/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:17",
