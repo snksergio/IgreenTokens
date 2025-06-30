@@ -169,6 +169,170 @@
               "letterSpacing": "{igreen.letter-spacing.body.lg}"
             }
           }
+        },
+        "md": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-regular}",
+              "fontSize": "{igreen.font-size.body.md}",
+              "lineHeight": "{igreen.line-height.body.md}",
+              "letterSpacing": "{igreen.letter-spacing.body.md}"
+            }
+          },
+          "medium": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-medium}",
+              "fontSize": "{igreen.font-size.body.lg}",
+              "lineHeight": "{igreen.line-height.body.lg}",
+              "letterSpacing": "{igreen.letter-spacing.body.lg}"
+            }
+          },
+          "semibold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-semibold}",
+              "fontSize": "{igreen.font-size.body.lg}",
+              "lineHeight": "{igreen.line-height.body.lg}",
+              "letterSpacing": "{igreen.letter-spacing.body.lg}"
+            }
+          }
+        },
+        "sm": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-regular}",
+              "fontSize": "{igreen.font-size.body.sm}",
+              "lineHeight": "{igreen.line-height.body.sm}",
+              "letterSpacing": "{igreen.letter-spacing.body.sm}"
+            }
+          },
+          "medium": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-medium}",
+              "fontSize": "{igreen.font-size.body.sm}",
+              "lineHeight": "{igreen.line-height.body.sm}",
+              "letterSpacing": "{igreen.letter-spacing.body.sm}"
+            }
+          },
+          "semibold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.body-semibold}",
+              "fontSize": "{igreen.font-size.body.sm}",
+              "lineHeight": "{igreen.line-height.body.sm}",
+              "letterSpacing": "{igreen.letter-spacing.body.sm}"
+            }
+          }
+        }
+      },
+      "label": {
+        "lg": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-regular}",
+              "fontSize": "{igreen.font-size.label.lg}",
+              "lineHeight": "{igreen.line-height.label.lg}",
+              "letterSpacing": "{igreen.letter-spacing.label.lg}"
+            }
+          },
+          "semibold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-semibold}",
+              "fontSize": "{igreen.font-size.label.lg}",
+              "lineHeight": "{igreen.line-height.label.lg}",
+              "letterSpacing": "{igreen.letter-spacing.label.lg}"
+            }
+          }
+        },
+        "md": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-regular}",
+              "fontSize": "{igreen.font-size.label.md}",
+              "lineHeight": "{igreen.line-height.label.md}",
+              "letterSpacing": "{igreen.letter-spacing.label.md}"
+            }
+          },
+          "semibold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-semibold}",
+              "fontSize": "{igreen.font-size.label.md}",
+              "lineHeight": "{igreen.line-height.label.md}",
+              "letterSpacing": "{igreen.letter-spacing.label.md}"
+            }
+          }
+        },
+        "sm": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-regular}",
+              "fontSize": "{igreen.font-size.label.sm}",
+              "lineHeight": "{igreen.line-height.label.sm}",
+              "letterSpacing": "{igreen.letter-spacing.label.sm}"
+            }
+          },
+          "semibold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{igreen.font-family.brand}",
+              "fontWeight": "{igreen.font-weight.label-semibold}",
+              "fontSize": "{igreen.font-size.label.sm}",
+              "lineHeight": "{igreen.line-height.label.sm}",
+              "letterSpacing": "{igreen.letter-spacing.label.sm}"
+            }
+          }
+        }
+      },
+      "button": {
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{igreen.font-family.brand}",
+            "fontWeight": "{igreen.font-weight.button}",
+            "fontSize": "{igreen.font-size.button.lg}",
+            "lineHeight": "{igreen.line-height.button.lg}",
+            "letterSpacing": "{igreen.letter-spacing.button.lg}"
+          }
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{igreen.font-family.brand}",
+            "fontWeight": "{igreen.font-weight.button}",
+            "fontSize": "{igreen.font-size.button.md}",
+            "lineHeight": "{igreen.line-height.button.md}",
+            "letterSpacing": "{igreen.letter-spacing.button.md}"
+          }
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{igreen.font-family.brand}",
+            "fontWeight": "{igreen.font-weight.button}",
+            "fontSize": "{igreen.font-size.button.sm}",
+            "lineHeight": "{igreen.line-height.button.sm}",
+            "letterSpacing": "{igreen.letter-spacing.button.sm}"
+          }
         }
       }
     }
