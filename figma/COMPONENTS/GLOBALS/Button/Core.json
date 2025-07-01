@@ -42,15 +42,15 @@
           "padding": {
             "xl": {
               "$type": "spacing",
-              "$value": "{igreen.horizontals.padding.xl2}"
+              "$value": "{igreen.padding.xl2}"
             },
             "lg": {
               "$type": "spacing",
-              "$value": "{igreen.horizontals.padding.xl2}"
+              "$value": "{igreen.padding.xl}"
             },
             "md": {
               "$type": "spacing",
-              "$value": "{igreen.horizontals.padding.lg}"
+              "$value": "{igreen.padding.lg}"
             },
             "sm": {
               "$type": "spacing",
