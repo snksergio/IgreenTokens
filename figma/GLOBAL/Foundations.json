@@ -160,6 +160,10 @@
       "black": {
         "$type": "color",
         "$value": "#000"
+      },
+      "transparent": {
+        "$type": "color",
+        "$value": "transparent"
       }
     },
     "radii": {

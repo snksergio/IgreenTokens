@@ -329,7 +329,7 @@
           "$value": {
             "fontFamily": "{igreen.font-family.brand}",
             "fontWeight": "{igreen.font-weight.button-medium}",
-            "fontSize": "{igreen.font-size.button.sm}",
+            "fontSize": "{igreen.font-size.button.md}",
             "lineHeight": "{igreen.line-height.button.sm}",
             "letterSpacing": "{igreen.letter-spacing.button.sm}"
           }
