@@ -142,7 +142,8 @@
       "igreen.border-color.warning": "59d60284f5e35ab985acbe700501308e77aa3761",
       "igreen.border-color.info": "d4625ad0f9bb9ca660ae1cb7f8bf59010e3e9c4f",
       "igreen.border-color.success": "8d03cb46a0798d55de2e8680c7b2b3daf0647b03",
-      "igreen.border-color.seconday": "120708b89395b4664f85dc127b4ea2ce7313af77",
+      "igreen.border-color.disabled": "2c265bd52a83bddaeedb6c97fa111b2a525d2372",
+      "igreen.border-color.seconday": "90b312cb1ffe572b6a2bb3505f1f0cf5f18b32c6",
       "igreen.bg.primary.main.enabled.default": "7edae7d174539dc950ee3e80de35310a28bac630",
       "igreen.bg.primary.main.enabled.inverse": "034410d916e53f3d80e3156a50108426d12742a9",
       "igreen.bg.primary.main.hover.default": "a12e951338eb26cef4db69afa48ce161b67e70bb",
@@ -476,10 +477,10 @@
       "igreen.button.base.horizontals.padding.xl": "48d46353447c11adaffa6223fb34ee1c0c99209b",
       "igreen.button.base.horizontals.padding.lg": "2fbba1e8bdb566311a4da44b99312273148a8d83",
       "igreen.button.base.horizontals.padding.md": "a72d378a0d7d7664b8129d41e7f32fc79aa945ac",
+      "igreen.button.base.borderRadius.pill": "3e99a1e980e0b576e16d2867262ee5911405d33d",
       "igreen.button.icon.size.lg": "330511d59f7236c450fa051b06ccaa083c74a9ea",
       "igreen.button.icon.size.md": "91cb3034d7834918b4f3c71364eb19fca98c9168",
-      "igreen.button.icon.size.sm": "99ca4165ae432ba02606b517139a07b03dc9c46b",
-      "igreen.button.base.borderRadius.pill": "3e99a1e980e0b576e16d2867262ee5911405d33d"
+      "igreen.button.icon.size.sm": "99ca4165ae432ba02606b517139a07b03dc9c46b"
     },
     "group": "Components"
   },
