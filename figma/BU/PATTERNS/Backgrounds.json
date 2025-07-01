@@ -829,6 +829,12 @@
             }
           }
         }
+      },
+      "disabled": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.bg.disabled.default}"
+        }
       }
     }
   }
