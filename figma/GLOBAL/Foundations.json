@@ -444,6 +444,24 @@
           "$value": "{igreen.padding.xg} {igreen.padding.0} {igreen.padding.xg}"
         }
       }
+    },
+    "border-width": {
+      "thin": {
+        "$type": "borderWidth",
+        "$value": "1"
+      },
+      "regular": {
+        "$type": "borderWidth",
+        "$value": "2"
+      },
+      "thick": {
+        "$type": "borderWidth",
+        "$value": "4"
+      },
+      "extra-thick": {
+        "$type": "borderWidth",
+        "$value": "6"
+      }
     }
   }
 }

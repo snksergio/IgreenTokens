@@ -121,6 +121,64 @@
               "$value": "{igreen.scheme.bg.primary.muted.inverse}"
             }
           }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.primary.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.primary.main.inverse}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.primary.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.primary.main.inverse}"
+            }
+          }
         }
       },
       "secondary": {
@@ -139,6 +197,38 @@
                     "type": "darken",
                     "value": "{igreen.scheme.mod-amount.2}",
                     "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.secondary.main.default}"
+            }
+          }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.secondary.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
                   }
                 }
               },
@@ -268,6 +358,64 @@
               "$value": "{igreen.scheme.bg.surface.strong.inverse}"
             }
           }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.surface.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.surface.main.inverse}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.surface.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.surface.main.inverse}"
+            }
+          }
         }
       },
       "critical": {
@@ -337,6 +485,38 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.critical.muted.default}"
+            }
+          }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.critical.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.critical.main.default}"
             }
           }
         }
@@ -410,6 +590,38 @@
               "$value": "{igreen.scheme.bg.warning.muted.default}"
             }
           }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.warning.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.warning.main.default}"
+            }
+          }
         }
       },
       "info": {
@@ -481,6 +693,38 @@
               "$value": "{igreen.scheme.bg.info.muted.default}"
             }
           }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.info.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.info.main.default}"
+            }
+          }
         }
       },
       "success": {
@@ -550,6 +794,38 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.success.muted.default}"
+            }
+          }
+        },
+        "transparent": {
+          "enabled": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.success.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.success.main.default}"
             }
           }
         }

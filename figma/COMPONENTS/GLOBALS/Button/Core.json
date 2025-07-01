@@ -40,5 +40,25 @@
         }
       }
     }
+  },
+  "jf": {
+    "button": {
+      "base": {
+        "outline": {
+          "border": {
+            "primary": {
+              "enabled": {
+                "$type": "border",
+                "$value": {
+                  "color": "{igreen.border-color.primary}",
+                  "width": "{igreen.border-width.thin}",
+                  "style": "solid"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
