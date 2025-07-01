@@ -402,6 +402,77 @@
             "$value": "{igreen.scheme.fg.success.inverse}"
           }
         }
+      },
+      "secondary": {
+        "moderate": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.main.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.main.default}"
+            }
+          }
+        },
+        "strong": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.strong.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.strong.default}"
+            }
+          }
+        },
+        "muted": {
+          "enabled": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.muted.default}"
+            }
+          },
+          "hover": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.muted.default}"
+            }
+          }
+        }
       }
     }
   }
