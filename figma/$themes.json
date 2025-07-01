@@ -135,6 +135,7 @@
     "$figmaVariableReferences": {
       "igreen.border-color.strong": "57632c8946561d05a79b5e36066d3f98acdb1b7c",
       "igreen.border-color.moderate": "101073284ab4ecd0ccaf592d6f47b0555c0cbf63",
+      "igreen.border-color.disabled": "f4a3b9884aa260c911c956b734babd5e1c5ece35",
       "igreen.border-color.muted": "f8dc7f7685b1f798f61a640c9cb0f8307a6943aa",
       "igreen.border-color.inverse": "8828840bcdf15ced66f5f5a8e7cb48a0f510f315",
       "igreen.border-color.primary": "e8e07e4ff57149a7fd3bec823f71438b7eea0ea4",
@@ -142,8 +143,7 @@
       "igreen.border-color.warning": "59d60284f5e35ab985acbe700501308e77aa3761",
       "igreen.border-color.info": "d4625ad0f9bb9ca660ae1cb7f8bf59010e3e9c4f",
       "igreen.border-color.success": "8d03cb46a0798d55de2e8680c7b2b3daf0647b03",
-      "igreen.border-color.disabled": "2c265bd52a83bddaeedb6c97fa111b2a525d2372",
-      "igreen.border-color.seconday": "90b312cb1ffe572b6a2bb3505f1f0cf5f18b32c6",
+      "igreen.border-color.seconday": "115781cd258abd8aa7d17cca5200de3bb534e3f1",
       "igreen.bg.primary.main.enabled.default": "7edae7d174539dc950ee3e80de35310a28bac630",
       "igreen.bg.primary.main.enabled.inverse": "034410d916e53f3d80e3156a50108426d12742a9",
       "igreen.bg.primary.main.hover.default": "a12e951338eb26cef4db69afa48ce161b67e70bb",
@@ -316,6 +316,7 @@
     "$figmaVariableReferences": {
       "igreen.border-color.strong": "57632c8946561d05a79b5e36066d3f98acdb1b7c",
       "igreen.border-color.moderate": "101073284ab4ecd0ccaf592d6f47b0555c0cbf63",
+      "igreen.border-color.disabled": "f4a3b9884aa260c911c956b734babd5e1c5ece35",
       "igreen.border-color.muted": "f8dc7f7685b1f798f61a640c9cb0f8307a6943aa",
       "igreen.border-color.inverse": "8828840bcdf15ced66f5f5a8e7cb48a0f510f315",
       "igreen.border-color.primary": "e8e07e4ff57149a7fd3bec823f71438b7eea0ea4",

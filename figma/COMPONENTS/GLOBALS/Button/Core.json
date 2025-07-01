@@ -127,6 +127,14 @@
                   "style": "solid"
                 }
               }
+            },
+            "disabled": {
+              "$type": "border",
+              "$value": {
+                "color": "{igreen.border-color.disabled}",
+                "width": "{igreen.border-width.thin}",
+                "style": "solid"
+              }
             }
           }
         }

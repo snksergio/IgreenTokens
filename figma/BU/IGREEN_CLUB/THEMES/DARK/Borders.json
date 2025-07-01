@@ -27,6 +27,19 @@
         "$type": "color",
         "$value": "{igreen.scheme.neutral}"
       },
+      "disabled": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{igreen.scheme.mod-amount.8}",
+              "space": "hsl"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{igreen.scheme.neutral}"
+      },
       "muted": {
         "$extensions": {
           "studio.tokens": {
