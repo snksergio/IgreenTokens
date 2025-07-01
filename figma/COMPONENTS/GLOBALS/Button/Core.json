@@ -57,6 +57,12 @@
               "$value": "{igreen.horizontals.padding.md}"
             }
           }
+        },
+        "borderRadius": {
+          "pill": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.full}"
+          }
         }
       },
       "icon": {
