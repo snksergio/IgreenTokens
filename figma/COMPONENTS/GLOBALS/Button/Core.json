@@ -91,6 +91,36 @@
                   "style": "solid"
                 }
               }
+            },
+            "neutral": {
+              "enabled": {
+                "$type": "border",
+                "$value": {
+                  "color": "{igreen.border-color.moderate}",
+                  "width": "{igreen.border-width.thin}",
+                  "style": "solid"
+                }
+              }
+            },
+            "seconday": {
+              "enabled": {
+                "$type": "border",
+                "$value": {
+                  "color": "{igreen.border-color.seconday}",
+                  "width": "{igreen.border-width.thin}",
+                  "style": "solid"
+                }
+              }
+            },
+            "warning": {
+              "enabled": {
+                "$type": "border",
+                "$value": {
+                  "color": "{igreen.border-color.warning}",
+                  "width": "{igreen.border-width.thin}",
+                  "style": "solid"
+                }
+              }
             }
           }
         }
