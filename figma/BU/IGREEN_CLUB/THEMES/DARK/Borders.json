@@ -1,0 +1,78 @@
+{
+  "igreen": {
+    "border-color": {
+      "strong": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{igreen.scheme.mod-amount.7}",
+              "space": "hsl"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{igreen.scheme.neutral}"
+      },
+      "moderate": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{igreen.scheme.mod-amount.8}",
+              "space": "hsl"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{igreen.scheme.neutral}"
+      },
+      "muted": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{igreen.scheme.mod-amount.9}",
+              "space": "hsl"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{igreen.scheme.neutral}"
+      },
+      "inverse": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{igreen.scheme.mod-amount.10}",
+              "space": "hsl"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{igreen.scheme.neutral}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{igreen.scheme.primary}"
+      },
+      "critical": {
+        "$type": "color",
+        "$value": "{igreen.scheme.critical}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{igreen.scheme.warning}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{igreen.scheme.info}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{igreen.scheme.success}"
+      }
+    }
+  }
+}

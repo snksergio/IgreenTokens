@@ -2,13 +2,13 @@
   "igreen": {
     "scheme": {
       "fg": {
-        "medium": {
+        "strong": {
           "default": {
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.8}",
+                  "type": "darken",
+                  "value": "0.83",
                   "space": "lch"
                 }
               }
@@ -17,6 +17,196 @@
             "$value": "{igreen.scheme.neutral}"
           },
           "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.92",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "moderate": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.45",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "muted": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.50",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          },
+          "inverse": {
+            "$type": "color",
+            "$value": "{igreen.scheme.neutral}"
+          }
+        },
+        "primary": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.primary-contrast}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#B2EF7E",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.primary}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "#384F3C",
+              "$description": "!Pendente - Ajustar a cor com base na primaria, alterando astravés de moficiadores, para escalabilidade correta."
+            }
+          }
+        },
+        "success": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.success}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.success}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.warning}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.warning}"
+          }
+        },
+        "critical": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.critical}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.critical}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.scheme.info}"
+          },
+          "inverse": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.7}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{igreen.scheme.info}"
+          }
+        },
+        "disabled": {
+          "default": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{igreen.scheme.mod-amount.5}",
+                  "space": "lch"
+                }
+              }
+            },
             "$type": "color",
             "$value": "{igreen.scheme.neutral}"
           }

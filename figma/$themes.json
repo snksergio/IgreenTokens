@@ -4,9 +4,8 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "enabled",
-      "GLOBAL/Primitives_TW": "source"
+      "GLOBAL/Primitives": "enabled",
+      "GLOBAL/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:279",
     "$figmaModeId": "84:11",
@@ -42,7 +41,10 @@
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source"
+      "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_CLUB/CORE/Typeset": "source",
+      "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "enabled",
+      "BU/PATTERNS/Typography": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -63,69 +65,18 @@
     "name": "Club - Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "BU/IGREEN_CLUB/CORE/Colors": "enabled",
-      "BU/PATTERNS/States": "enabled",
-      "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/PATTERNS/Foregrounds": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:84:280",
-    "$figmaModeId": "84:13",
-    "$figmaVariableReferences": {
-      "igreen.scheme.neutral": "06b4e2baf0a4977fc6e5a65914f82dfd06664ceb",
-      "igreen.regular.bg.primary.enabled": "a65ba24c71b20d7f517a5babf902e06a424b0e65",
-      "igreen.regular.bg.primary.hover": "8ba9ebcb7f2249bd4b42f2e79a881c07a51fef17",
-      "igreen.regular.bg.surface-main.enabled": "8c51c912a9ec773d90d604f38868663cf429f358",
-      "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
-      "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
-      "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8",
-      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
-    },
-    "group": "Themes"
-  },
-  {
-    "id": "99e4fc7c597aec404cb7a742a6e8d8dc3c421eee",
-    "name": "Novo - Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
+      "BU/IGREEN_CLUB/CORE/Colors": "source",
       "BU/PATTERNS/States": "enabled",
       "BU/PATTERNS/Backgrounds": "enabled",
       "BU/PATTERNS/Foregrounds": "enabled",
-      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Backgrounds": "source",
-      "BU/IGREEN_NOVO/THEMES/LIGHT/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/CORE/Colors": "enabled"
+      "BU/IGREEN_CLUB/THEMES/DARK/Borders": "enabled",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
+      "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
+      "BU/IGREEN_CLUB/CORE/Typeset": "source",
+      "BU/PATTERNS/Typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:280",
-    "$figmaModeId": "84:14",
-    "$figmaVariableReferences": {
-      "igreen.scheme.neutral": "06b4e2baf0a4977fc6e5a65914f82dfd06664ceb",
-      "igreen.regular.bg.primary.enabled": "a65ba24c71b20d7f517a5babf902e06a424b0e65",
-      "igreen.regular.bg.primary.hover": "8ba9ebcb7f2249bd4b42f2e79a881c07a51fef17",
-      "igreen.regular.bg.surface-main.enabled": "8c51c912a9ec773d90d604f38868663cf429f358",
-      "igreen.regular.bg.surface-main.hover": "33521d92a748b6e188699305fbd8d3205197aac8",
-      "igreen.regular.bg.surface-background.enabled": "158fb77e551d9b36c6197c540840bc741dd6104a",
-      "igreen.regular.bg.surface-background.hover": "dd58e6dec6e3775275090f6f51f1ef5c2a5b1e53",
-      "igreen.scheme.primary": "2e01e109b85b347d0c69312e10567bf0254afeb8",
-      "igreen.fg.moderate.enabled.default": "5ebba5e1707fb91787dd0653418b9eca32a3d9ca"
-    },
-    "group": "Themes"
-  },
-  {
-    "id": "bd67f5c77cfe4bafc112724d54d2a1c9d09335c8",
-    "name": "Novo - Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "BU/IGREEN_NOVO/CORE/Colors": "enabled",
-      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Foregrounds": "source",
-      "BU/IGREEN_NOVO/THEMES/DARK/SCHEME/Backgrounds": "source",
-      "BU/PATTERNS/States": "enabled",
-      "BU/PATTERNS/Backgrounds": "enabled",
-      "BU/PATTERNS/Foregrounds": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:84:280",
-    "$figmaModeId": "84:15",
+    "$figmaModeId": "84:13",
     "$figmaVariableReferences": {
       "igreen.scheme.neutral": "06b4e2baf0a4977fc6e5a65914f82dfd06664ceb",
       "igreen.regular.bg.primary.enabled": "a65ba24c71b20d7f517a5babf902e06a424b0e65",
@@ -145,7 +96,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "COMPONENTS/GLOBALS/Button/Core": "enabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
+      "BU/PATTERNS/COMPS/Forms/Desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:16",
@@ -166,7 +120,9 @@
     "selectedTokenSets": {
       "COMPONENTS/GLOBALS/Button/Mobile": "enabled",
       "GLOBAL/Primitives": "source",
-      "GLOBAL/Foundations": "source"
+      "GLOBAL/Foundations": "source",
+      "BU/PATTERNS/COMPS/Forms/Mobile": "enabled",
+      "COMPONENTS/GLOBALS/Button/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:17",
