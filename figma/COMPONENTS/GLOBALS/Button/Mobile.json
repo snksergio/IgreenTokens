@@ -3,8 +3,28 @@
     "button": {
       "base": {
         "borderRadius": {
-          "$type": "borderRadius",
-          "$value": "{igreen.radii.md}"
+          "rounded": {
+            "xl": {
+              "$type": "borderRadius",
+              "$value": "{igreen.radii.md}"
+            },
+            "lg": {
+              "$type": "borderRadius",
+              "$value": "{igreen.radii.md}"
+            },
+            "md": {
+              "$type": "borderRadius",
+              "$value": "{igreen.radii.sm}"
+            },
+            "sm": {
+              "$type": "borderRadius",
+              "$value": "{igreen.radii.xs}"
+            }
+          },
+          "pill": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.full}"
+          }
         }
       }
     }

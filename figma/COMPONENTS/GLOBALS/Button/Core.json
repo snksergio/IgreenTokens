@@ -21,22 +21,58 @@
           }
         },
         "gap": {
-          "$type": "spacing",
-          "$value": "{igreen.gap.xs}"
+          "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs2}"
+          },
+          "sm": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs2}"
+          }
         },
         "horizontals": {
           "padding": {
             "xl": {
               "$type": "spacing",
               "$value": "{igreen.horizontals.padding.xl2}"
+            },
+            "lg": {
+              "$type": "spacing",
+              "$value": "{igreen.horizontals.padding.xl2}"
+            },
+            "md": {
+              "$type": "spacing",
+              "$value": "{igreen.horizontals.padding.lg}"
+            },
+            "sm": {
+              "$type": "spacing",
+              "$value": "{igreen.horizontals.padding.md}"
             }
           }
         }
       },
       "icon": {
         "size": {
-          "$type": "sizing",
-          "$value": "{igreen.size.xs}"
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
+          }
         }
       }
     }

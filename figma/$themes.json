@@ -98,8 +98,8 @@
       "GLOBAL/Primitives": "source",
       "GLOBAL/Foundations": "source",
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
-      "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "BU/PATTERNS/COMPS/Forms/Desktop": "enabled"
+      "BU/PATTERNS/COMPS/Forms/Desktop": "enabled",
+      "COMPONENTS/GLOBALS/Button/Desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:84:281",
     "$figmaModeId": "84:16",
@@ -109,7 +109,7 @@
       "igreen.button.base.height.md": "61fe1e9db69c1d38bf551830bba35038d82ded9c",
       "igreen.button.base.height.lg": "326858c971684a7c251fbab519f7afdfe60805a6",
       "igreen.button.base.height.xl": "6a023167f21b1cd3a44414cd49c92f88d0a8da09",
-      "igreen.button.base.gap": "24b5f9a3d426e4086e2a417bb69b63bc7b577778"
+      "igreen.button.base.gap.xl": "24b5f9a3d426e4086e2a417bb69b63bc7b577778"
     },
     "group": "Components"
   },
@@ -131,7 +131,7 @@
       "igreen.button.base.height.md": "61fe1e9db69c1d38bf551830bba35038d82ded9c",
       "igreen.button.base.height.lg": "326858c971684a7c251fbab519f7afdfe60805a6",
       "igreen.button.base.height.xl": "6a023167f21b1cd3a44414cd49c92f88d0a8da09",
-      "igreen.button.base.gap": "24b5f9a3d426e4086e2a417bb69b63bc7b577778"
+      "igreen.button.base.gap.xl": "24b5f9a3d426e4086e2a417bb69b63bc7b577778"
     },
     "group": "Components"
   }

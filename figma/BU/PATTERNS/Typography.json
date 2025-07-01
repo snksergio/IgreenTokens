@@ -308,7 +308,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{igreen.font-family.brand}",
-            "fontWeight": "{igreen.font-weight.button}",
+            "fontWeight": "{igreen.font-weight.button-semibold}",
             "fontSize": "{igreen.font-size.button.lg}",
             "lineHeight": "{igreen.line-height.button.lg}",
             "letterSpacing": "{igreen.letter-spacing.button.lg}"
@@ -318,7 +318,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{igreen.font-family.brand}",
-            "fontWeight": "{igreen.font-weight.button}",
+            "fontWeight": "{igreen.font-weight.button-medium}",
             "fontSize": "{igreen.font-size.button.md}",
             "lineHeight": "{igreen.line-height.button.md}",
             "letterSpacing": "{igreen.letter-spacing.button.md}"
@@ -328,7 +328,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{igreen.font-family.brand}",
-            "fontWeight": "{igreen.font-weight.button}",
+            "fontWeight": "{igreen.font-weight.button-medium}",
             "fontSize": "{igreen.font-size.button.sm}",
             "lineHeight": "{igreen.line-height.button.sm}",
             "letterSpacing": "{igreen.letter-spacing.button.sm}"

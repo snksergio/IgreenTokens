@@ -50,9 +50,13 @@
         "$type": "fontWeights",
         "$value": "SemiBold"
       },
-      "button": {
+      "button-semibold": {
         "$type": "fontWeights",
         "$value": "SemiBold"
+      },
+      "button-medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
       },
       "label-regular": {
         "$type": "fontWeights",
@@ -279,7 +283,7 @@
       "button": {
         "lg": {
           "$type": "fontSizes",
-          "$value": "{igreen.font-size.md}"
+          "$value": "{igreen.font-size.sm}"
         },
         "md": {
           "$type": "fontSizes",
