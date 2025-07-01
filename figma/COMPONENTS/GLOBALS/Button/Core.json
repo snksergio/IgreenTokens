@@ -23,6 +23,20 @@
         "gap": {
           "$type": "spacing",
           "$value": "{igreen.gap.xs}"
+        },
+        "horizontals": {
+          "padding": {
+            "xl": {
+              "$type": "spacing",
+              "$value": "{igreen.horizontals.padding.xl2}"
+            }
+          }
+        }
+      },
+      "icon": {
+        "size": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xs}"
         }
       }
     }
