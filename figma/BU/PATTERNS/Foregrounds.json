@@ -473,6 +473,12 @@
             }
           }
         }
+      },
+      "disabled": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.fg.disabled.default}"
+        }
       }
     }
   }

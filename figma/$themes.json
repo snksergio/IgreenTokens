@@ -142,7 +142,7 @@
       "igreen.border-color.warning": "59d60284f5e35ab985acbe700501308e77aa3761",
       "igreen.border-color.info": "d4625ad0f9bb9ca660ae1cb7f8bf59010e3e9c4f",
       "igreen.border-color.success": "8d03cb46a0798d55de2e8680c7b2b3daf0647b03",
-      "igreen.border-color.seconday": "3c177a8f00bdd516b22905a7734a4c3e35b2b1e9",
+      "igreen.border-color.seconday": "120708b89395b4664f85dc127b4ea2ce7313af77",
       "igreen.bg.primary.main.enabled.default": "7edae7d174539dc950ee3e80de35310a28bac630",
       "igreen.bg.primary.main.enabled.inverse": "034410d916e53f3d80e3156a50108426d12742a9",
       "igreen.bg.primary.main.hover.default": "a12e951338eb26cef4db69afa48ce161b67e70bb",
@@ -211,6 +211,7 @@
       "igreen.bg.success.muted.enabled.default": "445a2ef4c00d9046cb3dd408d0b05358d9a6b9c5",
       "igreen.bg.success.transparent.enabled.default": "32f442cc7243c29fdf9d46e227b369a7931bcf1e",
       "igreen.bg.success.transparent.hover.default": "597f5cd467e0d57509ace9ff3aa5bf3f512cc546",
+      "igreen.bg.disabled.default": "383b92abbd79dc00118d089401dec6ec80c102a8",
       "igreen.fg.moderate.enabled.default": "ff19a9858271b5e8ccf857801cf2ba3e27ccfb80",
       "igreen.fg.moderate.enabled.inverse": "dc1c85457a38f926ae1b8de4958fcd2a07b39c9e",
       "igreen.fg.moderate.hover.default": "482383d53064911d84f4e024fc05a6feb6e04d5a",
@@ -256,7 +257,8 @@
       "igreen.fg.secondary.strong.enabled.default": "30c0334d560c3766d149e91768f411ec3cb6e50b",
       "igreen.fg.secondary.strong.hover.default": "23234de9b8ca333ef11420c36751685148cebea1",
       "igreen.fg.secondary.muted.enabled.default": "462d81cb97193cfba7db3036adca607d92d39227",
-      "igreen.fg.secondary.muted.hover.default": "4c8a8fc6a7a2c0112c9b4beb613f630ab28326fc"
+      "igreen.fg.secondary.muted.hover.default": "4c8a8fc6a7a2c0112c9b4beb613f630ab28326fc",
+      "igreen.fg.disabled.default": "b953964298f432af33d586b6e4c55b9a68396a82"
     },
     "$figmaModeId": "259:1",
     "$figmaCollectionId": "VariableCollectionId:259:3681",
@@ -388,6 +390,7 @@
       "igreen.bg.success.muted.enabled.default": "445a2ef4c00d9046cb3dd408d0b05358d9a6b9c5",
       "igreen.bg.success.transparent.enabled.default": "32f442cc7243c29fdf9d46e227b369a7931bcf1e",
       "igreen.bg.success.transparent.hover.default": "597f5cd467e0d57509ace9ff3aa5bf3f512cc546",
+      "igreen.bg.disabled.default": "383b92abbd79dc00118d089401dec6ec80c102a8",
       "igreen.fg.moderate.enabled.default": "ff19a9858271b5e8ccf857801cf2ba3e27ccfb80",
       "igreen.fg.moderate.enabled.inverse": "dc1c85457a38f926ae1b8de4958fcd2a07b39c9e",
       "igreen.fg.moderate.hover.default": "482383d53064911d84f4e024fc05a6feb6e04d5a",
@@ -433,7 +436,8 @@
       "igreen.fg.secondary.strong.enabled.default": "30c0334d560c3766d149e91768f411ec3cb6e50b",
       "igreen.fg.secondary.strong.hover.default": "23234de9b8ca333ef11420c36751685148cebea1",
       "igreen.fg.secondary.muted.enabled.default": "462d81cb97193cfba7db3036adca607d92d39227",
-      "igreen.fg.secondary.muted.hover.default": "4c8a8fc6a7a2c0112c9b4beb613f630ab28326fc"
+      "igreen.fg.secondary.muted.hover.default": "4c8a8fc6a7a2c0112c9b4beb613f630ab28326fc",
+      "igreen.fg.disabled.default": "b953964298f432af33d586b6e4c55b9a68396a82"
     },
     "group": "Themes"
   },
@@ -461,7 +465,6 @@
       "igreen.button.base.borderRadius.rounded.lg": "6e4fa9216f5261a7e677243c01bfb9ace1edc823",
       "igreen.button.base.borderRadius.rounded.md": "78a35160fdb83f9218c22bcea588d0760b84d0b5",
       "igreen.button.base.borderRadius.rounded.sm": "57cf76ac5a979443b1884b76b3b2a7094aa8a982",
-      "igreen.button.base.borderRadius.pill": "3e99a1e980e0b576e16d2867262ee5911405d33d",
       "igreen.button.base.height.sm": "9c539649b2c85bf6ca9866ef1a18f3effdbd0aaf",
       "igreen.button.base.height.md": "67e609e7292fa90fe5844e677a003a4d3bfc1e47",
       "igreen.button.base.height.lg": "2885f627552e63d8f6eed225f4c5a062bd48abd8",
@@ -475,7 +478,8 @@
       "igreen.button.base.horizontals.padding.md": "a72d378a0d7d7664b8129d41e7f32fc79aa945ac",
       "igreen.button.icon.size.lg": "330511d59f7236c450fa051b06ccaa083c74a9ea",
       "igreen.button.icon.size.md": "91cb3034d7834918b4f3c71364eb19fca98c9168",
-      "igreen.button.icon.size.sm": "99ca4165ae432ba02606b517139a07b03dc9c46b"
+      "igreen.button.icon.size.sm": "99ca4165ae432ba02606b517139a07b03dc9c46b",
+      "igreen.button.base.borderRadius.pill": "3e99a1e980e0b576e16d2867262ee5911405d33d"
     },
     "group": "Components"
   },
@@ -503,6 +507,7 @@
       "igreen.button.base.borderRadius.rounded.lg": "6e4fa9216f5261a7e677243c01bfb9ace1edc823",
       "igreen.button.base.borderRadius.rounded.md": "78a35160fdb83f9218c22bcea588d0760b84d0b5",
       "igreen.button.base.borderRadius.rounded.sm": "57cf76ac5a979443b1884b76b3b2a7094aa8a982",
+      "igreen.button.base.borderRadius.pill": "3e99a1e980e0b576e16d2867262ee5911405d33d",
       "igreen.button.base.height.sm": "9c539649b2c85bf6ca9866ef1a18f3effdbd0aaf",
       "igreen.button.base.height.md": "67e609e7292fa90fe5844e677a003a4d3bfc1e47",
       "igreen.button.base.height.lg": "2885f627552e63d8f6eed225f4c5a062bd48abd8",
