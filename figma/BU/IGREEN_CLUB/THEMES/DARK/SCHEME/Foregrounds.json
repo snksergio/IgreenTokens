@@ -210,6 +210,44 @@
             "$type": "color",
             "$value": "{igreen.scheme.neutral}"
           }
+        },
+        "secondary": {
+          "main": {
+            "default": {
+              "$type": "color",
+              "$value": "{igreen.scheme.secondary}"
+            }
+          },
+          "strong": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.secondary}"
+            }
+          },
+          "muted": {
+            "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.secondary}"
+            }
+          }
         }
       }
     }

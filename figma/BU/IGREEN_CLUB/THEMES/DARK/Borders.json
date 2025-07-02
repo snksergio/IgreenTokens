@@ -70,6 +70,10 @@
         "$type": "color",
         "$value": "{igreen.scheme.primary}"
       },
+      "seconday": {
+        "$type": "color",
+        "$value": "{igreen.scheme.secondary}"
+      },
       "critical": {
         "$type": "color",
         "$value": "{igreen.scheme.critical}"
