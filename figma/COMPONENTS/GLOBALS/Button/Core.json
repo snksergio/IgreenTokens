@@ -54,7 +54,7 @@
             },
             "sm": {
               "$type": "spacing",
-              "$value": "{igreen.horizontals.padding.md}"
+              "$value": "{igreen.padding.md}"
             }
           }
         },
