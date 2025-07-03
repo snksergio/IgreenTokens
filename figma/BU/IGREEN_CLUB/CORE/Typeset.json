@@ -20,47 +20,47 @@
     "font-weight": {
       "display-light": {
         "$type": "fontWeights",
-        "$value": "ExtraLight"
+        "$value": "200"
       },
       "display-semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       },
       "title-semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       },
       "title-medium": {
         "$type": "fontWeights",
-        "$value": "Medium"
+        "$value": "500"
       },
       "body-regular": {
         "$type": "fontWeights",
-        "$value": "Regular"
+        "$value": "400"
       },
       "body-medium": {
         "$type": "fontWeights",
-        "$value": "Medium"
+        "$value": "500"
       },
       "body-semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       },
       "label-semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       },
       "button-semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       },
       "button-medium": {
         "$type": "fontWeights",
-        "$value": "Medium"
+        "$value": "500"
       },
       "label-regular": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "600"
       }
     },
     "line-height": {
