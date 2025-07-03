@@ -20,10 +20,6 @@
               "$type": "borderRadius",
               "$value": "{igreen.radii.xs}"
             }
-          },
-          "pill": {
-            "$type": "borderRadius",
-            "$value": "{igreen.radii.full}"
           }
         }
       }
