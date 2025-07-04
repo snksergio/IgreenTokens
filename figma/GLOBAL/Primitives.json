@@ -1,109 +1,109 @@
 {
   "igreen": {
-    "sizing": {
+    "dimension": {
       "1": {
         "$type": "sizing",
-        "$value": "0.25 * {igreen.sizing.base}"
+        "$value": "0.25 * {igreen.dimension.base}"
       },
       "2": {
         "$type": "sizing",
-        "$value": "0.25 * 2 * {igreen.sizing.base}"
+        "$value": "0.25 * 2 * {igreen.dimension.base}"
       },
       "3": {
         "$type": "sizing",
-        "$value": "0.25 * 3 * {igreen.sizing.base}"
+        "$value": "0.25 * 3 * {igreen.dimension.base}"
       },
       "4": {
         "$type": "sizing",
-        "$value": "0.25 * 4 * {igreen.sizing.base}"
+        "$value": "0.25 * 4 * {igreen.dimension.base}"
       },
       "5": {
         "$type": "sizing",
-        "$value": "0.25 * 5 * {igreen.sizing.base}"
+        "$value": "0.25 * 5 * {igreen.dimension.base}"
       },
       "6": {
         "$type": "sizing",
-        "$value": "0.25 * 6 * {igreen.sizing.base}"
+        "$value": "0.25 * 6 * {igreen.dimension.base}"
       },
       "7": {
         "$type": "sizing",
-        "$value": "0.25 * 7 * {igreen.sizing.base}"
+        "$value": "0.25 * 7 * {igreen.dimension.base}"
       },
       "8": {
         "$type": "sizing",
-        "$value": "0.25 * 8 * {igreen.sizing.base}"
+        "$value": "0.25 * 8 * {igreen.dimension.base}"
       },
       "9": {
         "$type": "sizing",
-        "$value": "0.25 * 9 * {igreen.sizing.base}"
+        "$value": "0.25 * 9 * {igreen.dimension.base}"
       },
       "10": {
         "$type": "sizing",
-        "$value": "0.25 * 10 * {igreen.sizing.base}"
+        "$value": "0.25 * 10 * {igreen.dimension.base}"
       },
       "11": {
         "$type": "sizing",
-        "$value": "0.25 * 11 * {igreen.sizing.base}"
+        "$value": "0.25 * 11 * {igreen.dimension.base}"
       },
       "12": {
         "$type": "sizing",
-        "$value": "0.25 * 12 * {igreen.sizing.base}"
+        "$value": "0.25 * 12 * {igreen.dimension.base}"
       },
       "13": {
         "$type": "sizing",
-        "$value": "0.25 * 13 * {igreen.sizing.base}"
+        "$value": "0.25 * 13 * {igreen.dimension.base}"
       },
       "14": {
         "$type": "sizing",
-        "$value": "0.25 * 14 * {igreen.sizing.base}"
+        "$value": "0.25 * 14 * {igreen.dimension.base}"
       },
       "15": {
         "$type": "sizing",
-        "$value": "0.25 * 15 * {igreen.sizing.base}"
+        "$value": "0.25 * 15 * {igreen.dimension.base}"
       },
       "16": {
         "$type": "sizing",
-        "$value": "0.25 * 16 * {igreen.sizing.base}"
+        "$value": "0.25 * 16 * {igreen.dimension.base}"
       },
       "17": {
         "$type": "sizing",
-        "$value": "0.25 * 18 * {igreen.sizing.base}"
+        "$value": "0.25 * 18 * {igreen.dimension.base}"
       },
       "18": {
         "$type": "sizing",
-        "$value": "0.25 * 21 * {igreen.sizing.base}"
+        "$value": "0.25 * 21 * {igreen.dimension.base}"
       },
       "19": {
         "$type": "sizing",
-        "$value": "0.25 * 24 * {igreen.sizing.base}"
+        "$value": "0.25 * 24 * {igreen.dimension.base}"
       },
       "20": {
         "$type": "sizing",
-        "$value": "0.25 * 28 * {igreen.sizing.base}"
+        "$value": "0.25 * 28 * {igreen.dimension.base}"
       },
       "21": {
         "$type": "sizing",
-        "$value": "0.25 * 32 * {igreen.sizing.base}"
+        "$value": "0.25 * 32 * {igreen.dimension.base}"
       },
       "22": {
         "$type": "sizing",
-        "$value": "0.25 * 36 * {igreen.sizing.base}"
+        "$value": "0.25 * 36 * {igreen.dimension.base}"
       },
       "23": {
         "$type": "sizing",
-        "$value": "0.25 * 44 * {igreen.sizing.base}"
+        "$value": "0.25 * 44 * {igreen.dimension.base}"
       },
       "24": {
         "$type": "sizing",
-        "$value": "0.25 * 48 * {igreen.sizing.base}"
+        "$value": "0.25 * 48 * {igreen.dimension.base}"
       },
       "3_5": {
         "$type": "sizing",
-        "$value": "0.25 * 3.5 * {igreen.sizing.base}"
+        "$value": "0.25 * 3.5 * {igreen.dimension.base}"
       },
       "10_5": {
         "$type": "sizing",
-        "$value": "0.25 * 10.5 * {igreen.sizing.base}"
+        "$value": "0.25 * 10.5 * {igreen.dimension.base}"
       },
       "base": {
         "$type": "sizing",
