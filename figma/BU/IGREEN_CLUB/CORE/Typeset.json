@@ -125,6 +125,11 @@
           "$type": "dimension",
           "$value": "roundTo( {igreen.font-size.body.lg} * 1.5 , 0)",
           "$description": "150%"
+        },
+        "xl": {
+          "$type": "dimension",
+          "$value": "roundTo( {igreen.font-size.body.xl} * 1.4 , 0)",
+          "$description": "150%"
         }
       },
       "label": {
@@ -203,6 +208,10 @@
         "lg": {
           "$type": "letterSpacing",
           "$value": "0"
+        },
+        "xl": {
+          "$type": "letterSpacing",
+          "$value": "0"
         }
       },
       "label": {
@@ -239,6 +248,10 @@
         "lg": {
           "$type": "dimension",
           "$value": "{igreen.font-size.sm}"
+        },
+        "xl": {
+          "$type": "dimension",
+          "$value": "{igreen.font-size.md}"
         },
         "md": {
           "$type": "dimension",
