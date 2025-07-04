@@ -325,7 +325,10 @@
       "igreen.typography.letter-spacing.button.sm": "db4b03cd079bc8a8f67973729b8e10f82c691ec1",
       "igreen.typography.font-family.brand": "a52da474110daf9787786145ce9c92c41c43a1c7",
       "igreen.typography.font-family.plain": "cf928a7af9ad11d4281d85f966979018a04eede5",
-      "igreen.typography.font-family.code": "e82e8a5aff660333311a36d0f5dad0fb06e1e829"
+      "igreen.typography.font-family.code": "e82e8a5aff660333311a36d0f5dad0fb06e1e829",
+      "igreen.typography.font-size.label.lg": "fdd296e59b26563afe767fd369ee4f65ad7f3d0c",
+      "igreen.typography.font-size.label.md": "5cb5e028bf1b2fd7908c3ba8f0ec130e52609104",
+      "igreen.typography.font-size.label.sm": "e397fbc5fb4996aa70d4ed2daf5b1bbfdb207691"
     },
     "$figmaModeId": "259:1",
     "$figmaCollectionId": "VariableCollectionId:259:3681",
@@ -563,7 +566,10 @@
       "igreen.typography.letter-spacing.button.sm": "db4b03cd079bc8a8f67973729b8e10f82c691ec1",
       "igreen.typography.font-family.brand": "a52da474110daf9787786145ce9c92c41c43a1c7",
       "igreen.typography.font-family.plain": "cf928a7af9ad11d4281d85f966979018a04eede5",
-      "igreen.typography.font-family.code": "e82e8a5aff660333311a36d0f5dad0fb06e1e829"
+      "igreen.typography.font-family.code": "e82e8a5aff660333311a36d0f5dad0fb06e1e829",
+      "igreen.typography.font-size.label.lg": "fdd296e59b26563afe767fd369ee4f65ad7f3d0c",
+      "igreen.typography.font-size.label.md": "5cb5e028bf1b2fd7908c3ba8f0ec130e52609104",
+      "igreen.typography.font-size.label.sm": "e397fbc5fb4996aa70d4ed2daf5b1bbfdb207691"
     },
     "group": "Themes"
   },

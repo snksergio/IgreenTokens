@@ -393,6 +393,20 @@
             "$type": "fontSizes",
             "$value": "{igreen.font-size.button.sm}"
           }
+        },
+        "label": {
+          "lg": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.label.lg}"
+          },
+          "md": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.label.md}"
+          },
+          "sm": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.label.sm}"
+          }
         }
       },
       "font-weight": {
