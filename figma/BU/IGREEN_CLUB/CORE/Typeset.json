@@ -18,49 +18,57 @@
       }
     },
     "font-weight": {
-      "display-light": {
+      "display-subtle": {
         "$type": "fontWeights",
         "$value": "200"
       },
-      "display-semibold": {
-        "$type": "fontWeights",
-        "$value": "600"
-      },
-      "title-semibold": {
-        "$type": "fontWeights",
-        "$value": "600"
-      },
-      "title-medium": {
-        "$type": "fontWeights",
-        "$value": "500"
-      },
-      "body-regular": {
+      "display-default": {
         "$type": "fontWeights",
         "$value": "400"
       },
-      "body-medium": {
+      "display-strong": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "title-strong": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "title-default": {
         "$type": "fontWeights",
         "$value": "500"
       },
-      "body-semibold": {
+      "title-subtle": {
         "$type": "fontWeights",
-        "$value": "600"
+        "$value": "400"
       },
-      "label-semibold": {
+      "body-subtle": {
         "$type": "fontWeights",
-        "$value": "600"
+        "$value": "400"
       },
-      "button-semibold": {
-        "$type": "fontWeights",
-        "$value": "600"
-      },
-      "button-medium": {
+      "body-default": {
         "$type": "fontWeights",
         "$value": "500"
       },
-      "label-regular": {
+      "label-default": {
         "$type": "fontWeights",
         "$value": "600"
+      },
+      "label-strong": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "body-strong": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "button-strong": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "button-default": {
+        "$type": "fontWeights",
+        "$value": "500"
       }
     },
     "line-height": {

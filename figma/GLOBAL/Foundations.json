@@ -466,6 +466,44 @@
         "$type": "borderWidth",
         "$value": "6"
       }
+    },
+    "font-weight": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "100"
+      },
+      "extraLight": {
+        "$type": "fontWeights",
+        "$value": "200"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "300"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "400"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "500"
+      },
+      "semiBold": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "700"
+      },
+      "extraBold": {
+        "$type": "fontWeights",
+        "$value": "800"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "900"
+      }
     }
   }
 }
