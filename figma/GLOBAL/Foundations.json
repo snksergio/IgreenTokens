@@ -214,35 +214,35 @@
     "font-size": {
       "xs2": {
         "$type": "fontSizes",
-        "$value": "10px"
+        "$value": "10"
       },
       "xs": {
         "$type": "fontSizes",
-        "$value": "12px"
+        "$value": "12"
       },
       "sm": {
         "$type": "fontSizes",
-        "$value": "14px"
+        "$value": "14"
       },
       "md": {
         "$type": "fontSizes",
-        "$value": "16px"
+        "$value": "16"
       },
       "lg": {
         "$type": "fontSizes",
-        "$value": "20px"
+        "$value": "20"
       },
       "xl": {
         "$type": "fontSizes",
-        "$value": "24px"
+        "$value": "24"
       },
       "xl2": {
         "$type": "fontSizes",
-        "$value": "32px"
+        "$value": "32"
       },
       "g": {
         "$type": "fontSizes",
-        "$value": "42px"
+        "$value": "42"
       }
     },
     "padding": {
