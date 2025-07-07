@@ -63,29 +63,7 @@
             "$type": "borderRadius",
             "$value": "{igreen.radii.full}"
           }
-        }
-      },
-      "icon": {
-        "size": {
-          "lg": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs}"
-          },
-          "md": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs2}"
-          },
-          "sm": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs2}"
-          }
-        }
-      }
-    }
-  },
-  "jf": {
-    "button": {
-      "base": {
+        },
         "outline": {
           "border": {
             "primary": {
@@ -136,6 +114,30 @@
                 "style": "solid"
               }
             }
+          }
+        },
+        "borderWidth": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.4}"
+        },
+        "borderColor": {
+          "$type": "color",
+          "$value": "{igreen.border-color.primary}"
+        }
+      },
+      "icon": {
+        "size": {
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
           }
         }
       }
