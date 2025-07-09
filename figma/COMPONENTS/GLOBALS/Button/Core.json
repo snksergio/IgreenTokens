@@ -118,7 +118,7 @@
         },
         "borderWidth": {
           "$type": "borderWidth",
-          "$value": "{borderWidth.4}"
+          "$value": "{igreen.border-width.thin}"
         },
         "borderColor": {
           "$type": "color",
