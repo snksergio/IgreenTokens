@@ -66,6 +66,10 @@
         "$type": "color",
         "$value": "{igreen.scheme.neutral}"
       },
+      "transparent": {
+        "$type": "color",
+        "$value": "transparent"
+      },
       "primary": {
         "$type": "color",
         "$value": "{igreen.scheme.primary}"
