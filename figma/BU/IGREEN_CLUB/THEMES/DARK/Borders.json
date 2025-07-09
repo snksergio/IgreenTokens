@@ -89,6 +89,10 @@
       "success": {
         "$type": "color",
         "$value": "{igreen.scheme.success}"
+      },
+      "transparent": {
+        "$type": "color",
+        "$value": "transparent"
       }
     }
   }
