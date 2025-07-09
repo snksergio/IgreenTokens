@@ -289,6 +289,19 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.secondary}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{igreen.scheme.mod-amount.10}",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.secondary}"
             }
           }
         },

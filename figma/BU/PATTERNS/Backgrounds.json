@@ -187,6 +187,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.secondary.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.secondary.main.inverse}"
             }
           },
           "hover": {
@@ -202,6 +206,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.secondary.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{igreen.scheme.mod-amount.2}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.secondary.main.inverse}"
             }
           }
         },
