@@ -722,8 +722,8 @@
       "igreen.button.base.outline.bg.disabled": "1775f3e6b793e94857feef7fd4cb82fc4851f212",
       "igreen.button.base.ghost.bg.disabled": "84b83f00061289adefc4603f62d4eeba871e5311",
       "igreen.button.base.default.fg.disabled": "0cd95ca41050819748828965b412fdf8c6c3cff7",
+      "igreen.button.base.default.fg.inverse.disabled": "758157f7d3e93ef5233a47b8df85c16e60793c78",
       "igreen.button.base.soft.fg.disabled": "ebc5b91903aeed455fe180d4297e0445d712eea6",
-      "igreen.button.base.soft.fg.inverse.disabled": "89b7011f4848a13a47fe5dd96d4295f5c25abfbc",
       "igreen.button.base.outline.fg.disabled": "cefe56adf669dbcc1c6a133460d04b1dec2f0a5a",
       "igreen.button.base.ghost.fg.disabled": "9b6effe9105211638c90c2eb1bda6a10eff8ff20",
       "igreen.button.base.border-color": "7228ca54a619b1d2bf17a3df5d3cc5d4b7246113",
@@ -731,10 +731,10 @@
       "igreen.button.base.outline.border-color.neutral.enabled": "7caaae704d71968d5f05cb779108710ad7749659",
       "igreen.button.base.outline.border-color.secondary.enabled": "d31e256a3fba8261a19551f848b0236b81ceb0fd",
       "igreen.button.base.outline.border-color.warning.enabled": "770313634fb0a01ab339d36b067a6306c862916c",
-      "igreen.button.base.borderRadius.rounded.xl": "cf2727e89175039d7d5b93990fcdc566ce91b2ac",
-      "igreen.button.base.borderRadius.rounded.lg": "4eb345c61cdeef9ce9cb699c00a28c008a782e3a",
-      "igreen.button.base.borderRadius.rounded.md": "b257e2956a0f014f3900a683d7e5d9dc91c66f89",
-      "igreen.button.base.borderRadius.rounded.sm": "850c35fa66f1d2210f4c84f149150f6af579e51f"
+      "igreen.button.base.borderRadius.rounded.xl": "0cb2c9bb83b8fb52002149779d02723b76119def",
+      "igreen.button.base.borderRadius.rounded.lg": "a235c7e6c274b610291b7dd2f620fc18ef9b5a0f",
+      "igreen.button.base.borderRadius.rounded.md": "c9921767d46db43e62e42477ff9124e137eda2a2",
+      "igreen.button.base.borderRadius.rounded.sm": "a6bc3c512a3281ea30e44d09b7a0331fdb3ef84f"
     },
     "group": "Components"
   },
@@ -821,8 +821,8 @@
       "igreen.button.base.outline.bg.disabled": "1775f3e6b793e94857feef7fd4cb82fc4851f212",
       "igreen.button.base.ghost.bg.disabled": "84b83f00061289adefc4603f62d4eeba871e5311",
       "igreen.button.base.default.fg.disabled": "0cd95ca41050819748828965b412fdf8c6c3cff7",
+      "igreen.button.base.default.fg.inverse.disabled": "758157f7d3e93ef5233a47b8df85c16e60793c78",
       "igreen.button.base.soft.fg.disabled": "ebc5b91903aeed455fe180d4297e0445d712eea6",
-      "igreen.button.base.soft.fg.inverse.disabled": "89b7011f4848a13a47fe5dd96d4295f5c25abfbc",
       "igreen.button.base.outline.fg.disabled": "cefe56adf669dbcc1c6a133460d04b1dec2f0a5a",
       "igreen.button.base.ghost.fg.disabled": "9b6effe9105211638c90c2eb1bda6a10eff8ff20",
       "igreen.button.base.border-color": "7228ca54a619b1d2bf17a3df5d3cc5d4b7246113",
@@ -830,10 +830,10 @@
       "igreen.button.base.outline.border-color.neutral.enabled": "7caaae704d71968d5f05cb779108710ad7749659",
       "igreen.button.base.outline.border-color.secondary.enabled": "d31e256a3fba8261a19551f848b0236b81ceb0fd",
       "igreen.button.base.outline.border-color.warning.enabled": "770313634fb0a01ab339d36b067a6306c862916c",
-      "igreen.button.base.borderRadius.pill.xl": "f45cdfe023563e620cc8b5429cd5eedff3a20c47",
-      "igreen.button.base.borderRadius.pill.lg": "f8eb77eb9eda341815a81ef36349ef365806f1b8",
-      "igreen.button.base.borderRadius.pill.md": "a10cf2acf26a9816a08bb3dceca72d03b11979d2",
-      "igreen.button.base.borderRadius.pill.sm": "3c1a735d23219150a39c085afb1e959a6cf015af"
+      "igreen.button.base.borderRadius.pill.xl": "6219a3032e3d3a96245e322862e1c59dc8b6adbb",
+      "igreen.button.base.borderRadius.pill.lg": "3ef87209dfe3c05f69dc9069f86a29c1f9fe1c20",
+      "igreen.button.base.borderRadius.pill.md": "00bd110e227e4b3fa6a0a643a2fc918c573de29e",
+      "igreen.button.base.borderRadius.pill.sm": "1c3f2546b55a4e9a738829052d64f8e367c68ccf"
     },
     "group": "Components"
   }
