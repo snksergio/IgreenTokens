@@ -3,7 +3,7 @@
     "button": {
       "base": {
         "borderRadius": {
-          "rounded": {
+          "pill": {
             "xl": {
               "$type": "borderRadius",
               "$value": "{igreen.radii.md}"
