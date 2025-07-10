@@ -213,7 +213,7 @@
                   "modify": {
                     "type": "darken",
                     "value": "{igreen.scheme.mod-amount.2}",
-                    "space": "lch"
+                    "space": "hsl"
                   }
                 }
               },
