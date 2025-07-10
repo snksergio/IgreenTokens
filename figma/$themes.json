@@ -731,10 +731,10 @@
       "igreen.button.base.outline.border-color.neutral.enabled": "7caaae704d71968d5f05cb779108710ad7749659",
       "igreen.button.base.outline.border-color.secondary.enabled": "d31e256a3fba8261a19551f848b0236b81ceb0fd",
       "igreen.button.base.outline.border-color.warning.enabled": "770313634fb0a01ab339d36b067a6306c862916c",
-      "igreen.button.base.borderRadius.rounded.xl": "0cb2c9bb83b8fb52002149779d02723b76119def",
-      "igreen.button.base.borderRadius.rounded.lg": "a235c7e6c274b610291b7dd2f620fc18ef9b5a0f",
-      "igreen.button.base.borderRadius.rounded.md": "c9921767d46db43e62e42477ff9124e137eda2a2",
-      "igreen.button.base.borderRadius.rounded.sm": "a6bc3c512a3281ea30e44d09b7a0331fdb3ef84f"
+      "igreen.button.base.borderRadius.xl": "0cb2c9bb83b8fb52002149779d02723b76119def",
+      "igreen.button.base.borderRadius.lg": "a235c7e6c274b610291b7dd2f620fc18ef9b5a0f",
+      "igreen.button.base.borderRadius.md": "c9921767d46db43e62e42477ff9124e137eda2a2",
+      "igreen.button.base.borderRadius.sm": "a6bc3c512a3281ea30e44d09b7a0331fdb3ef84f"
     },
     "group": "Components"
   },
@@ -830,10 +830,10 @@
       "igreen.button.base.outline.border-color.neutral.enabled": "7caaae704d71968d5f05cb779108710ad7749659",
       "igreen.button.base.outline.border-color.secondary.enabled": "d31e256a3fba8261a19551f848b0236b81ceb0fd",
       "igreen.button.base.outline.border-color.warning.enabled": "770313634fb0a01ab339d36b067a6306c862916c",
-      "igreen.button.base.borderRadius.pill.xl": "6219a3032e3d3a96245e322862e1c59dc8b6adbb",
-      "igreen.button.base.borderRadius.pill.lg": "3ef87209dfe3c05f69dc9069f86a29c1f9fe1c20",
-      "igreen.button.base.borderRadius.pill.md": "00bd110e227e4b3fa6a0a643a2fc918c573de29e",
-      "igreen.button.base.borderRadius.pill.sm": "1c3f2546b55a4e9a738829052d64f8e367c68ccf"
+      "igreen.button.base.borderRadius.xl": "6219a3032e3d3a96245e322862e1c59dc8b6adbb",
+      "igreen.button.base.borderRadius.lg": "3ef87209dfe3c05f69dc9069f86a29c1f9fe1c20",
+      "igreen.button.base.borderRadius.md": "00bd110e227e4b3fa6a0a643a2fc918c573de29e",
+      "igreen.button.base.borderRadius.sm": "1c3f2546b55a4e9a738829052d64f8e367c68ccf"
     },
     "group": "Components"
   }
