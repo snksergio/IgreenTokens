@@ -74,7 +74,7 @@
         "$type": "color",
         "$value": "{igreen.scheme.primary}"
       },
-      "seconday": {
+      "secondary": {
         "$type": "color",
         "$value": "{igreen.scheme.secondary}"
       },

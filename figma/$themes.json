@@ -148,7 +148,6 @@
       "igreen.border-color.muted": "533fb2177bb9af4b49da6064036dccdbbfc74202",
       "igreen.border-color.inverse": "1cf3f1f46598631a809d39fc401f4915b3138091",
       "igreen.border-color.primary": "cbd4459b28758fcbb44031b9dc5650bb6167d3dc",
-      "igreen.border-color.seconday": "957ac57c00a1fa660b9d0a22306fc84ddeb81238",
       "igreen.border-color.critical": "1a7dc619f945e9f845362c7b4aa4628662d5ae3d",
       "igreen.border-color.warning": "b1847b3c4429cfd1bbeb6ba8f867d023869a0a2f",
       "igreen.border-color.info": "274ee94e1f29462feea7e1cc57606339aec60a37",
@@ -340,7 +339,8 @@
       "igreen.typography.color.title": "c740cb1b4a07694a2ddd8c86dab9c4f6f54d97a1",
       "igreen.typography.color.body": "02bc1135d07ba87232af9ddbeb28683864c47272",
       "igreen.typography.color.label": "fa55ff3847e517b23ce3046f31164d46e27b5db8",
-      "igreen.typography.color.button": "435e9ab7cea05dc3f5bd444e013f4852fbabd33c"
+      "igreen.typography.color.button": "435e9ab7cea05dc3f5bd444e013f4852fbabd33c",
+      "igreen.border-color.secondary": "957ac57c00a1fa660b9d0a22306fc84ddeb81238"
     },
     "$figmaModeId": "1:1",
     "$figmaCollectionId": "VariableCollectionId:1:3",
@@ -402,7 +402,6 @@
       "igreen.border-color.inverse": "1cf3f1f46598631a809d39fc401f4915b3138091",
       "igreen.border-color.transparent": "9212aca22f0bfc0d326a56dc9e50f1e40cc08af9",
       "igreen.border-color.primary": "cbd4459b28758fcbb44031b9dc5650bb6167d3dc",
-      "igreen.border-color.seconday": "957ac57c00a1fa660b9d0a22306fc84ddeb81238",
       "igreen.border-color.critical": "1a7dc619f945e9f845362c7b4aa4628662d5ae3d",
       "igreen.border-color.warning": "b1847b3c4429cfd1bbeb6ba8f867d023869a0a2f",
       "igreen.border-color.info": "274ee94e1f29462feea7e1cc57606339aec60a37",
@@ -593,7 +592,8 @@
       "igreen.typography.color.title": "c740cb1b4a07694a2ddd8c86dab9c4f6f54d97a1",
       "igreen.typography.color.body": "02bc1135d07ba87232af9ddbeb28683864c47272",
       "igreen.typography.color.label": "fa55ff3847e517b23ce3046f31164d46e27b5db8",
-      "igreen.typography.color.button": "435e9ab7cea05dc3f5bd444e013f4852fbabd33c"
+      "igreen.typography.color.button": "435e9ab7cea05dc3f5bd444e013f4852fbabd33c",
+      "igreen.border-color.secondary": "957ac57c00a1fa660b9d0a22306fc84ddeb81238"
     },
     "group": "Themes"
   },
