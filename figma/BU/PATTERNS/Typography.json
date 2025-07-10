@@ -310,6 +310,28 @@
           "$type": "fontFamilies",
           "$value": "{igreen.font-family.code}"
         }
+      },
+      "color": {
+        "display": {
+          "$type": "color",
+          "$value": "{igreen.fg.strong.enabled.default}"
+        },
+        "title": {
+          "$type": "color",
+          "$value": "{igreen.fg.strong.enabled.default}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{igreen.fg.main.enabled.default}"
+        },
+        "label": {
+          "$type": "color",
+          "$value": "{igreen.fg.muted.enabled.default}"
+        },
+        "button": {
+          "$type": "color",
+          "$value": "{igreen.fg.primary.main.enabled.default}"
+        }
       }
     }
   }
