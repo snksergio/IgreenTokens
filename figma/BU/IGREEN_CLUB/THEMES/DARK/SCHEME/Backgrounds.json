@@ -296,7 +296,7 @@
                   "modify": {
                     "type": "lighten",
                     "value": "{igreen.scheme.mod-amount.10}",
-                    "space": "lch"
+                    "space": "hsl"
                   }
                 }
               },
