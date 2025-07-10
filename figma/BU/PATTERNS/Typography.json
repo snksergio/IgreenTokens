@@ -90,6 +90,18 @@
           "strong": {
             "$type": "fontWeights",
             "$value": "{igreen.font-weight.display-strong}"
+          },
+          "lg": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.display-default}"
+          },
+          "md": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.display-default}"
+          },
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.display-default}"
           }
         },
         "title": {
@@ -104,6 +116,18 @@
           "strong": {
             "$type": "fontWeights",
             "$value": "{igreen.font-weight.title-strong}"
+          },
+          "lg": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.title-strong}"
+          },
+          "md": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.title-default}"
+          },
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.title-default}"
           }
         },
         "body": {
@@ -118,6 +142,22 @@
           "strong": {
             "$type": "fontWeights",
             "$value": "{igreen.font-weight.body-strong}"
+          },
+          "xl": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.body-default}"
+          },
+          "lg": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.body-default}"
+          },
+          "md": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.body-default}"
+          },
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.body-default}"
           }
         },
         "label": {
@@ -132,6 +172,18 @@
           "strong": {
             "$type": "fontWeights",
             "$value": "{igreen.font-weight.label-strong}"
+          },
+          "lg": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.label-subtle}"
+          },
+          "md": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.label-default}"
+          },
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.label-default}"
           }
         },
         "button": {
@@ -142,6 +194,18 @@
           "strong": {
             "$type": "fontWeights",
             "$value": "{igreen.font-weight.button-strong}"
+          },
+          "lg": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.button-default}"
+          },
+          "md": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.button-default}"
+          },
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.button-default}"
           }
         }
       },
@@ -309,6 +373,26 @@
         "code": {
           "$type": "fontFamilies",
           "$value": "{igreen.font-family.code}"
+        },
+        "display": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.brand}"
+        },
+        "title": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.brand}"
+        },
+        "body": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.plain}"
+        },
+        "label": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.plain}"
+        },
+        "button": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.brand}"
         }
       },
       "color": {
