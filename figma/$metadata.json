@@ -17,9 +17,10 @@
     "BU/PATTERNS/Typography",
     "BU/PATTERNS/COMPS/Forms/Mobile",
     "BU/PATTERNS/COMPS/Forms/Desktop",
-    "COMPONENTS/GLOBALS/Icon/Core",
     "COMPONENTS/GLOBALS/Button/Core",
     "COMPONENTS/GLOBALS/Button/Mobile",
-    "COMPONENTS/GLOBALS/Button/Desktop"
+    "COMPONENTS/GLOBALS/Button/Desktop",
+    "COMPONENTS/GLOBALS/Icon/Core",
+    "COMPONENTS/MOBILE/Illustration/Core"
   ]
 }

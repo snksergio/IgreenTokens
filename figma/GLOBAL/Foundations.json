@@ -56,6 +56,14 @@
       "xg": {
         "$type": "sizing",
         "$value": "{igreen.dimension.16}"
+      },
+      "xg2": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.18}"
+      },
+      "xg3": {
+        "$type": "sizing",
+        "$value": "{igreen.dimension.19}"
       }
     },
     "scheme": {

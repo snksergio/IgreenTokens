@@ -6,7 +6,7 @@
     "selectedTokenSets": {
       "GLOBAL/Primitives": "enabled",
       "GLOBAL/Foundations": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "disabled"
+      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:2",
     "$figmaModeId": "1:0",
@@ -52,6 +52,8 @@
       "igreen.size.xl4": "eb5aa279bcad695c8c100f31662f7084f151f693",
       "igreen.size.g": "23e671ef1e4edfbb646ccc31fd8162b6fa91c507",
       "igreen.size.xg": "9c9064073a035b3ac510bccab1b06a68ae0b74c8",
+      "igreen.size.xg2": "fa16d55ff8edd5a70c7598e382f3ed74b5c350fd",
+      "igreen.size.xg3": "88b2e013fc30418bc093b4bc8902eb21a41c5aca",
       "igreen.gap.0": "8d0bccb8b8977f7ff9b28665f8f5a6eca4a4a3b8",
       "igreen.gap.xs2": "a6b643040c33a1b4e38d660bc3304a63631691f9",
       "igreen.gap.xs": "d88ef49f6a8a53d8ceb5e4371a2ce21b1881da5d",
@@ -140,7 +142,7 @@
       "BU/IGREEN_CLUB/CORE/Typeset": "source",
       "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "enabled",
       "BU/PATTERNS/Typography": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "disabled"
+      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -414,7 +416,7 @@
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
       "BU/IGREEN_CLUB/CORE/Typeset": "source",
       "BU/PATTERNS/Typography": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "disabled"
+      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:3",
     "$figmaModeId": "1:2",
@@ -652,7 +654,8 @@
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "BU/PATTERNS/COMPS/Forms/Desktop": "enabled",
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "enabled"
+      "COMPONENTS/GLOBALS/Icon/Core": "enabled",
+      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:4",
     "$figmaModeId": "1:3",
@@ -667,12 +670,6 @@
       "igreen.button.base.borderRadius.lg": "3ef87209dfe3c05f69dc9069f86a29c1f9fe1c20",
       "igreen.button.base.borderRadius.md": "00bd110e227e4b3fa6a0a643a2fc918c573de29e",
       "igreen.button.base.borderRadius.sm": "1c3f2546b55a4e9a738829052d64f8e367c68ccf",
-      "igreen.icon.base.size.xs": "b5ed10b88d4dfc6b54a2c09cecc4a43101328647",
-      "igreen.icon.base.size.sm": "f5235a7e23301fac0ef3157c28d5e73eb23a0d2b",
-      "igreen.icon.base.size.md": "d9ab0502527db3ea0365ff2b7f3240a681fda400",
-      "igreen.icon.base.size.lg": "1becd35491d34de880b3bbe64a6300d4b00e0953",
-      "igreen.icon.base.size.xl": "868b82163c83a5d6a30b91ef9cf8595ed132e973",
-      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8",
       "igreen.button.base.height.sm": "06cd3e4ef162a1f35b27f6d17ab39d520ab05a14",
       "igreen.button.base.height.md": "fb05604be4e8a6343f62ebbd000351e6560d8753",
       "igreen.button.base.height.lg": "fa92d08ff35404178ae94c04e7359742cd615c9b",
@@ -745,7 +742,13 @@
       "igreen.button.base.border-color": "7228ca54a619b1d2bf17a3df5d3cc5d4b7246113",
       "igreen.button.icon.size.lg": "84f8e946286d3fe4c2ef2b2bc28dc48612615996",
       "igreen.button.icon.size.md": "a19b4e6cda163a9503ad5318f5b69c664a0a7433",
-      "igreen.button.icon.size.sm": "36cd5be4006f5af9420ae20757a7d71f8fb1f802"
+      "igreen.button.icon.size.sm": "36cd5be4006f5af9420ae20757a7d71f8fb1f802",
+      "igreen.icon.base.size.xs": "b5ed10b88d4dfc6b54a2c09cecc4a43101328647",
+      "igreen.icon.base.size.sm": "f5235a7e23301fac0ef3157c28d5e73eb23a0d2b",
+      "igreen.icon.base.size.md": "d9ab0502527db3ea0365ff2b7f3240a681fda400",
+      "igreen.icon.base.size.lg": "1becd35491d34de880b3bbe64a6300d4b00e0953",
+      "igreen.icon.base.size.xl": "868b82163c83a5d6a30b91ef9cf8595ed132e973",
+      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8"
     },
     "group": "Components"
   },
@@ -759,7 +762,8 @@
       "GLOBAL/Foundations": "source",
       "BU/PATTERNS/COMPS/Forms/Mobile": "enabled",
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "enabled"
+      "COMPONENTS/GLOBALS/Icon/Core": "enabled",
+      "COMPONENTS/MOBILE/Illustration/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:4",
     "$figmaModeId": "1:4",
@@ -774,12 +778,6 @@
       "igreen.button.base.borderRadius.lg": "3ef87209dfe3c05f69dc9069f86a29c1f9fe1c20",
       "igreen.button.base.borderRadius.md": "00bd110e227e4b3fa6a0a643a2fc918c573de29e",
       "igreen.button.base.borderRadius.sm": "1c3f2546b55a4e9a738829052d64f8e367c68ccf",
-      "igreen.icon.base.size.xs": "b5ed10b88d4dfc6b54a2c09cecc4a43101328647",
-      "igreen.icon.base.size.sm": "f5235a7e23301fac0ef3157c28d5e73eb23a0d2b",
-      "igreen.icon.base.size.md": "d9ab0502527db3ea0365ff2b7f3240a681fda400",
-      "igreen.icon.base.size.lg": "1becd35491d34de880b3bbe64a6300d4b00e0953",
-      "igreen.icon.base.size.xl": "868b82163c83a5d6a30b91ef9cf8595ed132e973",
-      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8",
       "igreen.button.base.height.sm": "06cd3e4ef162a1f35b27f6d17ab39d520ab05a14",
       "igreen.button.base.height.md": "fb05604be4e8a6343f62ebbd000351e6560d8753",
       "igreen.button.base.height.lg": "fa92d08ff35404178ae94c04e7359742cd615c9b",
@@ -852,7 +850,19 @@
       "igreen.button.base.border-color": "7228ca54a619b1d2bf17a3df5d3cc5d4b7246113",
       "igreen.button.icon.size.lg": "84f8e946286d3fe4c2ef2b2bc28dc48612615996",
       "igreen.button.icon.size.md": "a19b4e6cda163a9503ad5318f5b69c664a0a7433",
-      "igreen.button.icon.size.sm": "36cd5be4006f5af9420ae20757a7d71f8fb1f802"
+      "igreen.button.icon.size.sm": "36cd5be4006f5af9420ae20757a7d71f8fb1f802",
+      "igreen.icon.base.size.xs": "b5ed10b88d4dfc6b54a2c09cecc4a43101328647",
+      "igreen.icon.base.size.sm": "f5235a7e23301fac0ef3157c28d5e73eb23a0d2b",
+      "igreen.icon.base.size.md": "d9ab0502527db3ea0365ff2b7f3240a681fda400",
+      "igreen.icon.base.size.lg": "1becd35491d34de880b3bbe64a6300d4b00e0953",
+      "igreen.icon.base.size.xl": "868b82163c83a5d6a30b91ef9cf8595ed132e973",
+      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8",
+      "igreen.illustration.base.size.xs": "a188e7ab04207dc621076a913bf2a26b0675dc22",
+      "igreen.illustration.base.size.sm": "8f9f982d6e11c5fc397ed3e573ac40fb36f50999",
+      "igreen.illustration.base.size.md": "92c8394410a1955305b8bfac000d48d166bf5acf",
+      "igreen.illustration.base.size.lg": "220261312834d59d2bbcc3070870d84c90c9f43d",
+      "igreen.illustration.base.size.xl": "5b9ae20a477ecf57c7c38416496fe0bea0c7ac9c",
+      "igreen.illustration.base.size.xl2": "bc66dba9183bb1bb96f4e553fb0b27849d928714"
     },
     "group": "Components"
   }

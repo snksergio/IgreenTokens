@@ -1,0 +1,34 @@
+{
+  "igreen": {
+    "illustration": {
+      "base": {
+        "size": {
+          "xs": {
+            "$type": "sizing",
+            "$value": "{igreen.size.sm}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.lg}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xl3}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xg}"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xg2}"
+          },
+          "xl2": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xg3}"
+          }
+        }
+      }
+    }
+  }
+}
