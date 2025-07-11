@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "GLOBAL/Primitives": "enabled",
-      "GLOBAL/Foundations": "enabled",
-      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
+      "GLOBAL/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:2",
     "$figmaModeId": "1:0",
@@ -141,8 +140,7 @@
       "BU/IGREEN_CLUB/THEMES/LIGHT/SCHEME/Foregrounds": "source",
       "BU/IGREEN_CLUB/CORE/Typeset": "source",
       "BU/IGREEN_CLUB/THEMES/LIGHT/Borders": "enabled",
-      "BU/PATTERNS/Typography": "enabled",
-      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
+      "BU/PATTERNS/Typography": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -415,8 +413,7 @@
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Backgrounds": "source",
       "BU/IGREEN_CLUB/THEMES/DARK/SCHEME/Foregrounds": "source",
       "BU/IGREEN_CLUB/CORE/Typeset": "source",
-      "BU/PATTERNS/Typography": "enabled",
-      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
+      "BU/PATTERNS/Typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:3",
     "$figmaModeId": "1:2",
@@ -654,8 +651,7 @@
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "BU/PATTERNS/COMPS/Forms/Desktop": "enabled",
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "enabled",
-      "COMPONENTS/MOBILE/Illustration/Core": "disabled"
+      "COMPONENTS/GLOBALS/Icon/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:4",
     "$figmaModeId": "1:3",
