@@ -1,0 +1,34 @@
+{
+  "igreen": {
+    "icon": {
+      "base": {
+        "size": {
+          "xs": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.sm}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.lg}"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xl}"
+          }
+        }
+      },
+      "fill": {
+        "$type": "color",
+        "$value": "{igreen.fg.main.enabled.default}"
+      }
+    }
+  }
+}
