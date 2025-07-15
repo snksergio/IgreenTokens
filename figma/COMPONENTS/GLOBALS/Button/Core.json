@@ -461,22 +461,6 @@
           "$value": "{igreen.border-color.transparent}"
         }
       },
-      "icon": {
-        "size": {
-          "lg": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs}"
-          },
-          "md": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs2}"
-          },
-          "sm": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs2}"
-          }
-        }
-      },
       "text": {
         "size": {
           "xl": {
@@ -494,6 +478,26 @@
           "sm": {
             "$type": "other",
             "$value": "md"
+          }
+        }
+      },
+      "icon": {
+        "size": {
+          "xl": {
+            "$type": "text",
+            "$value": "sm"
+          },
+          "lg": {
+            "$type": "text",
+            "$value": "sm"
+          },
+          "md": {
+            "$type": "text",
+            "$value": "xs"
+          },
+          "sm": {
+            "$type": "text",
+            "$value": "xs"
           }
         }
       }
