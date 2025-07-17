@@ -60,8 +60,18 @@
             }
           },
           "padding-horizontal": {
-            "$type": "spacing",
-            "$value": "{igreen.dimension.1_5}"
+            "lg": {
+              "$type": "spacing",
+              "$value": "{igreen.dimension.1_5}"
+            },
+            "md": {
+              "$type": "spacing",
+              "$value": "{igreen.dimension.1}"
+            },
+            "sm": {
+              "$type": "spacing",
+              "$value": "{igreen.dimension.1}"
+            }
           }
         },
         "TranslateX": {
