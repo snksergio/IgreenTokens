@@ -745,8 +745,6 @@
       "igreen.button.icon.size.sm": "479280ae02dcca0843016673ce6ab1a7e041aacd",
       "igreen.badge.base.size.sm": "7387fddffbcad6a944ab24d3449c3d983c2bfb52",
       "igreen.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2",
-      "igreen.badge.base.count.min-width": "f8b82c498c3a7fea2a910cc97871674be07f21e0",
-      "igreen.badge.base.count.height": "0fc75f9ff6a72cf240ca87e93af302076e774617",
       "igreen.badge.base.size.md": "f3608f34ed12bb2f98ff8b92d425461ef744ac03",
       "igreen.badge.base.size.lg": "b39b5c94bec5befda391d97d35b8dfb130c8a5e9",
       "igreen.badge.Typography.size": "e11e9993f298a54bdb1081594721d9adc58170b6",
@@ -766,7 +764,9 @@
       "igreen.icon.base.size.md": "d9ab0502527db3ea0365ff2b7f3240a681fda400",
       "igreen.icon.base.size.lg": "1becd35491d34de880b3bbe64a6300d4b00e0953",
       "igreen.icon.base.size.xl": "868b82163c83a5d6a30b91ef9cf8595ed132e973",
-      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8"
+      "igreen.icon.fill": "f109be7e27c0a9e597ede4e135df9ea9de7de1e8",
+      "igreen.badge.base.count.min-width.lg": "f8b82c498c3a7fea2a910cc97871674be07f21e0",
+      "igreen.badge.base.count.height.lg": "0fc75f9ff6a72cf240ca87e93af302076e774617"
     },
     "group": "Components"
   },
@@ -873,8 +873,6 @@
       "igreen.button.icon.size.sm": "479280ae02dcca0843016673ce6ab1a7e041aacd",
       "igreen.badge.base.size.sm": "7387fddffbcad6a944ab24d3449c3d983c2bfb52",
       "igreen.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2",
-      "igreen.badge.base.count.min-width": "f8b82c498c3a7fea2a910cc97871674be07f21e0",
-      "igreen.badge.base.count.height": "0fc75f9ff6a72cf240ca87e93af302076e774617",
       "igreen.badge.base.size.md": "f3608f34ed12bb2f98ff8b92d425461ef744ac03",
       "igreen.badge.base.size.lg": "b39b5c94bec5befda391d97d35b8dfb130c8a5e9",
       "igreen.badge.Typography.size": "e11e9993f298a54bdb1081594721d9adc58170b6",
@@ -900,7 +898,9 @@
       "igreen.illustration.base.size.md": "0c8ff3a005f906991180fac905cee9e11797a3a9",
       "igreen.illustration.base.size.lg": "16af9cbf51f3a67da275123c6621cfacb8e08844",
       "igreen.illustration.base.size.xl": "b09226eb4245cf4d39e9f6dcc7b7f4679700c5b4",
-      "igreen.illustration.base.size.xl2": "5f4c332c46b70a263b49cdeb79bbc1a0404f0c4c"
+      "igreen.illustration.base.size.xl2": "5f4c332c46b70a263b49cdeb79bbc1a0404f0c4c",
+      "igreen.badge.base.count.min-width.lg": "f8b82c498c3a7fea2a910cc97871674be07f21e0",
+      "igreen.badge.base.count.height.lg": "0fc75f9ff6a72cf240ca87e93af302076e774617"
     },
     "group": "Components"
   }

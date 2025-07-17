@@ -16,6 +16,54 @@
             "$value": "{igreen.size.xs3}"
           }
         },
+        "count": {
+          "size": {
+            "sm": {
+              "$type": "sizing",
+              "$value": "{igreen.dimension.3}"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "{igreen.dimension.4}"
+            },
+            "lg": {
+              "$type": "sizing",
+              "$value": "{igreen.dimension.5}"
+            }
+          },
+          "min-width": {
+            "lg": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs}"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs2}"
+            },
+            "sm": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs3}"
+            }
+          },
+          "height": {
+            "lg": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs}"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs2}"
+            },
+            "sm": {
+              "$type": "sizing",
+              "$value": "{igreen.size.xs3}"
+            }
+          },
+          "padding-horizontal": {
+            "$type": "spacing",
+            "$value": "{igreen.dimension.1_5}"
+          }
+        },
         "TranslateX": {
           "left": {
             "sm": {
@@ -78,20 +126,6 @@
               "$type": "sizing",
               "$value": "-{igreen.badge.base.size.lg} / 2"
             }
-          }
-        },
-        "count": {
-          "min-width": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs}"
-          },
-          "height": {
-            "$type": "sizing",
-            "$value": "{igreen.size.xs}"
-          },
-          "padding-horizontal": {
-            "$type": "spacing",
-            "$value": "{igreen.dimension.1_5}"
           }
         },
         "bg": {
