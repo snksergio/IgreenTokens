@@ -25,6 +25,10 @@
             "$type": "sizing",
             "$value": "{igreen.size.xs}"
           },
+          "position": {
+            "$type": "sizing",
+            "$value": "{igreen.badge.base.count.height} / 2"
+          },
           "padding-horizontal": {
             "$type": "spacing",
             "$value": "{igreen.dimension.1_5}"
