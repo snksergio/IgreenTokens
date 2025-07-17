@@ -17,125 +17,17 @@
           }
         },
         "count": {
-          "size": {
-            "sm": {
-              "$type": "sizing",
-              "$value": "{igreen.dimension.3}"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "{igreen.dimension.4}"
-            },
-            "lg": {
-              "$type": "sizing",
-              "$value": "{igreen.dimension.5}"
-            }
-          },
           "min-width": {
-            "lg": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs}"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs2}"
-            },
-            "sm": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs3}"
-            }
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
           },
           "height": {
-            "lg": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs}"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs2}"
-            },
-            "sm": {
-              "$type": "sizing",
-              "$value": "{igreen.size.xs3}"
-            }
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
           },
           "padding-horizontal": {
-            "lg": {
-              "$type": "spacing",
-              "$value": "{igreen.dimension.1_5}"
-            },
-            "md": {
-              "$type": "spacing",
-              "$value": "{igreen.dimension.1}"
-            },
-            "sm": {
-              "$type": "spacing",
-              "$value": "{igreen.dimension.1}"
-            }
-          }
-        },
-        "TranslateX": {
-          "left": {
-            "sm": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.sm} / 2"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.md} / 2"
-            },
-            "lg": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.lg} / 2"
-            }
-          },
-          "right": {
-            "sm": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.sm} / 2"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.md} / 2"
-            },
-            "lg": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.lg} / 2"
-            }
-          }
-        },
-        "position": {
-          "$type": "sizing",
-          "$value": "0"
-        },
-        "TranslateY": {
-          "top": {
-            "sm": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.sm} / 2"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.md} / 2"
-            },
-            "lg": {
-              "$type": "sizing",
-              "$value": "{igreen.badge.base.size.lg} / 2"
-            }
-          },
-          "bottom": {
-            "sm": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.sm} / 2"
-            },
-            "md": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.md} / 2"
-            },
-            "lg": {
-              "$type": "sizing",
-              "$value": "-{igreen.badge.base.size.lg} / 2"
-            }
+            "$type": "spacing",
+            "$value": "{igreen.dimension.1_5}"
           }
         },
         "bg": {
@@ -154,6 +46,20 @@
           "info": {
             "$type": "color",
             "$value": "{igreen.bg.info.main.enabled.default}"
+          }
+        },
+        "position": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "-{igreen.badge.base.size.sm} / 2"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "-{igreen.badge.base.size.md} / 2"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "-{igreen.badge.base.size.lg} / 2"
           }
         }
       },
