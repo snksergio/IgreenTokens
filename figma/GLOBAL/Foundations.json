@@ -1,6 +1,10 @@
 {
   "igreen": {
     "size": {
+      "0": {
+        "$type": "sizing",
+        "$value": "0"
+      },
       "xs5": {
         "$type": "sizing",
         "$value": "{igreen.dimension.1}"
@@ -423,6 +427,18 @@
       "black": {
         "$type": "fontWeights",
         "$value": "900"
+      }
+    },
+    "width": {
+      "full": {
+        "$type": "sizing",
+        "$value": "100%"
+      }
+    },
+    "height": {
+      "full": {
+        "$type": "sizing",
+        "$value": "100%"
       }
     }
   }

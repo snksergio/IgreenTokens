@@ -83,6 +83,14 @@
         "$type": "borderRadius",
         "$value": "{igreen.radii.full}"
       }
+    },
+    "ring": {
+      "position": {
+        "all": {
+          "$type": "sizing",
+          "$value": "{igreen.size.0}"
+        }
+      }
     }
   }
 }
