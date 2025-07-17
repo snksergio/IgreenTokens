@@ -1,0 +1,52 @@
+{
+  "igreen": {
+    "badge": {
+      "base": {
+        "size": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.dimension.1_5}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs4}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs3}"
+          }
+        },
+        "count": {
+          "min-width": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "height": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "padding-horizontal": {
+            "$type": "sizing",
+            "$value": "{igreen.badge.base.size.sm}"
+          }
+        }
+      },
+      "ring": {
+        "padding": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xs5}"
+        }
+      },
+      "Typography": {
+        "size": {
+          "$type": "text",
+          "$value": "sm"
+        },
+        "variant": {
+          "$type": "text",
+          "$value": "body"
+        }
+      }
+    }
+  }
+}
