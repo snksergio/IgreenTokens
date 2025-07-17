@@ -58,7 +58,7 @@
           "$type": "text",
           "$value": "body"
         },
-        "color": {
+        "fg": {
           "$type": "color",
           "$value": "{igreen.color.white}"
         }
