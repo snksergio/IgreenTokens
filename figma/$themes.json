@@ -651,7 +651,8 @@
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "BU/PATTERNS/COMPS/Forms/Desktop": "enabled",
       "COMPONENTS/GLOBALS/Button/Desktop": "enabled",
-      "COMPONENTS/GLOBALS/Icon/Core": "enabled"
+      "COMPONENTS/GLOBALS/Icon/Core": "enabled",
+      "COMPONENTS/GLOBALS/Badge/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:4",
     "$figmaModeId": "1:3",
@@ -760,7 +761,8 @@
       "BU/PATTERNS/COMPS/Forms/Mobile": "enabled",
       "COMPONENTS/GLOBALS/Button/Core": "enabled",
       "COMPONENTS/GLOBALS/Icon/Core": "enabled",
-      "COMPONENTS/MOBILE/Illustration/Core": "enabled"
+      "COMPONENTS/MOBILE/Illustration/Core": "enabled",
+      "COMPONENTS/GLOBALS/Badge/Core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:4",
     "$figmaModeId": "1:4",

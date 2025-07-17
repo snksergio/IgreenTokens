@@ -25,25 +25,27 @@
             "$type": "sizing",
             "$value": "{igreen.size.xs}"
           },
-          "padding-horizontaldd": {
-            "$type": "sizing",
+          "padding-horizontal": {
+            "$type": "spacing",
             "$value": "{igreen.dimension.1_5}"
           }
-        }
-      },
-      "ring": {
-        "padding": {
-          "$type": "sizing",
-          "$value": "{igreen.size.xs5}"
         },
-        "opacity": {
-          "default": {
-            "$type": "opacity",
-            "$value": "0.1"
+        "bg": {
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.bg.critical.main.enabled.default}"
           },
-          "solid": {
-            "$type": "opacity",
-            "$value": "1"
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.bg.success.main.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.bg.warning.main.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.bg.info.main.enabled.default}"
           }
         }
       },
@@ -60,6 +62,26 @@
           "$type": "color",
           "$value": "{igreen.color.white}"
         }
+      },
+      "ring": {
+        "opacity": {
+          "default": {
+            "$type": "opacity",
+            "$value": "0.1"
+          },
+          "solid": {
+            "$type": "opacity",
+            "$value": "1"
+          }
+        },
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.size.xs5}"
+        }
+      },
+      "border-radius": {
+        "$type": "borderRadius",
+        "$value": "{igreen.radii.full}"
       }
     }
   }
