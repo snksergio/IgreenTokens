@@ -25,9 +25,9 @@
             "$type": "sizing",
             "$value": "{igreen.size.xs}"
           },
-          "padding-horizontal": {
+          "padding-horizontaldd": {
             "$type": "sizing",
-            "$value": "{igreen.badge.base.size.sm}"
+            "$value": "{igreen.dimension.1_5}"
           }
         }
       },
@@ -35,6 +35,16 @@
         "padding": {
           "$type": "sizing",
           "$value": "{igreen.size.xs5}"
+        },
+        "opacity": {
+          "default": {
+            "$type": "opacity",
+            "$value": "0.1"
+          },
+          "solid": {
+            "$type": "opacity",
+            "$value": "1"
+          }
         }
       },
       "Typography": {
@@ -45,6 +55,10 @@
         "variant": {
           "$type": "text",
           "$value": "body"
+        },
+        "color": {
+          "$type": "color",
+          "$value": "{igreen.color.white}"
         }
       }
     }
