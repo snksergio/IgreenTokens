@@ -16,6 +16,40 @@
             "$value": "{igreen.size.xs3}"
           }
         },
+        "translateY": {
+          "top": {
+            "$type": "sizing",
+            "$value": "-50"
+          },
+          "bottom": {
+            "$type": "sizing",
+            "$value": "50"
+          }
+        },
+        "translateX": {
+          "left": {
+            "$type": "sizing",
+            "$value": "-50"
+          },
+          "right": {
+            "$type": "sizing",
+            "$value": "50"
+          }
+        },
+        "position": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.badge.base.size.sm} / 2"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.badge.base.size.md} / 2"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.badge.base.size.lg} / 2"
+          }
+        },
         "count": {
           "min-width": {
             "$type": "sizing",
