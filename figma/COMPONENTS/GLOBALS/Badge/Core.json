@@ -16,38 +16,68 @@
             "$value": "{igreen.size.xs3}"
           }
         },
-        "translateY": {
-          "top": {
-            "$type": "sizing",
-            "$value": "-50"
-          },
-          "bottom": {
-            "$type": "sizing",
-            "$value": "50"
-          }
-        },
-        "translateX": {
+        "TranslateX": {
           "left": {
-            "$type": "sizing",
-            "$value": "-50"
+            "sm": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.sm} / 2"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.md} / 2"
+            },
+            "lg": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.lg} / 2"
+            }
           },
           "right": {
-            "$type": "sizing",
-            "$value": "50"
+            "sm": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.sm} / 2"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.md} / 2"
+            },
+            "lg": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.lg} / 2"
+            }
           }
         },
         "position": {
-          "sm": {
-            "$type": "sizing",
-            "$value": "{igreen.badge.base.size.sm} / 2"
+          "$type": "sizing",
+          "$value": "0"
+        },
+        "TranslateY": {
+          "top": {
+            "sm": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.sm} / 2"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.md} / 2"
+            },
+            "lg": {
+              "$type": "sizing",
+              "$value": "{igreen.badge.base.size.lg} / 2"
+            }
           },
-          "md": {
-            "$type": "sizing",
-            "$value": "{igreen.badge.base.size.md} / 2"
-          },
-          "lg": {
-            "$type": "sizing",
-            "$value": "{igreen.badge.base.size.lg} / 2"
+          "bottom": {
+            "sm": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.sm} / 2"
+            },
+            "md": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.md} / 2"
+            },
+            "lg": {
+              "$type": "sizing",
+              "$value": "-{igreen.badge.base.size.lg} / 2"
+            }
           }
         },
         "count": {
