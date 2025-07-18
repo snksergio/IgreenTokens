@@ -1,0 +1,74 @@
+{
+  "igreen": {
+    "iconButton": {
+      "icon": {
+        "size": {
+          "xl": {
+            "$type": "text",
+            "$value": "lg"
+          },
+          "lg": {
+            "$type": "text",
+            "$value": "lg"
+          },
+          "md": {
+            "$type": "text",
+            "$value": "md"
+          },
+          "sm": {
+            "$type": "text",
+            "$value": "sm"
+          }
+        }
+      },
+      "base": {
+        "default": {
+          "fg": {
+            "neutral": {
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.color.white}"
+                }
+              },
+              "enabled": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.default}"
+              }
+            }
+          }
+        },
+        "outline": {
+          "fg": {
+            "neutral": {
+              "enabled": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.default}"
+              }
+            }
+          }
+        },
+        "soft": {
+          "fg": {
+            "neutral": {
+              "enabled": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.default}"
+              }
+            }
+          }
+        },
+        "ghost": {
+          "fg": {
+            "neutral": {
+              "enabled": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.default}"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
