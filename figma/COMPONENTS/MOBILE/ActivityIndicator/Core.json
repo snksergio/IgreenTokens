@@ -1,0 +1,34 @@
+{
+  "igreen": {
+    "ActivityIndicator": {
+      "base": {
+        "size": {
+          "xs": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs2}"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.size.sm}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.size.lg}"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xl}"
+          }
+        }
+      },
+      "color": {
+        "$type": "color",
+        "$value": "{igreen.fg.primary.main.enabled.default}"
+      }
+    }
+  }
+}
