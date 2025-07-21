@@ -1,0 +1,236 @@
+{
+  "igreen": {
+    "textInput": {
+      "base": {
+        "height": {
+          "xl": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.xl}"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.lg}"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.md}"
+          }
+        }
+      }
+    },
+    "input": {
+      "base": {
+        "padding-horizontal": {
+          "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.lg}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.lg}"
+          },
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.md}"
+          }
+        },
+        "gap": {
+          "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          }
+        },
+        "border-width": {
+          "$type": "borderWidth",
+          "$value": "{igreen.border-width.thin}"
+        },
+        "border-radius": {
+          "xl": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.md}"
+          },
+          "lg": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.md}"
+          },
+          "md": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.sm}"
+          }
+        },
+        "placeholder": {
+          "color": {
+            "$type": "color",
+            "$value": "{igreen.fg.muted.enabled.default}"
+          }
+        },
+        "label": {
+          "color": {
+            "$type": "color",
+            "$value": "{igreen.fg.main.enabled.default}"
+          }
+        },
+        "color": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        },
+        "font-size": {
+          "xl": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.body.lg}"
+          },
+          "lg": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.body.lg}"
+          },
+          "md": {
+            "$type": "fontSizes",
+            "$value": "{igreen.font-size.body.lg}"
+          }
+        },
+        "font-weight": {
+          "$type": "fontWeights",
+          "$value": "{igreen.font-weight.regular}"
+        },
+        "bg": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.surface.main.enabled.default}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{igreen.bg.surface.main.enabled.default}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.bg.success.muted.enabled.default}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{igreen.bg.critical.muted.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.disabled.default}"
+          }
+        },
+        "border-color": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.border-color.transparent}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{igreen.border-color.moderate}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.border-color.success}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{igreen.border-color.critical}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.border-color.transparent}"
+          }
+        }
+      },
+      "helper": {
+        "margin-top": {
+          "$type": "spacing",
+          "$value": "{igreen.margin.xs2}"
+        },
+        "padding-horizontal": {
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.lg}"
+          },
+          "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.lg}"
+          },
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.md}"
+          }
+        },
+        "size": {
+          "$type": "text",
+          "$value": "md"
+        }
+      },
+      "icon": {
+        "size": {
+          "xl": {
+            "$type": "text",
+            "$value": "md"
+          },
+          "lg": {
+            "$type": "text",
+            "$value": "md"
+          },
+          "md": {
+            "$type": "text",
+            "$value": "md"
+          }
+        },
+        "color": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.fg.success.enabled.default}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{igreen.fg.critical.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        }
+      },
+      "label": {
+        "size": {
+          "$type": "text",
+          "$value": "lg"
+        }
+      }
+    }
+  }
+}

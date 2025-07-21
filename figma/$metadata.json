@@ -25,6 +25,7 @@
     "COMPONENTS/GLOBALS/IconButton/Core",
     "COMPONENTS/GLOBALS/Icon/Core",
     "COMPONENTS/MOBILE/ActivityIndicator/Core",
+    "COMPONENTS/MOBILE/TextInput/Core",
     "COMPONENTS/MOBILE/Illustration/Core"
   ]
 }
