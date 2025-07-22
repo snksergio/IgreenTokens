@@ -831,6 +831,7 @@
       "igreen.input.icon.color.focus": "6361cc4cd740d697dfb51480b228472f626b3f3f",
       "igreen.input.icon.color.success": "c1c171d8af52445c8c5a19a6b909a0f3002296b6",
       "igreen.input.icon.color.error": "19a188567324c268ef0164f344da94d0bff0638b",
+      "igreen.input.helper.color.error": "e7bf573c33997b2b55703c0d1aabc8faec68b6ba",
       "igreen.input.icon.color.disabled": "ffd4ccb29931bee542fada4b0055c63b332388a2",
       "igreen.input.label.size": "5b1dc8c61670c8837f9fdc5c64eab9b6ae04c551"
     },
@@ -1032,13 +1033,14 @@
       "igreen.input.icon.color.focus": "6361cc4cd740d697dfb51480b228472f626b3f3f",
       "igreen.input.icon.color.success": "c1c171d8af52445c8c5a19a6b909a0f3002296b6",
       "igreen.input.icon.color.error": "19a188567324c268ef0164f344da94d0bff0638b",
+      "igreen.input.helper.color.error": "e7bf573c33997b2b55703c0d1aabc8faec68b6ba",
       "igreen.input.icon.color.disabled": "ffd4ccb29931bee542fada4b0055c63b332388a2",
       "igreen.input.label.size": "5b1dc8c61670c8837f9fdc5c64eab9b6ae04c551",
-      "igreen.illustration.base.size.xs": "135589af8042d92ec09d31097891510f6e610756",
-      "igreen.illustration.base.size.sm": "6351a46bb8560cff0fe4bfda5f35c9e52d846b29",
-      "igreen.illustration.base.size.md": "3c00dd46a392ab8396468840a3ea07d068029d94",
-      "igreen.illustration.base.size.lg": "87aef5c5b757c78744299860166d660d60077d2d",
-      "igreen.illustration.base.size.xl": "ed98fd866d47cb01ee37edbee3f01eaaec8d8ef7",
+      "igreen.illustration.base.size.xs": "34b1f4951ed7b6f528bac433aa03684b90e565d3",
+      "igreen.illustration.base.size.sm": "b10324d96417044d9f3cd2409e0b3995f0590dc7",
+      "igreen.illustration.base.size.md": "fcb05e93791d66420013076cc216c696495fd3b6",
+      "igreen.illustration.base.size.lg": "15e7dd625e84a15b8c129a3dd01bf78297d00a1a",
+      "igreen.illustration.base.size.xl": "63340f5dd61de6207436647d5c81295f3fd958fc",
       "igreen.illustration.base.size.xl2": "51a090b9e46a605758c62608cb259425ac4215a9"
     },
     "group": "Components"
