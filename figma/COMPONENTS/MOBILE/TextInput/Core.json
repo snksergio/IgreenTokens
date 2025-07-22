@@ -161,6 +161,10 @@
             "$type": "color",
             "$value": "{igreen.border-color.transparent}"
           }
+        },
+        "font-family": {
+          "$type": "fontFamilies",
+          "$value": "{igreen.font-family.brand}"
         }
       },
       "helper": {
@@ -228,7 +232,7 @@
       "label": {
         "size": {
           "$type": "text",
-          "$value": "lg"
+          "$value": "md"
         }
       }
     }
