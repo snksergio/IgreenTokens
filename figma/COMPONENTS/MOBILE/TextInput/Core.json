@@ -23,7 +23,7 @@
         "padding-horizontal": {
           "xl": {
             "$type": "spacing",
-            "$value": "{igreen.padding.lg}"
+            "$value": "{igreen.padding.xl}"
           },
           "lg": {
             "$type": "spacing",
@@ -121,7 +121,13 @@
         "bg": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.bg.surface.main.enabled.default}"
+            "$value": "{igreen.bg.surface.moderate.enabled.default}"
+          },
+          "contrast": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.surface.main.enabled.default}"
+            }
           },
           "focus": {
             "$type": "color",
@@ -165,6 +171,12 @@
         "font-family": {
           "$type": "fontFamilies",
           "$value": "{igreen.font-family.brand}"
+        },
+        "shadow": {
+          "contrast": {
+            "$type": "boxShadow",
+            "$value": "{igreen.shadow.moderate}"
+          }
         }
       },
       "helper": {
@@ -173,11 +185,11 @@
           "$value": "{igreen.margin.xs2}"
         },
         "padding-horizontal": {
-          "lg": {
-            "$type": "spacing",
-            "$value": "{igreen.padding.lg}"
-          },
           "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.xl}"
+          },
+          "lg": {
             "$type": "spacing",
             "$value": "{igreen.padding.lg}"
           },
@@ -210,6 +222,12 @@
           "enabled": {
             "$type": "color",
             "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "search": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.moderate.default}"
+            }
           },
           "focus": {
             "$type": "color",
