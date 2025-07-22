@@ -177,6 +177,12 @@
             "$type": "boxShadow",
             "$value": "{igreen.shadow.moderate}"
           }
+        },
+        "elevate": {
+          "contrast": {
+            "$type": "number",
+            "$value": "1"
+          }
         }
       },
       "helper": {
