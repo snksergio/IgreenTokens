@@ -250,7 +250,7 @@
           "search": {
             "enabled": {
               "$type": "color",
-              "$value": "{igreen.scheme.fg.moderate.default}"
+              "$value": "{igreen.fg.main.enabled.default}"
             }
           },
           "focus": {
