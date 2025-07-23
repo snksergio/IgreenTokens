@@ -23,195 +23,207 @@
         "padding-horizontal": {
           "xl": {
             "$type": "spacing",
-            "$value": "{igreen.padding.xl}"
+            "$value": "{igreen.form.field.base.padding-horizontal.xl}"
           },
           "lg": {
             "$type": "spacing",
-            "$value": "{igreen.padding.lg}"
+            "$value": "{igreen.form.field.base.padding-horizontal.lg}"
           },
           "md": {
             "$type": "spacing",
-            "$value": "{igreen.padding.md}"
+            "$value": "{igreen.form.field.base.padding-horizontal.md}"
           }
         },
         "gap": {
           "xl": {
             "$type": "spacing",
-            "$value": "{igreen.gap.xs}"
+            "$value": "{igreen.form.field.base.gap.xl}"
           },
           "lg": {
             "$type": "spacing",
-            "$value": "{igreen.gap.xs}"
+            "$value": "{igreen.form.field.base.gap.lg}"
           },
           "md": {
             "$type": "spacing",
-            "$value": "{igreen.gap.xs}"
+            "$value": "{igreen.form.field.base.gap.md}"
           }
         },
         "border-width": {
           "$type": "borderWidth",
-          "$value": "{igreen.border-width.thin}"
+          "$value": "{igreen.form.field.base.border-width}"
         },
         "border-radius": {
           "xl": {
             "$type": "borderRadius",
-            "$value": "{igreen.radii.md}"
+            "$value": "{igreen.form.field.base.border-radius.xl}"
           },
           "lg": {
             "$type": "borderRadius",
-            "$value": "{igreen.radii.md}"
+            "$value": "{igreen.form.field.base.border-radius.lg}"
           },
           "md": {
             "$type": "borderRadius",
-            "$value": "{igreen.radii.sm}"
+            "$value": "{igreen.form.field.base.border-radius.md}"
           }
         },
         "placeholder": {
           "color": {
             "$type": "color",
-            "$value": "{igreen.fg.muted.enabled.default}"
+            "$value": "{igreen.form.field.base.placeholder.color}"
           }
         },
         "label": {
           "color": {
             "$type": "color",
-            "$value": "{igreen.fg.main.enabled.default}"
+            "$value": "{igreen.form.field.base.label.color}"
           }
         },
         "color": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.base.color.enabled}"
           },
           "focus": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.base.color.focus}"
           },
           "success": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.base.color.success}"
           },
           "error": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.base.color.error}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{igreen.fg.disabled.default}"
+            "$value": "{igreen.form.field.base.color.disabled}"
           }
         },
         "font-size": {
           "xl": {
             "$type": "fontSizes",
-            "$value": "{igreen.font-size.body.lg}"
+            "$value": "{igreen.form.field.base.font-size.xl}"
           },
           "lg": {
             "$type": "fontSizes",
-            "$value": "{igreen.font-size.body.lg}"
+            "$value": "{igreen.form.field.base.font-size.lg}"
           },
           "md": {
             "$type": "fontSizes",
-            "$value": "{igreen.font-size.body.lg}"
+            "$value": "{igreen.form.field.base.font-size.md}"
           }
         },
         "font-weight": {
           "$type": "fontWeights",
-          "$value": "{igreen.font-weight.regular}"
+          "$value": "{igreen.form.field.base.font-weight}"
         },
         "bg": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.bg.surface.moderate.enabled.default}"
+            "$value": "{igreen.form.field.base.bg.enabled}"
           },
           "contrast": {
             "enabled": {
               "$type": "color",
-              "$value": "{igreen.bg.surface.main.enabled.default}"
+              "$value": "{igreen.form.field.base.bg.contrast.enabled}"
             }
           },
           "focus": {
             "$type": "color",
-            "$value": "{igreen.bg.surface.main.enabled.default}"
+            "$value": "{igreen.form.field.base.bg.focus}"
           },
           "success": {
             "$type": "color",
-            "$value": "{igreen.bg.success.muted.enabled.default}"
+            "$value": "{igreen.form.field.base.bg.success}"
           },
           "error": {
             "$type": "color",
-            "$value": "{igreen.bg.critical.muted.enabled.default}"
+            "$value": "{igreen.form.field.base.bg.error}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{igreen.bg.disabled.default}"
+            "$value": "{igreen.form.field.base.bg.disabled}"
           }
         },
         "border-color": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.border-color.transparent}"
+            "$value": "{igreen.form.field.base.border-color.enabled}"
           },
           "focus": {
             "$type": "color",
-            "$value": "{igreen.border-color.moderate}"
+            "$value": "{igreen.form.field.base.border-color.focus}"
           },
           "success": {
             "$type": "color",
-            "$value": "{igreen.border-color.success}"
+            "$value": "{igreen.form.field.base.border-color.success}"
           },
           "error": {
             "$type": "color",
-            "$value": "{igreen.border-color.critical}"
+            "$value": "{igreen.form.field.base.border-color.error}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{igreen.border-color.transparent}"
+            "$value": "{igreen.form.field.base.border-color.disabled}"
           }
         },
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{igreen.font-family.brand}"
+          "$value": "{igreen.form.field.base.font-family}"
         },
         "shadow": {
           "contrast": {
             "$type": "boxShadow",
-            "$value": "{igreen.shadow.moderate}"
+            "$value": "{igreen.form.field.base.shadow.contrast}"
           }
         },
         "elevate": {
           "contrast": {
             "$type": "number",
-            "$value": "1"
+            "$value": "{igreen.form.field.base.elevate.contrast}"
           }
         }
       },
       "helper": {
         "margin-top": {
           "$type": "spacing",
-          "$value": "{igreen.margin.xs2}"
+          "$value": "{igreen.form.helper.base.margin-top}"
         },
         "padding-horizontal": {
           "xl": {
             "$type": "spacing",
-            "$value": "{igreen.padding.xl}"
+            "$value": "{igreen.form.helper.base.padding-horizontal.xl}"
           },
           "lg": {
             "$type": "spacing",
-            "$value": "{igreen.padding.lg}"
+            "$value": "{igreen.form.helper.base.padding-horizontal.lg}"
           },
           "md": {
             "$type": "spacing",
-            "$value": "{igreen.padding.md}"
+            "$value": "{igreen.form.helper.base.padding-horizontal.md}"
           }
         },
         "size": {
           "$type": "text",
-          "$value": "md"
+          "$value": "{ {igreen.form.helper.size}"
+        },
+        "typography": {
+          "$type": "text",
+          "$value": "{igreen.form.helper.typography}"
         },
         "color": {
           "error": {
             "$type": "color",
-            "$value": "{igreen.fg.critical.enabled.default}"
+            "$value": "{igreen.form.helper.color.error}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.form.helper.color.default}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.form.helper.color.success}"
           }
         }
       },
@@ -219,21 +231,21 @@
         "size": {
           "xl": {
             "$type": "text",
-            "$value": "md"
+            "$value": "{igreen.form.field.icon.size.xl}"
           },
           "lg": {
             "$type": "text",
-            "$value": "md"
+            "$value": "{igreen.form.field.icon.size.lg}"
           },
           "md": {
             "$type": "text",
-            "$value": "md"
+            "$value": "{igreen.form.field.icon.size.md}"
           }
         },
         "color": {
           "enabled": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.icon.color.enabled}"
           },
           "search": {
             "enabled": {
@@ -243,26 +255,26 @@
           },
           "focus": {
             "$type": "color",
-            "$value": "{igreen.fg.strong.enabled.default}"
+            "$value": "{igreen.form.field.icon.color.focus}"
           },
           "success": {
             "$type": "color",
-            "$value": "{igreen.fg.success.enabled.default}"
+            "$value": "{igreen.form.field.icon.color.success}"
           },
           "error": {
             "$type": "color",
-            "$value": "{igreen.fg.critical.enabled.default}"
+            "$value": "{igreen.form.field.icon.color.error}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{igreen.fg.disabled.default}"
+            "$value": "{igreen.form.field.icon.color.disabled}"
           }
         }
       },
       "label": {
         "size": {
           "$type": "text",
-          "$value": "md"
+          "$value": "{igreen.form.field.label.size}"
         }
       }
     }
