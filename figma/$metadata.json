@@ -28,6 +28,7 @@
     "COMPONENTS/MOBILE/ActivityIndicator/Core",
     "COMPONENTS/MOBILE/TextInput/Core",
     "COMPONENTS/MOBILE/Picker/Core",
+    "COMPONENTS/MOBILE/Checkbox/Core",
     "COMPONENTS/MOBILE/Illustration/Core"
   ]
 }

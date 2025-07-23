@@ -1,0 +1,92 @@
+{
+  "igreen": {
+    "checkbox": {
+      "base": {
+        "size": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xs}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{igreen.size.xs4}"
+        },
+        "opacity": {
+          "hover": {
+            "$type": "opacity",
+            "$value": "0.4"
+          }
+        }
+      },
+      "icon": {
+        "stroke": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.border-color.strong}"
+          },
+          "checked": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.color.white}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.disabled.default}"
+            }
+          }
+        },
+        "bg": {
+          "checked": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.primary.main.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.disabled.default}"
+            }
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.disabled.default}"
+          }
+        }
+      },
+      "label": {
+        "size": {
+          "$type": "text",
+          "$value": "lg"
+        },
+        "color": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        }
+      },
+      "description": {
+        "size": {
+          "$type": "text",
+          "$value": "md"
+        },
+        "color": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.main.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        },
+        "font-weight": {
+          "$type": "fontWeights",
+          "$value": "{igreen.font-weight.regular}"
+        }
+      }
+    }
+  }
+}
