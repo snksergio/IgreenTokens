@@ -1,0 +1,148 @@
+{
+  "igreen": {
+    "form": {
+      "field": {
+        "base": {
+          "placeholder": {
+            "color": {
+              "$type": "color",
+              "$value": "{igreen.fg.muted.enabled.default}"
+            }
+          },
+          "label": {
+            "color": {
+              "$type": "color",
+              "$value": "{igreen.fg.main.enabled.default}"
+            }
+          },
+          "color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "focus": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "success": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "error": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.disabled.default}"
+            }
+          },
+          "bg": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.surface.moderate.enabled.default}"
+            },
+            "contrast": {
+              "enabled": {
+                "$type": "color",
+                "$value": "{igreen.bg.surface.main.enabled.default}"
+              }
+            },
+            "focus": {
+              "$type": "color",
+              "$value": "{igreen.bg.surface.main.enabled.default}"
+            },
+            "enabled-filled": {
+              "$type": "color",
+              "$value": "{igreen.bg.surface.main.enabled.default}"
+            },
+            "success": {
+              "$type": "color",
+              "$value": "{igreen.bg.success.muted.enabled.default}"
+            },
+            "error": {
+              "$type": "color",
+              "$value": "{igreen.bg.critical.muted.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.disabled.default}"
+            }
+          },
+          "border-color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.border-color.transparent}"
+            },
+            "focus": {
+              "$type": "color",
+              "$value": "{igreen.border-color.moderate}"
+            },
+            "success": {
+              "$type": "color",
+              "$value": "{igreen.border-color.success}"
+            },
+            "error": {
+              "$type": "color",
+              "$value": "{igreen.border-color.critical}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.border-color.transparent}"
+            }
+          },
+          "font-family": {
+            "$type": "fontFamilies",
+            "$value": "{igreen.font-family.brand}"
+          },
+          "shadow": {
+            "contrast": {
+              "$type": "boxShadow",
+              "$value": "{igreen.shadow.moderate}"
+            }
+          }
+        },
+        "icon": {
+          "color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "focus": {
+              "$type": "color",
+              "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "success": {
+              "$type": "color",
+              "$value": "{igreen.fg.success.enabled.default}"
+            },
+            "error": {
+              "$type": "color",
+              "$value": "{igreen.fg.critical.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.disabled.default}"
+            }
+          }
+        }
+      },
+      "helper": {
+        "color": {
+          "default": {
+            "$type": "color",
+            "$value": "{igreen.fg.muted.enabled.default}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.fg.muted.enabled.default}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{igreen.fg.critical.enabled.default}"
+          }
+        }
+      }
+    }
+  }
+}

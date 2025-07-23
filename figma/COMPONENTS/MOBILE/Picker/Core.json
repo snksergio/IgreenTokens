@@ -1,6 +1,6 @@
 {
   "igreen": {
-    "textInput": {
+    "picker": {
       "base": {
         "height": {
           "xl": {
@@ -15,11 +15,7 @@
             "$type": "sizing",
             "$value": "{igreen.form.base.height.md}"
           }
-        }
-      }
-    },
-    "input": {
-      "base": {
+        },
         "padding-horizontal": {
           "xl": {
             "$type": "spacing",
@@ -64,12 +60,6 @@
           "md": {
             "$type": "borderRadius",
             "$value": "{igreen.form.field.base.border-radius.md}"
-          }
-        },
-        "placeholder": {
-          "color": {
-            "$type": "color",
-            "$value": "{igreen.form.field.base.placeholder.color}"
           }
         },
         "label": {
@@ -128,6 +118,10 @@
               "$type": "color",
               "$value": "{igreen.form.field.base.bg.contrast.enabled}"
             }
+          },
+          "enabled-filled": {
+            "$type": "color",
+            "$value": "{igreen.form.field.base.bg.enabled-filled}"
           },
           "focus": {
             "$type": "color",
@@ -228,53 +222,15 @@
         }
       },
       "icon": {
-        "size": {
-          "xl": {
-            "$type": "text",
-            "$value": "{igreen.form.field.icon.size.xl}"
-          },
-          "lg": {
-            "$type": "text",
-            "$value": "{igreen.form.field.icon.size.lg}"
-          },
-          "md": {
-            "$type": "text",
-            "$value": "{igreen.form.field.icon.size.md}"
-          }
-        },
         "color": {
           "enabled": {
             "$type": "color",
             "$value": "{igreen.form.field.icon.color.enabled}"
           },
-          "search": {
-            "enabled": {
-              "$type": "color",
-              "$value": "{igreen.fg.main.enabled.default}"
-            }
-          },
-          "focus": {
-            "$type": "color",
-            "$value": "{igreen.form.field.icon.color.focus}"
-          },
-          "success": {
-            "$type": "color",
-            "$value": "{igreen.form.field.icon.color.success}"
-          },
-          "error": {
-            "$type": "color",
-            "$value": "{igreen.form.field.icon.color.error}"
-          },
           "disabled": {
             "$type": "color",
             "$value": "{igreen.form.field.icon.color.disabled}"
           }
-        }
-      },
-      "label": {
-        "size": {
-          "$type": "text",
-          "$value": "{igreen.form.field.label.size}"
         }
       }
     }
