@@ -5,13 +5,13 @@
         "$type": "color",
         "$value": "#338449"
       },
-      "secondary": {
-        "$type": "color",
-        "$value": "#181D11"
-      },
       "primary-contrast": {
         "$type": "color",
         "$value": "#1CFF69"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#181D11"
       },
       "neutral": {
         "$type": "color",
@@ -19,19 +19,35 @@
       },
       "success": {
         "$type": "color",
-        "$value": "#00B22A"
+        "$value": "#338449"
+      },
+      "success-contrast": {
+        "$type": "color",
+        "$value": "#1CFF69"
       },
       "warning": {
         "$type": "color",
         "$value": "#F46600"
       },
+      "warning-contrast": {
+        "$type": "color",
+        "$value": "#FFD766"
+      },
       "critical": {
         "$type": "color",
         "$value": "#F8061E"
       },
+      "critical-contrast": {
+        "$type": "color",
+        "$value": "#FF828A"
+      },
       "info": {
         "$type": "color",
         "$value": "#006CD1"
+      },
+      "info-contrast": {
+        "$type": "color",
+        "$value": "#6BD1FF"
       }
     }
   }

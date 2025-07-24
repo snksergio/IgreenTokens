@@ -137,6 +137,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.success}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.success-contrast}"
             }
           },
           "strong": {
@@ -175,6 +179,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.critical}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.critical-contrast}"
             }
           },
           "strong": {
@@ -213,6 +221,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.warning}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.warning-contrast}"
             }
           },
           "strong": {
@@ -251,6 +263,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.info}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.info-contrast}"
             }
           },
           "strong": {
