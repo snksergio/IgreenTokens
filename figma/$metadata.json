@@ -24,6 +24,7 @@
     "COMPONENTS/GLOBALS/Button/Desktop",
     "COMPONENTS/GLOBALS/Badge/Core",
     "COMPONENTS/GLOBALS/IconButton/Core",
+    "COMPONENTS/GLOBALS/Tag/Core",
     "COMPONENTS/GLOBALS/Icon/Core",
     "COMPONENTS/MOBILE/ActivityIndicator/Core",
     "COMPONENTS/MOBILE/TextInput/Core",
