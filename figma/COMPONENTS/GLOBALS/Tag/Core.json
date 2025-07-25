@@ -50,6 +50,32 @@
               "$type": "color",
               "$value": "{igreen.color.black}"
             },
+            "inverse": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.color.white}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.bg.info.main.enabled.inverse}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.bg.success.main.enabled.inverse}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.bg.warning.main.enabled.inverse}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.bg.critical.main.enabled.inverse}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.bg.surface.main.enabled.inverse}"
+              }
+            },
             "info": {
               "$type": "color",
               "$value": "{igreen.bg.info.main.enabled.default}"
@@ -75,6 +101,32 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.color.white}"
+            },
+            "inverse": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.inverse}"
+              }
             },
             "info": {
               "$type": "color",
@@ -104,6 +156,32 @@
               "$type": "color",
               "$value": "{igreen.bg.surface.transparent.enabled.default}"
             },
+            "inverse": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.bg.surface.transparent.enabled.default}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.bg.info.transparent.enabled.inverse}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.bg.success.transparent.enabled.inverse}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.bg.warning.transparent.enabled.inverse}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.bg.critical.transparent.enabled.inverse}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.bg.surface.transparent.enabled.default}"
+              }
+            },
             "info": {
               "$type": "color",
               "$value": "{igreen.bg.info.transparent.enabled.default}"
@@ -129,6 +207,32 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "inverse": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.inverse}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.fg.info.enabled.inverse}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.fg.success.enabled.inverse}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.fg.warning.enabled.inverse}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.fg.critical.enabled.inverse}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.fg.main.enabled.inverse}"
+              }
             },
             "info": {
               "$type": "color",
@@ -161,6 +265,32 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.fg.strong.enabled.default}"
+            },
+            "inverse": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.fg.strong.enabled.inverse}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.fg.info.enabled.inverse}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.fg.success.enabled.inverse}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.fg.warning.enabled.inverse}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.fg.critical.enabled.inverse}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.fg.main.enabled.inverse}"
+              }
             },
             "info": {
               "$type": "color",

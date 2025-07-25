@@ -441,6 +441,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.critical.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.critical.main.inverse}"
             }
           },
           "hover": {
@@ -519,6 +523,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.critical.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.critical.main.inverse}"
             }
           },
           "hover": {
@@ -544,6 +561,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.warning.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.warning.main.inverse}"
             }
           },
           "hover": {
@@ -622,6 +643,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.warning.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.warning.main.inverse}"
             }
           },
           "hover": {
@@ -647,6 +681,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.info.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.info.main.inverse}"
             }
           },
           "hover": {
@@ -725,6 +763,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.info.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.info.main.inverse}"
             }
           },
           "hover": {
@@ -750,6 +801,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.bg.success.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.success.main.inverse}"
             }
           },
           "hover": {
@@ -828,6 +883,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.success.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.success.main.inverse}"
             }
           },
           "hover": {
