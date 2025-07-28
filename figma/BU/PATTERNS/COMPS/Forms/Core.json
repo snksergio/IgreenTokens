@@ -142,6 +142,116 @@
             "$value": "{igreen.fg.critical.enabled.default}"
           }
         }
+      },
+      "inputToggle": {
+        "base": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{igreen.size.xs4}"
+          },
+          "opacity": {
+            "press": {
+              "$type": "opacity",
+              "$value": "0.4"
+            }
+          },
+          "size": {
+            "$type": "sizing",
+            "$value": "{igreen.size.xs}"
+          }
+        },
+        "description": {
+          "font-weight": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.regular}"
+          },
+          "size": {
+            "$type": "text",
+            "$value": "md"
+          },
+          "color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.muted.enabled.default}"
+            },
+            "checked": {
+              "$type": "color",
+              "$value": "{igreen.fg.muted.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.disabled.default}"
+            }
+          }
+        },
+        "label": {
+          "size": {
+            "$type": "text",
+            "$value": "lg"
+          },
+          "color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.main.enabled.default}"
+            },
+            "checked": {
+              "$type": "color",
+              "$value": "{igreen.fg.primary.main.enabled.default}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.fg.disabled.default}"
+            }
+          }
+        },
+        "icon": {
+          "stroke-color": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.border-color.strong}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.border-color.disabled}"
+            }
+          },
+          "bg": {
+            "enabled": {
+              "$type": "color",
+              "$value": "{igreen.color.white}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{igreen.bg.disabled.default}"
+            }
+          },
+          "color": {
+            "highlight": {
+              "checked": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.primary.main.enabled.default}"
+                },
+                "disabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.disabled.default}"
+                }
+              }
+            },
+            "on-highlight": {
+              "checked": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.surface.main.enabled.default}"
+                },
+                "disabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.disabled.default}"
+                }
+              }
+            }
+          }
+        }
       }
     }
   }

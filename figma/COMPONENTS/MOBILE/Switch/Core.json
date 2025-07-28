@@ -1,0 +1,58 @@
+{
+  "igreen": {
+    "switch": {
+      "base": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{igreen.size.sm}"
+        },
+        "width": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xl3}"
+        },
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.padding.xs3}"
+        },
+        "bg": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.surface.strong.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.disabled.default}"
+          },
+          "checked": {
+            "$type": "color",
+            "$value": "{igreen.bg.primary.main.enabled.default}"
+          }
+        }
+      },
+      "input": {
+        "size": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xs}"
+        },
+        "bg": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "checked": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        },
+        "elevate": {
+          "$type": "number",
+          "$value": "1"
+        }
+      }
+    }
+  }
+}

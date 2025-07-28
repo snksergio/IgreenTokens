@@ -101,6 +101,10 @@
         "$type": "sizing",
         "$value": "0.25 * 1.5 * {igreen.dimension.base}"
       },
+      "0_5": {
+        "$type": "sizing",
+        "$value": "0.25 * 0.5 * {igreen.dimension.base}"
+      },
       "3_5": {
         "$type": "sizing",
         "$value": "0.25 * 3.5 * {igreen.dimension.base}"

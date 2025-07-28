@@ -262,6 +262,10 @@
         "$type": "spacing",
         "$value": "0px"
       },
+      "xs3": {
+        "$type": "spacing",
+        "$value": "{igreen.dimension.0_5}"
+      },
       "xs2": {
         "$type": "spacing",
         "$value": "{igreen.dimension.1}"

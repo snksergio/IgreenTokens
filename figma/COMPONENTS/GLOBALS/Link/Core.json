@@ -1,0 +1,74 @@
+{
+  "igreen": {
+    "link": {
+      "icon": {
+        "size": {
+          "sm": {
+            "$type": "text",
+            "$value": "xs"
+          },
+          "md": {
+            "$type": "text",
+            "$value": "xs"
+          },
+          "lg": {
+            "$type": "text",
+            "$value": "sm"
+          },
+          "xl": {
+            "$type": "text",
+            "$value": "sm"
+          }
+        },
+        "Typography": {
+          "sm": {
+            "$type": "text",
+            "$value": "sm"
+          },
+          "md": {
+            "$type": "text",
+            "$value": "md"
+          },
+          "lg": {
+            "$type": "text",
+            "$value": "lg"
+          },
+          "xl": {
+            "$type": "text",
+            "$value": "xl"
+          }
+        }
+      },
+      "base": {
+        "fg": {
+          "primary": {
+            "$type": "color",
+            "$value": "{igreen.fg.primary.main.enabled.default}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{igreen.fg.secondary.main.enabled.default}"
+          }
+        },
+        "gap": {
+          "sm": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs2}"
+          },
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs2}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "xl": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          }
+        }
+      }
+    }
+  }
+}
