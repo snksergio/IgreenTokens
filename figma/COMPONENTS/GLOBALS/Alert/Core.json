@@ -1,0 +1,78 @@
+{
+  "igreen": {
+    "alert": {
+      "base": {
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.padding.md}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{igreen.gap.sm}"
+        },
+        "bg": {
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.bg.success.strong.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.bg.info.strong.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.bg.warning.strong.enabled.default}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.bg.critical.strong.enabled.default}"
+          }
+        },
+        "fg": {
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.fg.success.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.fg.info.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.fg.warning.enabled.default}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.fg.critical.enabled.default}"
+          }
+        }
+      },
+      "statusBard": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{igreen.height.full}"
+        },
+        "width": {
+          "$type": "sizing",
+          "$value": "{igreen.size.xs5}"
+        }
+      },
+      "text": {
+        "color": {
+          "$type": "color",
+          "$value": "{igreen.color.white}"
+        },
+        "size": {
+          "$type": "text",
+          "$value": "lg"
+        }
+      },
+      "button": {
+        "size": {
+          "$type": "text",
+          "$value": "sm"
+        }
+      }
+    }
+  }
+}
