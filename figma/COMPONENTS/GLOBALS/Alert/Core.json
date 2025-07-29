@@ -72,6 +72,18 @@
           "$type": "text",
           "$value": "sm"
         }
+      },
+      "icon": {
+        "size": {
+          "$type": "text",
+          "$value": "sm"
+        }
+      },
+      "container": {
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.padding.sm}"
+        }
       }
     }
   }
