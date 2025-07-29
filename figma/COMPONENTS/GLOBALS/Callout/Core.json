@@ -1,0 +1,114 @@
+{
+  "igreen": {
+    "callout": {
+      "base": {
+        "bg": {
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.bg.success.muted.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.bg.info.muted.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.bg.warning.muted.enabled.default}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.bg.critical.muted.enabled.default}"
+          },
+          "neutral": {
+            "$type": "color",
+            "$value": "{igreen.bg.surface.moderate.enabled.default}"
+          }
+        },
+        "fg": {
+          "success": {
+            "$type": "color",
+            "$value": "{igreen.fg.success.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.fg.info.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.fg.warning.enabled.default}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.fg.critical.enabled.default}"
+          },
+          "neutral": {
+            "$type": "color",
+            "$value": "{igreen.fg.main.enabled.default}"
+          }
+        },
+        "border-radius": {
+          "md": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.sm}"
+          },
+          "lg": {
+            "$type": "borderRadius",
+            "$value": "{igreen.radii.md}"
+          }
+        },
+        "gap": {
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.xs}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.sm}"
+          }
+        },
+        "padding": {
+          "md": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.md}"
+          },
+          "lg": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.md}"
+          }
+        }
+      },
+      "title": {
+        "color": {
+          "neutral": {
+            "$type": "color",
+            "$value": "{igreen.fg.strong.enabled.default}"
+          }
+        }
+      },
+      "closeIcon": {
+        "color": {
+          "$type": "color",
+          "$value": "{igreen.fg.main.enabled.default}"
+        }
+      },
+      "text": {
+        "color": {
+          "$type": "color",
+          "$value": "{igreen.fg.main.enabled.default}"
+        }
+      },
+      "link": {
+        "color": {
+          "$type": "color",
+          "$value": "{igreen.fg.strong.enabled.default}"
+        }
+      },
+      "content": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{igreen.gap.xs}"
+        }
+      }
+    }
+  }
+}
