@@ -13,6 +13,10 @@
         "$type": "color",
         "$value": "#181D11"
       },
+      "secondary-contrast": {
+        "$type": "color",
+        "$value": "#FFF"
+      },
       "neutral": {
         "$type": "color",
         "$value": "#6A6E71"

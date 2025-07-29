@@ -44,6 +44,12 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.strong.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.muted.enabled.inverse}"
+                }
               }
             }
           }
@@ -54,6 +60,12 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.strong.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.muted.enabled.inverse}"
+                }
               }
             }
           }
@@ -64,6 +76,12 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.strong.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.muted.enabled.inverse}"
+                }
               }
             }
           }

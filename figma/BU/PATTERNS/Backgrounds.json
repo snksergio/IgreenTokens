@@ -236,6 +236,19 @@
               },
               "$type": "color",
               "$value": "{igreen.scheme.bg.secondary.main.default}"
+            },
+            "inverse": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.1",
+                    "space": "hsl"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{igreen.scheme.bg.secondary.main.inverse}"
             }
           },
           "hover": {

@@ -409,6 +409,10 @@
             "default": {
               "$type": "color",
               "$value": "{igreen.scheme.fg.secondary.main.default}"
+            },
+            "inverse": {
+              "$type": "color",
+              "$value": "{igreen.scheme.fg.secondary.main.inverse}"
             }
           },
           "hover": {

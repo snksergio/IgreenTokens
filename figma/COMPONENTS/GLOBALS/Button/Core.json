@@ -70,7 +70,7 @@
               "enabled": {
                 "$type": "border",
                 "$value": {
-                  "color": "{igreen.border-color.primary}",
+                  "color": "{igreen.border-color.primary.default}",
                   "width": "{igreen.border-width.thin}",
                   "style": "solid"
                 }
@@ -90,7 +90,7 @@
               "enabled": {
                 "$type": "border",
                 "$value": {
-                  "color": "{igreen.border-color.secondary}",
+                  "color": "{igreen.border-color.secondary.default}",
                   "width": "{igreen.border-width.thin}",
                   "style": "solid"
                 }
@@ -100,7 +100,7 @@
               "enabled": {
                 "$type": "border",
                 "$value": {
-                  "color": "{igreen.border-color.warning}",
+                  "color": "{igreen.border-color.warning.default}",
                   "width": "{igreen.border-width.thin}",
                   "style": "solid"
                 }
@@ -120,24 +120,48 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.color.transparent}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.color.transparent}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.color.transparent}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.color.transparent}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.color.transparent}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.color.transparent}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.color.transparent}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.color.transparent}"
+                }
               }
             },
             "disabled": {
@@ -150,24 +174,48 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.primary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.primary.main.enabled.inverse}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.main.enabled.inverse}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.secondary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.secondary.main.enabled.inverse}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.warning.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.warning.enabled.inverse}"
+                }
               }
             },
             "disabled": {
@@ -179,25 +227,49 @@
             "primary": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.border-color.primary}"
+                "$value": "{igreen.border-color.primary.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.border-color.primary.inverse}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.border-color.moderate}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.border-color.inverse}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.border-color.secondary}"
+                "$value": "{igreen.border-color.secondary.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.border-color.secondary.inverse}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.border-color.warning}"
+                "$value": "{igreen.border-color.warning.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.border-color.warning.inverse}"
+                }
               }
             },
             "disabled": {
@@ -338,24 +410,48 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.bg.primary.transparent.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.primary.transparent.enabled.inverse}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.bg.surface.transparent.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.surface.transparent.enabled.inverse}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.bg.secondary.transparent.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.secondary.transparent.enabled.inverse}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.bg.warning.transparent.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.bg.warning.transparent.enabled.inverse}"
+                }
               }
             },
             "disabled": {
@@ -368,24 +464,48 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.primary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.primary.main.enabled.inverse}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.main.enabled.inverse}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.secondary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.secondary.main.enabled.inverse}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.warning.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.warning.enabled.inverse}"
+                }
               }
             },
             "disabled": {
@@ -430,24 +550,48 @@
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.primary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.primary.main.enabled.inverse}"
+                }
               }
             },
             "neutral": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.main.enabled.inverse}"
+                }
               }
             },
             "secondary": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.secondary.main.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.secondary.main.enabled.inverse}"
+                }
               }
             },
             "warning": {
               "enabled": {
                 "$type": "color",
                 "$value": "{igreen.fg.warning.enabled.default}"
+              },
+              "inverse": {
+                "enabled": {
+                  "$type": "color",
+                  "$value": "{igreen.fg.warning.enabled.inverse}"
+                }
               }
             },
             "disabled": {

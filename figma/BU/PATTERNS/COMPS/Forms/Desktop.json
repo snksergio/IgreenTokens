@@ -168,11 +168,11 @@
             },
             "success": {
               "$type": "color",
-              "$value": "{igreen.border-color.success}"
+              "$value": "{igreen.border-color.success.default}"
             },
             "error": {
               "$type": "color",
-              "$value": "{igreen.border-color.critical}"
+              "$value": "{igreen.border-color.critical.default}"
             },
             "disabled": {
               "$type": "color",
