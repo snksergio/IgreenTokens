@@ -33,6 +33,7 @@
     "COMPONENTS/MOBILE/TextInput/Core",
     "COMPONENTS/MOBILE/Picker/Core",
     "COMPONENTS/MOBILE/Switch/Core",
+    "COMPONENTS/MOBILE/Card/Core",
     "COMPONENTS/MOBILE/Illustration/Core"
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "igreen": {
+    "card": {
+      "base": {
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.padding.lg}"
+        },
+        "outline": {
+          "border-width": {
+            "$type": "borderWidth",
+            "$value": "{igreen.border-width.thin}"
+          },
+          "border-color": {
+            "$type": "color",
+            "$value": "{igreen.border-color.muted}"
+          }
+        },
+        "elevate": {
+          "$type": "number",
+          "$value": "1"
+        },
+        "box-shadow": {
+          "$type": "boxShadow",
+          "$value": "{igreen.shadow.moderate}"
+        },
+        "border-radius": {
+          "$type": "borderRadius",
+          "$value": "{igreen.radii.lg}"
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{igreen.bg.surface.main.enabled.default}"
+        }
+      },
+      "wrapper": {
+        "padding": {
+          "$type": "spacing",
+          "$value": "{igreen.padding.lg}"
+        },
+        "divider": {
+          "border-bottom-width": {
+            "$type": "borderWidth",
+            "$value": "{igreen.border-width.thin}"
+          },
+          "border-color": {
+            "$type": "color",
+            "$value": "{igreen.border-color.moderate}"
+          }
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{igreen.bg.surface.main.enabled.default}"
+        }
+      }
+    }
+  }
+}
