@@ -1,0 +1,104 @@
+{
+  "igreen": {
+    "chip": {
+      "base": {
+        "height": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "{igreen.form.base.height.sm}"
+          }
+        },
+        "horizontal-padding": {
+          "sm": {
+            "$type": "spacing",
+            "$value": "{igreen.padding.md}"
+          }
+        },
+        "bg": {
+          "neutral": {
+            "$type": "color",
+            "$value": "{igreen.bg.surface.moderate.enabled.default}"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "{igreen.bg.primary.main.enabled.default}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{igreen.bg.secondary.main.enabled.default}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.bg.critical.main.enabled.default}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.bg.info.main.enabled.default}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.bg.warning.main.enabled.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.bg.disabled.default}"
+          }
+        },
+        "fg": {
+          "neutral": {
+            "$type": "color",
+            "$value": "{igreen.fg.main.enabled.default}"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "critical": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "info": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "{igreen.color.white}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{igreen.fg.disabled.default}"
+          }
+        }
+      },
+      "typography": {
+        "size": {
+          "sm": {
+            "$type": "text",
+            "$value": "lg"
+          }
+        },
+        "font-weight": {
+          "sm": {
+            "$type": "fontWeights",
+            "$value": "{igreen.font-weight.medium}"
+          }
+        }
+      }
+    },
+    "chipGroup": {
+      "base": {
+        "gap": {
+          "sm": {
+            "$type": "spacing",
+            "$value": "{igreen.gap.sm}"
+          }
+        }
+      }
+    }
+  }
+}

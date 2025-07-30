@@ -28,6 +28,7 @@
     "COMPONENTS/GLOBALS/Link/Core",
     "COMPONENTS/GLOBALS/Alert/Core",
     "COMPONENTS/GLOBALS/Callout/Core",
+    "COMPONENTS/GLOBALS/Chip/Core",
     "COMPONENTS/GLOBALS/Icon/Core",
     "COMPONENTS/MOBILE/ActivityIndicator/Core",
     "COMPONENTS/MOBILE/TextInput/Core",
