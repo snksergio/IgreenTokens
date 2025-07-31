@@ -185,7 +185,7 @@
             "neutral": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.fg.main.enabled.default}"
+                "$value": "{igreen.fg.strong.enabled.default}"
               },
               "inverse": {
                 "enabled": {
@@ -359,7 +359,7 @@
             "neutral": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.fg.main.enabled.default}"
+                "$value": "{igreen.fg.strong.enabled.default}"
               },
               "inverse": {
                 "enabled": {
@@ -475,7 +475,7 @@
             "neutral": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.fg.main.enabled.default}"
+                "$value": "{igreen.fg.strong.enabled.default}"
               },
               "inverse": {
                 "enabled": {
@@ -561,7 +561,7 @@
             "neutral": {
               "enabled": {
                 "$type": "color",
-                "$value": "{igreen.fg.main.enabled.default}"
+                "$value": "{igreen.fg.strong.enabled.default}"
               },
               "inverse": {
                 "enabled": {
