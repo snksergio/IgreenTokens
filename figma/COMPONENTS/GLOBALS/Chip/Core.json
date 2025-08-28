@@ -73,6 +73,10 @@
             "$type": "color",
             "$value": "{igreen.fg.disabled.default}"
           }
+        },
+        "border-radius": {
+          "$type": "borderRadius",
+          "$value": "{igreen.radii.full}"
         }
       },
       "typography": {
