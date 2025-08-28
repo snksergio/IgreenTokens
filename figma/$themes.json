@@ -900,7 +900,6 @@
       "igreen.badge.ring.opacity.solid": "3c47bf8cd0219563104204e1ea4f1b6fa80a5f90",
       "igreen.badge.ring.padding": "d293303fd70ba53d9f6a5c7e949e7f3d3d71f0f2",
       "igreen.badge.border-radius": "c3eebe03969e51ed04914c6daa9b400c1ebe8ca3",
-      "igreen.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2",
       "igreen.iconButton.icon.size.xl": "ce9063dd311bb206f0e5547a4e1fd05bd330fcd5",
       "igreen.iconButton.icon.size.lg": "6c1da3df40bd8a7a22ef9317555c1ee6d825db39",
       "igreen.iconButton.icon.size.md": "8e4709f7a9dac4f1e412614fd7e151750ce2ccc6",
@@ -1197,7 +1196,8 @@
       "igreen.card.base.elevate": "2e8d85097cb375580362d9f82eeae13ced2864ef",
       "igreen.card.base.border-radius": "874c00cee2d0629b57a86268a6266fe3c485d696",
       "igreen.card.base.bg": "1867dbe94b72e20148915a70b2890578f3eac057",
-      "igreen.card.wrapper.bg": "cdcb964fe77947d36e644092775ed79ecdde7eba"
+      "igreen.card.wrapper.bg": "cdcb964fe77947d36e644092775ed79ecdde7eba",
+      "igreen.badge.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2"
     },
     "group": "Components"
   },
@@ -1432,7 +1432,6 @@
       "igreen.badge.ring.opacity.solid": "3c47bf8cd0219563104204e1ea4f1b6fa80a5f90",
       "igreen.badge.ring.padding": "d293303fd70ba53d9f6a5c7e949e7f3d3d71f0f2",
       "igreen.badge.border-radius": "c3eebe03969e51ed04914c6daa9b400c1ebe8ca3",
-      "igreen.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2",
       "igreen.iconButton.icon.size.xl": "ce9063dd311bb206f0e5547a4e1fd05bd330fcd5",
       "igreen.iconButton.icon.size.lg": "6c1da3df40bd8a7a22ef9317555c1ee6d825db39",
       "igreen.iconButton.icon.size.md": "8e4709f7a9dac4f1e412614fd7e151750ce2ccc6",
@@ -1741,7 +1740,8 @@
       "igreen.illustration.base.size.md": "396c181998951361bcf304a887eef1885499b3a2",
       "igreen.illustration.base.size.lg": "02694b19d9bc4e4429de0bf15f7daa147b06c7b3",
       "igreen.illustration.base.size.xl": "416939fbf15fb67383e1362202e4bcc8dd2a8d85",
-      "igreen.illustration.base.size.xl2": "71fdfe42e05ec8e210431d0445e24b9904e19262"
+      "igreen.illustration.base.size.xl2": "71fdfe42e05ec8e210431d0445e24b9904e19262",
+      "igreen.badge.ring.position.all": "fde8c88ad1dccbc3ae869f8dcabf2034d2bf4ad2"
     },
     "group": "Components"
   }
