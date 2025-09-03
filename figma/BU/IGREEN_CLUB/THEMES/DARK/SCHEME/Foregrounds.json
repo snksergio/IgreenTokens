@@ -71,6 +71,15 @@
         "primary": {
           "main": {
             "default": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "0.2",
+                    "space": "lch"
+                  }
+                }
+              },
               "$type": "color",
               "$value": "{igreen.scheme.primary}"
             },
@@ -126,17 +135,8 @@
             "$value": "{igreen.scheme.success}"
           },
           "inverse": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.7}",
-                  "space": "lch"
-                }
-              }
-            },
             "$type": "color",
-            "$value": "{igreen.scheme.success}"
+            "$value": "{igreen.scheme.success-contrast}"
           }
         },
         "warning": {
@@ -145,17 +145,8 @@
             "$value": "{igreen.scheme.warning}"
           },
           "inverse": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.7}",
-                  "space": "lch"
-                }
-              }
-            },
             "$type": "color",
-            "$value": "{igreen.scheme.warning}"
+            "$value": "{igreen.scheme.warning-contrast}"
           }
         },
         "critical": {
@@ -164,17 +155,8 @@
             "$value": "{igreen.scheme.critical}"
           },
           "inverse": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.7}",
-                  "space": "lch"
-                }
-              }
-            },
             "$type": "color",
-            "$value": "{igreen.scheme.critical}"
+            "$value": "{igreen.scheme.critical-contrast}"
           }
         },
         "info": {
@@ -183,17 +165,8 @@
             "$value": "{igreen.scheme.info}"
           },
           "inverse": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{igreen.scheme.mod-amount.7}",
-                  "space": "lch"
-                }
-              }
-            },
             "$type": "color",
-            "$value": "{igreen.scheme.info}"
+            "$value": "{igreen.scheme.info-contrast}"
           }
         },
         "disabled": {
@@ -222,7 +195,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "lighten",
-                    "value": "1",
+                    "value": "{igreen.scheme.mod-amount.10}",
                     "space": "lch"
                   }
                 }

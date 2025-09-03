@@ -66,33 +66,69 @@
         "$type": "color",
         "$value": "{igreen.scheme.neutral}"
       },
-      "primary": {
-        "$type": "color",
-        "$value": "{igreen.scheme.primary}"
-      },
-      "secondary": {
-        "$type": "color",
-        "$value": "{igreen.scheme.secondary}"
-      },
-      "critical": {
-        "$type": "color",
-        "$value": "{igreen.scheme.critical}"
-      },
-      "warning": {
-        "$type": "color",
-        "$value": "{igreen.scheme.warning}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{igreen.scheme.info}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{igreen.scheme.success}"
-      },
       "transparent": {
         "$type": "color",
         "$value": "transparent"
+      },
+      "primary": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.primary}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.primary-contrast}"
+        }
+      },
+      "secondary": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.secondary}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.secondary-contrast}"
+        }
+      },
+      "critical": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.critical}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.critical-contrast}"
+        }
+      },
+      "warning": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.warning}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.warning-contrast}"
+        }
+      },
+      "info": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.info}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.info-contrast}"
+        }
+      },
+      "success": {
+        "default": {
+          "$type": "color",
+          "$value": "{igreen.scheme.success}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{igreen.scheme.success-contrast}"
+        }
       }
     }
   }
