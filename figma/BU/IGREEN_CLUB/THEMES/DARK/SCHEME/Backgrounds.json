@@ -53,7 +53,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "darken",
-                    "value": "0.8",
+                    "value": "0.72",
                     "space": "lch"
                   }
                 }
@@ -65,8 +65,8 @@
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
-                    "type": "darken",
-                    "value": "0.67",
+                    "type": "lighten",
+                    "value": "0.9",
                     "space": "lch"
                   }
                 }
@@ -80,9 +80,9 @@
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
-                    "type": "lighten",
-                    "value": "{igreen.scheme.mod-amount.9}",
-                    "space": "lch"
+                    "type": "darken",
+                    "value": "0.6",
+                    "space": "hsl"
                   }
                 }
               },
