@@ -31,17 +31,47 @@
           }
         },
         "padding-horizontal": {
-          "sm": {
-            "$type": "spacing",
-            "$value": "{igreen.dimension.1_5}"
+          "filled": {
+            "sm": {
+              "$type": "spacing",
+              "$value": "{igreen.dimension.1_5}"
+            },
+            "md": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.xs}"
+            },
+            "lg": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.sm}"
+            }
           },
-          "md": {
-            "$type": "spacing",
-            "$value": "{igreen.padding.xs}"
+          "soft": {
+            "sm": {
+              "$type": "spacing",
+              "$value": "{igreen.dimension.1_5}"
+            },
+            "md": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.xs}"
+            },
+            "lg": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.sm}"
+            }
           },
-          "lg": {
-            "$type": "spacing",
-            "$value": "{igreen.padding.sm}"
+          "ghost": {
+            "sm": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.0}"
+            },
+            "md": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.0}"
+            },
+            "lg": {
+              "$type": "spacing",
+              "$value": "{igreen.padding.0}"
+            }
           }
         },
         "bg": {
@@ -155,6 +185,32 @@
           },
           "ghost": {
             "default": {
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.color.transparent}"
+              }
+            },
+            "inverse": {
               "default": {
                 "$type": "color",
                 "$value": "{igreen.color.transparent}"
@@ -344,12 +400,6 @@
                 "$value": "{igreen.fg.main.enabled.inverse}"
               }
             }
-          }
-        },
-        "ghost": {
-          "padding-horizontal": {
-            "$type": "spacing",
-            "$value": "{igreen.padding.0}"
           }
         },
         "border-radius": {
