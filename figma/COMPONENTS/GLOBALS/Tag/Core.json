@@ -44,11 +44,33 @@
             "$value": "{igreen.padding.sm}"
           }
         },
-        "filled": {
-          "bg": {
+        "bg": {
+          "filled": {
             "default": {
-              "$type": "color",
-              "$value": "{igreen.color.black}"
+              "default": {
+                "$type": "color",
+                "$value": "{igreen.color.black}"
+              },
+              "info": {
+                "$type": "color",
+                "$value": "{igreen.bg.info.main.enabled.default}"
+              },
+              "success": {
+                "$type": "color",
+                "$value": "{igreen.bg.success.main.enabled.default}"
+              },
+              "warning": {
+                "$type": "color",
+                "$value": "{igreen.bg.warning.main.enabled.default}"
+              },
+              "critical": {
+                "$type": "color",
+                "$value": "{igreen.bg.critical.main.enabled.default}"
+              },
+              "neutral": {
+                "$type": "color",
+                "$value": "{igreen.bg.surface.moderate.enabled.default}"
+              }
             },
             "inverse": {
               "default": {
@@ -75,28 +97,10 @@
                 "$type": "color",
                 "$value": "{igreen.bg.surface.main.enabled.inverse}"
               }
-            },
-            "info": {
-              "$type": "color",
-              "$value": "{igreen.bg.info.main.enabled.default}"
-            },
-            "success": {
-              "$type": "color",
-              "$value": "{igreen.bg.success.main.enabled.default}"
-            },
-            "warning": {
-              "$type": "color",
-              "$value": "{igreen.bg.warning.main.enabled.default}"
-            },
-            "critical": {
-              "$type": "color",
-              "$value": "{igreen.bg.critical.main.enabled.default}"
-            },
-            "neutral": {
-              "$type": "color",
-              "$value": "{igreen.bg.surface.moderate.enabled.default}"
             }
-          },
+          }
+        },
+        "filled": {
           "fg": {
             "default": {
               "$type": "color",
